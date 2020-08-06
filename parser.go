@@ -54,18 +54,23 @@ func License() string {
 
 // Parse returns parsed whois info
 func Parse(text string) (whoisInfo WhoisInfo, err error) {
+	if IsNotFound(text) {
+		err = ErrDomainNotFound
+		return
+	} else if IsPremiumDomain(text) {
+		err = ErrPremiumDomain
+		return
+	} else if IsDomainBlock(text) {
+		err = ErrBlockedDomain
+		return
+	} else if IsLimitExceeded(text) {
+		err = ErrDomainLimitExceed
+		return
+	}
+
 	name, extension := searchDomain(text)
 	if name == "" {
 		err = ErrDomainInvalidData
-		if IsNotFound(text) {
-			err = ErrDomainNotFound
-		} else if IsPremiumDomain(text) {
-			err = ErrPremiumDomain
-		} else if IsDomainBlock(text) {
-			err = ErrBlockedDomain
-		} else if IsLimitExceeded(text) {
-			err = ErrDomainLimitExceed
-		}
 		return
 	}
 

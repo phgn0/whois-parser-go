@@ -20,12 +20,21 @@
 package whoisparser
 
 import (
+	"fmt"
 	"sort"
 	"strings"
 )
 
 // IsNotFound returns domain is not found
 func IsNotFound(data string) bool {
+	ignoreSentences := []string{
+		"Domain names not found in this WHOIS database are not necessarily available for registration.",
+		"(i) a response from the Service indicating no match was found, does not guarantee",
+	}
+	for _, sentence := range ignoreSentences {
+		data = strings.Replace(data, sentence, "", 1)
+	}
+
 	notExistsKeys := []string{
 		"no found",
 		"no match",
@@ -35,9 +44,15 @@ func IsNotFound(data string) bool {
 		"no data found",
 		"not registered",
 		"not been registered",
-		"is free",
-		"not available for registration",
 		"object does not exist",
+		"no object found",
+		"domain name not known",
+		"is free",
+		"Domain w is available for purchase",
+		"status: free",
+		"status: available",
+		"status:                 available",
+		"query_status: 220 available",
 	}
 
 	data = strings.ToLower(data)
@@ -55,7 +70,7 @@ func IsPremiumDomain(data string) bool {
 	notExistsKeys := []string{
 		"reserved domain name",
 		"reserved by the registry",
-		"available for purchase",
+		"platinum domain",
 	}
 
 	data = strings.ToLower(data)
@@ -71,8 +86,10 @@ func IsPremiumDomain(data string) bool {
 // IsDomainBlock returns if the domain name is blocked due to a DPML brand name block
 func IsDomainBlock(data string) bool {
 	notExistsKeys := []string{
-		"The registration of this domain is restricted",
+		"the registration of this domain is restricted",
 		"dpml block",
+		"not available for registration",
+		"object cannot be registered",
 	}
 
 	data = strings.ToLower(data)
