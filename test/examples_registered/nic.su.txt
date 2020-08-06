@@ -1,0 +1,22 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        NIC.SU
+nserver:       ns3-fwl2.nic.ru.
+nserver:       ns4-fwl2.nic.ru.
+nserver:       ns8-fwl2.nic.ru.
+state:         REGISTERED, DELEGATED
+org:           JSC Regional Network Information Center
+phone:         +7 495 7370601
+fax:           +7 495 7370602
+e-mail:        ru-ncc@nic.ru
+registrar:     RUCENTER-SU
+created:       2001-09-29T20:00:00Z
+paid-till:     2021-09-30T21:00:00Z
+free-date:     2021-11-03
+source:        TCI
+
+Last updated on 2020-08-06T20:06:34Z
+

@@ -1,0 +1,19 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        XN--80AF5BZC.XN--P1AI
+nserver:       essitur.vtt.net.
+nserver:       ns.sgap.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Federal State Budgetary Educational Institution of Higher Education "Saratov State Law Academy"
+registrar:     RUCENTER-RF
+admin-contact: https://www.nic.ru/whois
+created:       2011-07-25T05:09:12Z
+paid-till:     2021-07-25T06:09:12Z
+free-date:     2021-08-25
+source:        TCI
+
+Last updated on 2020-08-06T21:16:30Z
+

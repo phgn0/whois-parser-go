@@ -1,0 +1,22 @@
+Domain Name: NIC.COM.AU
+Registry Domain ID: D407400000003789725-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL:
+Last Modified: 2020-07-13T20:38:02Z
+Registrar Name: DROP.com.au Pty Ltd
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller Name:
+Status: serverRenewProhibited https://afilias.com.au/get-au/whois-status-codes#serverRenewProhibited
+Registrant Contact ID: DS51051570528
+Registrant Contact Name: The Director
+Tech Contact ID: DS510515706476
+Tech Contact Name: The Director
+Name Server: NS1.FABULOUS.COM
+Name Server: NS2.FABULOUS.COM
+DNSSEC: unsigned
+Registrant: VPE Pty Ltd
+Registrant ID: ABN 95618027384
+Eligibility Type: Company
+
+>>> Last update of WHOIS database: 2020-08-06T20:38:49Z <<<

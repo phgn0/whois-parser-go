@@ -1,0 +1,82 @@
+Domain Name: nic.schmidt
+Registry Domain ID: D287701691910453F9257870919915B6E-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-08-03T06:41:08Z
+Creation Date: 2014-06-19T06:41:03Z
+Registry Expiry Date: 2021-06-19T06:41:03Z
+Registrar: schmidt
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: CFB950FF1D70C4F5DB7C324F55940F8A0-ARI
+Registrant Name: SALM S.A.S.
+Registrant Organization:
+Registrant Street:
+Registrant Street: 5 rue Clemenceau
+Registrant Street:
+Registrant City: LIEPVRE
+Registrant State/Province:
+Registrant Postal Code: 68660
+Registrant Country: fr
+Registrant Phone: +33.389582400
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: administrative-contact-schmidt@salm.fr
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email:
+Registry Tech ID: CFB950FF1D70C4F5DB7C324F55940F8A0-ARI
+Tech Name: SALM S.A.S.
+Tech Organization:
+Tech Street:
+Tech Street: 5 rue Clemenceau
+Tech Street:
+Tech City: LIEPVRE
+Tech State/Province:
+Tech Postal Code: 68660
+Tech Country: fr
+Tech Phone: +33.389582400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: administrative-contact-schmidt@salm.fr
+Name Server: a.nic.schmidt
+Name Server: c.nic.schmidt
+Name Server: b.nic.schmidt
+Name Server: d.nic.schmidt
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:16Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in Registrars' WHOIS database is provided by the Registry for information purposes only. By submitting a WHOIS query, you agree that you will use this data only for lawful purpose. In addition, you agree not to:
+(a) use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts; or
+(b) use the data to enable high volume, automated, electronic processes that send queries or data to the systems of the Registry Operator or any ICANN-Accredited Registrar, except as reasonably necessary to register domain names or modify existing registrations.
+(c) sell or redistribute the data except insofar as it has been incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the bulk data from the value-added product or service for use by other parties.
+
+The Registry reserves the right to modify these terms at any time.
+The Registry cannot guarantee the accuracy of the data provided.
+
+By accessing and using the Registry's WHOIS service, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

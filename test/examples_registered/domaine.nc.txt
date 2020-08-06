@@ -1,0 +1,19 @@
+OPT Whois v2.1.1
+
+Domain                   : domaine.nc
+Created on               : 2006-05-14T00:00:00.000Z
+Expires on               : 2021-05-14
+Last updated on          : 2019-03-24T14:11:32.000Z
+
+Domain server 1          : nsopt1.opt.nc
+Domain server 2          : nsopt2.opt.nc
+Domain server 3          : nsopt3.opt.nc
+
+Registrant name          : CCTLD (COUNTRY CODE TOP LEVEL DOMAIN)
+Registrant type          : PROFESSIONAL
+Registrant address 1     : 1 RUE MONCHOVET
+Registrant address 2     : 7 EME ETAGE
+Registrant address 3     : LE WARUNA 1
+Registrant address 4     : NEW CALEDONIA
+
+Registrar                : NONE

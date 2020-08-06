@@ -1,0 +1,27 @@
+Domain Name: nic.gl
+Registry Domain ID: 1827-GL
+Registry WHOIS Server:: whois.nic.gl
+Updated Date: 2019-10-15T12:50:09.906Z
+Creation Date: 2009-09-03T12:51:55.81Z
+Registry Expiry Date: 2021-09-03T12:51:55.68Z
+Registrar Registration Expiration Date: 2021-09-03T12:51:55.68Z
+Registrar: OSS Department
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Etpap-stKvw
+Registrant Name: OSS Department
+Registrant Organization: Tele Greenland A/S
+Registrant Street: P.O. Box 1002
+Registrant City: Nuuk
+Registrant Postal Code: 3900
+Registrant Country: GL
+Registrant Phone: +299.341255
+Registrant Fax: +299.325955
+Registrant Email: gl-admin@tele.gl
+Name Server: ns.cocca.fr
+Name Server: d.nic.gl
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2020-08-06T20:00:02.746Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+

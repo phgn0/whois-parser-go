@@ -1,0 +1,63 @@
+Domain Name: NIC.MN
+Registry Domain ID: D105800000000448314-AGRS
+Registrar WHOIS Server: whois.nic.mn
+Registrar URL: https://datacom.mn/
+Updated Date: 2019-04-26T05:42:46Z
+Creation Date: 2000-04-10T00:00:00Z
+Registry Expiry Date: 2026-12-31T00:00:00Z
+Registrar Registration Expiration Date:
+Registrar: Datacom Co., Ltd. - Domestic Channel
+Registrar IANA ID: 119
+Registrar Abuse Contact Email: abuse@datacom.mn
+Registrar Abuse Contact Phone: +976.11311411
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C25192231-AGRS
+Registrant Name: Datacom Co., Ltd
+Registrant Organization: CEO
+Registrant Street: IT Park, Suite 110
+Registrant City: Ulaanbaatar
+Registrant State/Province: Ulaanbaatar
+Registrant Postal Code: 11000
+Registrant Country: MN
+Registrant Phone: +976.327309
+Registrant Phone Ext:
+Registrant Fax: +976.320210
+Registrant Fax Ext:
+Registrant Email: ceo@datacom.mn
+Registry Admin ID: C25192231-AGRS
+Admin Name: Datacom Co., Ltd
+Admin Organization: CEO
+Admin Street: IT Park, Suite 110
+Admin City: Ulaanbaatar
+Admin State/Province: Ulaanbaatar
+Admin Postal Code: 11000
+Admin Country: MN
+Admin Phone: +976.327309
+Admin Phone Ext:
+Admin Fax: +976.320210
+Admin Fax Ext:
+Admin Email: ceo@datacom.mn
+Registry Tech ID: C25192231-AGRS
+Tech Name: Datacom Co., Ltd
+Tech Organization: CEO
+Tech Street: IT Park, Suite 110
+Tech City: Ulaanbaatar
+Tech State/Province: Ulaanbaatar
+Tech Postal Code: 11000
+Tech Country: MN
+Tech Phone: +976.327309
+Tech Phone Ext:
+Tech Fax: +976.320210
+Tech Fax Ext:
+Tech Email: ceo@datacom.mn
+Name Server: NS3.MAGIC.MN
+Name Server: NS1.MAGIC.MN
+DNSSEC: unsigned
+
+>>> Last update of WHOIS database: 2020-08-06T20:06:35Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

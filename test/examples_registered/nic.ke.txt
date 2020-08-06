@@ -1,0 +1,8 @@
+Domain Name: nic.ke
+Domain Status: Prohibited String - Object Cannot Be Registered
+Notes: This name is not allowed by the policy of this registry, and can not be registered
+>>> Last update of WHOIS database: 2020-08-06T20:07:33.722Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+

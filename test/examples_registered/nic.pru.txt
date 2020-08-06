@@ -1,0 +1,75 @@
+Domain Name: nic.pru
+Registry Domain ID: D511-PRU
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-15T23:26:38Z
+Creation Date: 2013-08-09T22:46:44Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Prudential Financial, Inc.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C2180-PRU
+Registrant Name: Prudential Financial, Inc.
+Registrant Organization: Prudential Financial, Inc.
+Registrant Street: 751 Broad Street
+Registrant Street:
+Registrant Street:
+Registrant City: Newark
+Registrant State/Province: New Jersey
+Registrant Postal Code: 7102
+Registrant Country: US
+Registrant Phone: +1.9738026000
+Registrant Phone Ext:
+Registrant Fax: +1.9738023600
+Registrant Fax Ext:
+Registrant Email: inet-admin@prudential.com
+Registry Admin ID: C510-PRU
+Admin Name: Neustar, Inc.
+Admin Organization:
+Admin Street: 21575 Ridgetop Cir
+Admin Street:
+Admin Street:
+Admin City: Sterling
+Admin State/Province: VA
+Admin Postal Code: 20166
+Admin Country: US
+Admin Phone: +1.5714345400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: support@neustar.biz
+Registry Tech ID: C510-PRU
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns4.dns.nic.pru
+Name Server: ns5.dns.nic.pru
+Name Server: ns3.dns.nic.pru
+Name Server: ns6.dns.nic.pru
+Name Server: ns2.dns.nic.pru
+Name Server: ns1.dns.nic.pru
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:04:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Prudential Financial, Inc., the Registry Operator for .PRU, has provided the data in the .PRU Whois database for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the Prudential Financial Inc.'s registry database. Prudential Financial, Inc. makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without Prudential Financial, Inc.'s prior written permission. Prudential Financial, Inc. reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+

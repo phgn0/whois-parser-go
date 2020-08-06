@@ -1,0 +1,89 @@
+Domain Name: nic.saxo
+Registry Domain ID: D623F6F0B36C943A39128AFD6767D138F-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-03-20T07:49:26Z
+Creation Date: 2015-02-04T07:49:21Z
+Registry Expiry Date: 2021-02-04T07:49:21Z
+Registrar: Saxo Bank A/S
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: CC6442FB9E6F44FBEA84D392D43EDE5EE-ARI
+Registrant Name: Domain Manager
+Registrant Organization: Saxo Bank A/S
+Registrant Street: Philip Heymans Alle 15
+Registrant Street:
+Registrant Street:
+Registrant City: Hellerup
+Registrant State/Province:
+Registrant Postal Code: 2300
+Registrant Country: dk
+Registrant Phone: +45.39774000
+Registrant Phone Ext:
+Registrant Fax: +45.39774000
+Registrant Fax Ext:
+Registrant Email: DomainRegistration@saxobank.com
+Registry Admin ID: CC6442FB9E6F44FBEA84D392D43EDE5EE-ARI
+Admin Name: Domain Manager
+Admin Organization: Saxo Bank A/S
+Admin Street: Philip Heymans Alle 15
+Admin Street:
+Admin Street:
+Admin City: Hellerup
+Admin State/Province:
+Admin Postal Code: 2300
+Admin Country: dk
+Admin Phone: +45.39774000
+Admin Phone Ext:
+Admin Fax: +45.39774000
+Admin Fax Ext:
+Admin Email: DomainRegistration@saxobank.com
+Registry Tech ID: CC6442FB9E6F44FBEA84D392D43EDE5EE-ARI
+Tech Name: Domain Manager
+Tech Organization: Saxo Bank A/S
+Tech Street: Philip Heymans Alle 15
+Tech Street:
+Tech Street:
+Tech City: Hellerup
+Tech State/Province:
+Tech Postal Code: 2300
+Tech Country: dk
+Tech Phone: +45.39774000
+Tech Phone Ext:
+Tech Fax: +45.39774000
+Tech Fax Ext:
+Tech Email: DomainRegistration@saxobank.com
+Name Server: c.nic.saxo
+Name Server: a.nic.saxo
+Name Server: b.nic.saxo
+Name Server: d.nic.saxo
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:05Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Service is provided so that you may look up certain information in relation to domain names that we store in our database.
+
+Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy.
+
+The information provided by this Service is 'as is' and we make no guarantee of it its accuracy.
+
+You agree that by your use of the Service you will not use the information provided by us in a way which is:
+* inconsistent with any applicable laws,
+* inconsistent with any policy issued by us,
+* to generate, distribute, or facilitate unsolicited mass email, promotions, advertisings or other solicitations, or
+* to enable high volume, automated, electronic processes that apply to the Service.
+
+You acknowledge that:
+* a response from the Service that a domain name is 'available', does not guarantee that is able to be registered,
+* we may restrict, suspend or terminate your access to the Service at any time, and
+* the copying, compilation, repackaging, dissemination or other use of the information provided by the Service is not permitted, without our express written consent.
+
+This information has been prepared and published in order to represent administrative and technical management of the TLD.
+
+We may discontinue or amend any part or the whole of these Terms of Service from time to time at our absolute discretion.

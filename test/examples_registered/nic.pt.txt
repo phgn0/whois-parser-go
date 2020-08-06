@@ -1,0 +1,21 @@
+Domain: nic.pt
+Domain Status: Registered
+Creation Date: 19/08/1999 00:00:00
+Expiration Date: 31/12/2020 23:59:00
+Owner Name: Associação DNS.PT
+Owner Address: Apartado 12050
+Owner Locality: Lisboa
+Owner ZipCode: 1061-001
+Owner Locality ZipCode: Lisboa
+Owner Country Code: PT
+Owner Email: secretariado@dns.pt
+Admin Name: Associação DNS.PT
+Admin Address: Apartado 12050
+Admin Locality: Lisboa
+Admin ZipCode: 1061-001
+Admin Locality ZipCode: Lisboa
+Admin Country Code: PT
+Admin Email: secretariado@dns.pt
+Name Server: dns02.dns.pt | IPv4: 185.39.209.4 and IPv6: 2a04:6d81::4
+Name Server: dns01.dns.pt | IPv4: 185.39.208.12 and IPv6: 2a04:6d80::12
+nic.pt IN DS 19998 7 2 0BDAE99454DD1B2B094AC2008192949B7AF5785E2F5D9F28E7CCF16486BEDDDC

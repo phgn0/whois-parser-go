@@ -1,0 +1,68 @@
+   Domain Name: NIC.CRS
+   Registry Domain ID: 109250031_DOMAIN_CRS-VRSN
+   Registrar WHOIS Server: www.verisigninc.com
+   Registrar URL: http://www.verisign.com
+   Updated Date: 2020-04-27T17:39:28Z
+   Creation Date: 2014-05-12T12:37:50Z
+   Registry Expiry Date: 2024-05-12T12:37:50Z
+   Registrar: Registry Operator Reserved Non-Billable
+   Registrar IANA ID: 9999
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: ok https://icann.org/epp#ok
+   Registry Registrant ID: 178184_CONTACT_CRS-VRSN
+   Registrant Name: Federated Co-Operatives Limited
+   Registrant Organization:
+   Registrant Street: 401 22nd Street East
+   Registrant City: Saskatoon
+   Registrant State/Province: SK
+   Registrant Postal Code: S7K 3M9
+   Registrant Country: CA
+   Registrant Phone: +1.3062443353
+   Registrant Email: f.farahani@fcl.ca
+   Registry Admin ID: 34391_CONTACT_CRS-VRSN
+   Admin Name: Verisign Customer Service
+   Admin Organization: Verisign, Inc.
+   Admin Street: 12061 Bluemont Way
+   Admin City: Reston
+   Admin Country: US
+   Admin Phone: +1.7039256999
+   Admin Email: info@verisign-grs.com
+   Registry Tech ID: 34391_CONTACT_CRS-VRSN
+   Tech Name: Verisign Customer Service
+   Tech Organization: Verisign, Inc.
+   Tech Street: 12061 Bluemont Way
+   Tech City: Reston
+   Tech Country: US
+   Tech Phone: +1.7039256999
+   Tech Email: info@verisign-grs.com
+   Name Server: AV1.NSTLD.COM
+   Name Server: AV2.NSTLD.COM
+   Name Server: AV3.NSTLD.COM
+   Name Server: AV4.NSTLD.COM
+   DNSSEC: unsigned
+   Registry Billing ID: 34391_CONTACT_CRS-VRSN
+   Billing Name: Verisign Customer Service
+   Billing Organization: Verisign, Inc.
+   Billing Street: 12061 Bluemont Way
+   Billing City: Reston
+   Billing Country: US
+   Billing Phone: +1.7039256999
+   Billing Email: info@verisign-grs.com
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:04:29Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The .CRS WHOIS service is provided for informational purposes only. The 
+information is provided 'as-is' and we make no representations or warranties 
+as to the accuracy of the information. By using the .CRS WHOIS service, you 
+waive any claims against the registry operator and its service providers which 
+in any way may arise out your use of the .CRS WHOIS services. 
+You may only use the .CRS WHOIS service to identify domain name holders and 
+obtain their contact information in order to contact them with respect to the 
+website. You may not use the .CRS WHOIS service for any other purpose, 
+including unauthorized collection or aggregation of WHOIS data, sending 
+unsolicited communications, and unlawful or abusive purposes.
+We may changes these terms at any time and without notice to you. By using 
+the .CRS WHOIS services, you accept these terms.

@@ -1,0 +1,137 @@
+   Domain Name: NIC.MED
+   Registry Domain ID: 114383752_DOMAIN_MED-VRSN
+   Registrar WHOIS Server: www.verisigninc.com
+   Registrar URL: http://www.verisign.com
+   Updated Date: 2020-04-27T17:19:22Z
+   Creation Date: 2015-08-25T22:47:55Z
+   Registry Expiry Date: 2025-08-25T22:47:55Z
+   Registrar: Registry Operator Reserved Non-Billable
+   Registrar IANA ID: 9999
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: ok https://icann.org/epp#ok
+   Registry Registrant ID: REDACTED FOR PRIVACY
+   Registrant Name: REDACTED FOR PRIVACY
+   Registrant Organization:
+   Registrant Street: REDACTED FOR PRIVACY
+   Registrant City: REDACTED FOR PRIVACY
+   Registrant State/Province: OH
+   Registrant Postal Code: REDACTED FOR PRIVACY
+   Registrant Country: US
+   Registrant Phone: REDACTED FOR PRIVACY
+   Registrant Phone Ext: REDACTED FOR PRIVACY
+   Registrant Fax: REDACTED FOR PRIVACY
+   Registrant Fax Ext: REDACTED FOR PRIVACY
+   Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Registry Admin ID: REDACTED FOR PRIVACY
+   Admin Name: REDACTED FOR PRIVACY
+   Admin Organization: REDACTED FOR PRIVACY
+   Admin Street: REDACTED FOR PRIVACY
+   Admin City: REDACTED FOR PRIVACY
+   Admin State/Province: REDACTED FOR PRIVACY
+   Admin Postal Code: REDACTED FOR PRIVACY
+   Admin Country: REDACTED FOR PRIVACY
+   Admin Phone: REDACTED FOR PRIVACY
+   Admin Phone Ext: REDACTED FOR PRIVACY
+   Admin Fax: REDACTED FOR PRIVACY
+   Admin Fax Ext: REDACTED FOR PRIVACY
+   Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Registry Tech ID: REDACTED FOR PRIVACY
+   Tech Name: REDACTED FOR PRIVACY
+   Tech Organization: REDACTED FOR PRIVACY
+   Tech Street: REDACTED FOR PRIVACY
+   Tech City: REDACTED FOR PRIVACY
+   Tech State/Province: REDACTED FOR PRIVACY
+   Tech Postal Code: REDACTED FOR PRIVACY
+   Tech Country: REDACTED FOR PRIVACY
+   Tech Phone: REDACTED FOR PRIVACY
+   Tech Phone Ext: REDACTED FOR PRIVACY
+   Tech Fax: REDACTED FOR PRIVACY
+   Tech Fax Ext: REDACTED FOR PRIVACY
+   Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Name Server: AV1.NSTLD.COM
+   Name Server: AV2.NSTLD.COM
+   Name Server: AV3.NSTLD.COM
+   Name Server: AV4.NSTLD.COM
+   DNSSEC: unsigned
+   Registry Billing ID: REDACTED FOR PRIVACY
+   Billing Name: REDACTED FOR PRIVACY
+   Billing Organization: REDACTED FOR PRIVACY
+   Billing Street: REDACTED FOR PRIVACY
+   Billing City: REDACTED FOR PRIVACY
+   Billing State/Province: REDACTED FOR PRIVACY
+   Billing Postal Code: REDACTED FOR PRIVACY
+   Billing Country: REDACTED FOR PRIVACY
+   Billing Phone: REDACTED FOR PRIVACY
+   Billing Phone Ext: REDACTED FOR PRIVACY
+   Billing Fax: REDACTED FOR PRIVACY
+   Billing Fax Ext: REDACTED FOR PRIVACY
+   Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:04:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+WHOIS Information and Legal Disclaimer
+ 
+WHOIS Search.
+You can locate certain records in the Registry database through a Whois 
+search. Whois can provide information, by example, about:
+1.	Domain Records - Find registrar name, Whois server, URL, 
+domain names, name servers and IP addresses 
+2.	Updated data contained in the records
+3.	Name Server Records - Find the name server name, IP addresses, 
+registrar name, Whois server name and URL
+4.	Registrar Records - Find postal address, phone number and 
+contact information of registrar and the registrar’s name
+
+Dissemination of Domain Registration Information.
+
+Registry provides Whois information through a standard text-based 
+network protocol on port 43. Whois information may also be viewed on 
+the registry’s website using a standard web interface. Both interfaces are 
+publicly available at no cost to the user and are reachable worldwide. 
+
+Domain name registration information is required for a variety of 
+purposes. This service is available to any Internet user, and its use does 
+not require prior authorization or permission. Access to Registry Whois 
+information is provided to assist in determining the contents of a domain 
+name registration record in the registry database. The data in this record 
+is provided for informational purposes only and users may voluntarily 
+query this database; Registry does not claim accuracy. This service is 
+intended only for query-based access. Registry reserves the right to 
+modify use terms at any time; by submitting a Whois query to the shared 
+registration system (SRS), users agree to abide by the [Whois Access 
+Policy].
+ 
+Rights and Restrictions of Users. 
+
+Users accessing the WHOIS service must agree to use the data only for 
+lawful purposes. Under no circumstances shall the use of the WHOIS 
+service be used to:
+ 
+1.	Allow, enable, or otherwise support the transmission by e-mail, 
+telephone, or facsimile of mass unsolicited, commercial advertising 
+or solicitations to entities other than the registrar’s own existing 
+customers
+2.	Enable high volume, automated, electronic processes that send 
+queries or data to the systems of Registry or any ICANN-accredited 
+registrar, except as reasonably necessary to register domain names 
+or modify existing registrations
+ 
+When Using the Registry Whois Service.
+
+1.	The Whois service is not a replacement for standard EPP 
+commands to the SRS service
+2.	Whois is not considered authoritative for registered domain 
+objects
+3.	The Whois service may be scheduled for downtime during 
+production or OT&E maintenance periods
+4.	Queries to the Whois services are throttled. If too many queries 
+are received from a single IP address within a specified time, the 
+service will begin to reject further queries for a period of time to 
+prevent disruption of Whois service access.
+
+Search for .Med Records.
+By submitting a Whois search, you agree to abide by the [Whois Access 
+Policy].

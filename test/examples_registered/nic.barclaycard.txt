@@ -1,0 +1,86 @@
+Domain Name: nic.barclaycard
+Registry Domain ID: D52B9D528DB9D4D53873239A42B8697C9-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-02-26T12:48:54Z
+Creation Date: 2015-01-12T12:48:49Z
+Registry Expiry Date: 2021-01-12T12:48:49Z
+Registrar: Barclays Bank PLC - BARCLAYCARD
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C260BAACCBBE64E7BA09876C9085FE971-ARI
+Registrant Name: Domain Administrator
+Registrant Organization: Barclays Bank PLC
+Registrant Street: 1 Churchill Place
+Registrant Street:
+Registrant Street:
+Registrant City: London
+Registrant State/Province:
+Registrant Postal Code: E145HP
+Registrant Country: gb
+Registrant Phone: +44.2071161000
+Registrant Phone Ext:
+Registrant Fax: +44.2071167663
+Registrant Fax Ext:
+Registrant Email: iplegal@barclays.com
+Registry Admin ID: C260BAACCBBE64E7BA09876C9085FE971-ARI
+Admin Name: Domain Administrator
+Admin Organization: Barclays Bank PLC
+Admin Street: 1 Churchill Place
+Admin Street:
+Admin Street:
+Admin City: London
+Admin State/Province:
+Admin Postal Code: E145HP
+Admin Country: gb
+Admin Phone: +44.2071161000
+Admin Phone Ext:
+Admin Fax: +44.2071167663
+Admin Fax Ext:
+Admin Email: iplegal@barclays.com
+Registry Tech ID: C260BAACCBBE64E7BA09876C9085FE971-ARI
+Tech Name: Domain Administrator
+Tech Organization: Barclays Bank PLC
+Tech Street: 1 Churchill Place
+Tech Street:
+Tech Street:
+Tech City: London
+Tech State/Province:
+Tech Postal Code: E145HP
+Tech Country: gb
+Tech Phone: +44.2071161000
+Tech Phone Ext:
+Tech Fax: +44.2071167663
+Tech Fax Ext:
+Tech Email: iplegal@barclays.com
+Name Server: b.nic.barclaycard
+Name Server: c.nic.barclaycard
+Name Server: a.nic.barclaycard
+Name Server: d.nic.barclaycard
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:08Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in Registrars' WHOIS database is provided by Registrar for information purposes only. By submitting a WHOIS query, you agree that you will use this data only for lawful purpose. 
+In addition, you agree not to:
+
+(a) use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to 
+    e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts; or
+(b) use the data to enable high volume, automated, electronic processes that send queries or data to the systems of any Registry Operator or ICANN-Accredited registrar, 
+    except as reasonably necessary to register domain names or modify existing registrations.
+(c) sell or redistribute the data except insofar as it has been incorporated into a value-added product or service that does not permit the extraction of a substantial portion 
+    of the bulk data from the value-added product or service for use by other parties.
+
+Registrar reserves the right to modify these terms at any time.
+Registrar cannot guarantee the accuracy of the data provided.
+By accessing and using Registrars WHOIS service, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

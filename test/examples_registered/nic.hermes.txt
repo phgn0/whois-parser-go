@@ -1,0 +1,65 @@
+Domain Name: NIC.HERMES
+Registry Domain ID: D3302149-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-05-28T22:21:10Z
+Creation Date: 2015-05-28T17:49:13Z
+Registry Expiry Date: 2021-05-28T17:49:13Z
+Registrar Registration Expiration Date:
+Registrar: NetNames Limited
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C21891971-AGRS
+Registrant Name: Domain Admin
+Registrant Organization: Hermes International
+Registrant Street: 24 Rue du Faubourg Saint-Honore
+Registrant City: Paris
+Registrant State/Province:
+Registrant Postal Code: 75008
+Registrant Country: FR
+Registrant Phone: +33.140174720
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: dns@hermes.com
+Registry Admin ID: C2036996-AGRS
+Admin Name: Premium Reserved Names
+Admin Organization: NetNames Limited
+Admin Street: 25 Canada Square
+Admin City: Canary Wharf
+Admin State/Province: London
+Admin Postal Code: E14 5LQ
+Admin Country: GB
+Admin Phone: +33.144737961
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Anne-Mette.Roed@netnames.com
+Registry Tech ID: C2036996-AGRS
+Tech Name: Premium Reserved Names
+Tech Organization: NetNames Limited
+Tech Street: 25 Canada Square
+Tech City: Canary Wharf
+Tech State/Province: London
+Tech Postal Code: E14 5LQ
+Tech Country: GB
+Tech Phone: +33.144737961
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Anne-Mette.Roed@netnames.com
+Name Server: A0.NIC.HERMES
+Name Server: A2.NIC.HERMES
+Name Server: B0.NIC.HERMES
+Name Server: C0.NIC.HERMES
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:15Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

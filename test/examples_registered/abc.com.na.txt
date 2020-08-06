@@ -1,0 +1,28 @@
+
+Domain Name: abc.com.na
+Registrar URL: 
+Updated Date: 2020-02-19T08:35:23.841Z
+Creation Date: 2020-02-19T08:34:36.343Z
+Registrar: Synapse Business Solutions (Pty) Ltd.
+Registrar Abuse Contact Email: info@synapse.com.na
+Registrar Country: NA
+Registrar Customer Service Contact: Jacques Serfontein
+Registrar Admin Email: info@synapse.com.na
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: qAhBg-QPvSM
+Registrant Name: ABC Pharmacy
+Registrant Street: P. O. Box 76
+Registrant City: Walvis Bay
+Registrant Country: NA
+Registrant Phone: Redacted | Registry Policy
+Registrant Email: abcpharmacyinfo AT gmail.com
+Registry Admin ID: hhCNj-aKTne
+Admin Name: Thomas J. Huber
+Admin Street: P. O. Box 76
+Admin City: Walvis Bay
+Admin Country: NA
+Admin Phone: Redacted | Registry Policy
+Admin Email: abcpharmacyinfo AT gmail.com
+Name Server: ns1.aidos.net
+Name Server: ns2.aidos.net
+>>> Last update of WHOIS database: 2020-08-06T20:27:46.568Z <<<

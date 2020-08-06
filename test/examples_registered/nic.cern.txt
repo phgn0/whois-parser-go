@@ -1,0 +1,67 @@
+Domain Name: NIC.CERN
+Registry Domain ID: D2989116-AGRS
+Registrar WHOIS Server:
+Registrar URL: http://www.cern.ch/
+Updated Date: 2019-10-01T22:20:25Z
+Creation Date: 2014-10-01T14:56:30Z
+Registry Expiry Date: 2020-10-01T14:56:30Z
+Registrar Registration Expiration Date:
+Registrar: European Organization for Nuclear Research ("CERN")
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: C1668174-AGRS
+Registrant Name: Registry Operator
+Registrant Organization: European Organization for Nuclear Research ("CERN")
+Registrant Street: Route de Meyrin
+Registrant City: Geneve
+Registrant State/Province:
+Registrant Postal Code: CH-1211
+Registrant Country: CH
+Registrant Phone: +41.227673559
+Registrant Phone Ext:
+Registrant Fax: +41.227679599
+Registrant Fax Ext:
+Registrant Email: cern.gtld@cern.ch
+Registry Admin ID: C1668174-AGRS
+Admin Name: Registry Operator
+Admin Organization: European Organization for Nuclear Research ("CERN")
+Admin Street: Route de Meyrin
+Admin City: Geneve
+Admin State/Province:
+Admin Postal Code: CH-1211
+Admin Country: CH
+Admin Phone: +41.227673559
+Admin Phone Ext:
+Admin Fax: +41.227679599
+Admin Fax Ext:
+Admin Email: cern.gtld@cern.ch
+Registry Tech ID: C1668174-AGRS
+Tech Name: Registry Operator
+Tech Organization: European Organization for Nuclear Research ("CERN")
+Tech Street: Route de Meyrin
+Tech City: Geneve
+Tech State/Province:
+Tech Postal Code: CH-1211
+Tech Country: CH
+Tech Phone: +41.227673559
+Tech Phone Ext:
+Tech Fax: +41.227679599
+Tech Fax Ext:
+Tech Email: cern.gtld@cern.ch
+Name Server: A0.NIC.CERN
+Name Server: A2.NIC.CERN
+Name Server: B0.NIC.CERN
+Name Server: C0.NIC.CERN
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:04:09Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

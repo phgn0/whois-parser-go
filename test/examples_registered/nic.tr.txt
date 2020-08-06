@@ -1,0 +1,38 @@
+** Sponsoring Organisation:
+   Middle East Technical University
+   Department of Computer Engineering
+   Inonu Bulvari
+   Ankara 06531
+   Turkey
+
+** Administrative Contact:
+   Attila Ozgit
+   Middle East Technical University
+   Department of Computer Engineering
+   Inonu Bulvari
+   Ankara 06531
+   Turkey
+   Email  : attila.ozgit@nic.tr
+   Phone  : +90 312 210 7799
+   Fax    : +90 312 210 3333
+
+** Technical Contact:
+   Kursat Cagiltay
+   Middle East Technical University
+   Inonu Bulvari
+   Ankara 06531
+   Turkey
+   Email  : kursat@metu.edu.tr
+   Phone  : +90 312 210 3683
+   Fax    : +90 312 210 3333
+
+** Name Servers:
+   ns1.nic.tr	144.122.95.51	2001:a98:30:ad:0:0:0:11
+   ns2.nic.tr	144.122.95.52	2001:a98:30:ad:0:0:0:12
+   ns3.nic.tr	213.248.162.131
+   ns4.nic.tr	193.140.100.200
+   ns5.nic.tr	178.251.42.18
+   tr.cctld.authdns.ripe.net	193.0.9.120	2001:67c:e0:0:0:0:0:120
+
+** Additional Info:
+   Created on..............: 2003-May-26.

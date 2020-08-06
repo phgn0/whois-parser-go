@@ -1,0 +1,62 @@
+Domain Name: nic.xn--p1acf
+Internationalized Domain Name: nic.рус
+Registry Domain ID: 8-CoCCA
+Registrar WHOIS Server: whois.nic.xn--p1acf
+Registrar URL: 
+Updated Date: 2019-12-22T22:35:33.374Z
+Creation Date: 2014-10-02T20:45:48.439Z
+Registry Expiry Date: 2020-10-02T20:45:48.487Z
+Registrar Registration Expiration Date: 2020-10-02T20:45:48.487Z
+Registrar: RUSNAMES LIMITED
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: alexeisozonov@rusnames.ru
+Registrar Abuse Contact Phone: +7.9649772117
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 8XLqk-PF9nv
+Registrant Name: ALEXEI SOZONOV
+Registrant Organization: RUSNAMES LIMITED
+Registrant Street: 17 Moskowskoye shosse str, office 2103, Samara, Russia, 443013
+Registrant City: Samara
+Registrant Country: RU
+Registrant Phone: +7.9649772117
+Registrant Email: alexeisozonov@rusnames.ru
+Registry Admin ID: tDt6o-EEt7x
+Admin Name: ALEXEI SOZONOV
+Admin Organization: RUSNAMES LIMITED
+Admin Street: 17 Moskowskoye shosse str, office 2103, Samara, Russia, 443013
+Admin City: Samara
+Admin Country: RU
+Admin Phone: +7.9649772117
+Admin Email: alexeisozonov@rusnames.ru
+Registry Tech ID: 6CxdL-15gSP
+Tech Name: Garth Miller
+Tech Organization: CoCCA Registry Services (NZ) Limited (CoCCA)
+Tech Street: 11a Wynyard Street, Devonport
+Tech City: Auckland
+Tech Postal Code: 0624
+Tech Country: NZ
+Tech Phone: +64.94466370
+Tech Email: noc@cocca.org.nz
+Registry Billing ID: gVCkt-LHaCP
+Billing Name: ALEXEI SOZONOV
+Billing Organization: RUSNAMES LIMITED
+Billing Street: 17 Moskowskoye shosse str, office 2103, Samara, Russia, 443013
+Billing City: Samara
+Billing Country: RU
+Billing Phone: +7.9649772117
+Billing Email: alexeisozonov@rusnames.ru
+Name Server: a.ns.nic.xn--p1acf
+Name Server: b.ns.nic.xn--p1acf
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:00:13.645Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

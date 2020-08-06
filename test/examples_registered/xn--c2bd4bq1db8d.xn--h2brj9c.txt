@@ -1,0 +1,101 @@
+
+domain name: xn--c2bd4bq1db8d.xn--h2brj9c
+registry domain id: d414400000001702939-in
+registrar url: http://godil.in/
+updated date: 2020-07-29t17:12:19z
+creation date: 2016-08-29t06:37:37z
+registry expiry date: 2021-08-29t06:37:37z
+registrar: data ingenious global limited
+registrar iana id: 800033
+registrar abuse contact email:
+registrar abuse contact phone:
+domain status: clienttransferprohibited http://www.icann.org/epp#clienttransferprohibited
+registry registrant id:
+registrant name:
+registrant organization: data xgen technologies private limited
+registrant street:
+registrant street:
+registrant street:
+registrant city:
+registrant state/province: rajasthan
+registrant postal code:
+registrant country: in
+registrant phone:
+registrant phone ext:
+registrant fax:
+registrant fax ext:
+registrant email: please contact the registrar listed above
+registry admin id:
+admin name:
+admin organization:
+admin street:
+admin street:
+admin street:
+admin city:
+admin state/province:
+admin postal code:
+admin country:
+admin phone:
+admin phone ext:
+admin fax:
+admin fax ext:
+admin email: please contact the registrar listed above
+registry tech id:
+tech name:
+tech organization:
+tech street:
+tech street:
+tech street:
+tech city:
+tech state/province:
+tech postal code:
+tech country:
+tech phone:
+tech phone ext:
+tech fax:
+tech fax ext:
+tech email: please contact the registrar listed above
+Registry Registrant ID: 
+Registrant Name: Ajay Data
+Registrant Organization: Data Xgen Technologies Private Limited
+Registrant Street: Station Road Durgapura
+Registrant City: Jaipur
+Registrant State/Province: Rajasthan
+Registrant Postal Code: 302018
+Registrant Country: IN
+Registrant Phone: +91-1412554970
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: ajay@xgenplus.com
+Registry Admin ID: 
+Admin Name: Ajay Data
+Admin Organization: Data Xgen Technologies Private Limited
+Admin Street: Station Road Durgapura
+Admin City: Jaipur
+Admin State/Province: Rajasthan
+Admin Postal Code: 302018
+Admin Country: IN
+Admin Phone: +91-1412554970
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ajay@xgenplus.com
+Registry Tech ID: 
+Tech Name: Ajay Data
+Tech Organization: Data Xgen Technologies Private Limited
+Tech Street: Station Road Durgapura
+Tech City: Jaipur
+Tech State/Province: Rajasthan
+Tech Postal Code: 302018
+Tech Country: IN
+Tech Phone: +91-1412554970
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ajay@xgenplus.com
+name server: ns1.dildns.com
+name server: ns2.dildns.com
+dnssec: unsigned
+url of the icann whois inaccuracy complaint form: https://www.icann.org/wicf/
+>>> last update of whois database: 2020-08-06t21:09:23z <<<

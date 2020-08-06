@@ -1,0 +1,76 @@
+Whois Server Version 1.0
+Domain Name (PUNYCODE): xn--80aabi0bdut.xn--j1amh
+Domain name (UTF8): болгарка.укр
+
+Registry Domain ID: D00110599-ukr
+
+Updated Date: 21-Dec-2018 15:19:15 UTC
+Creation Date: 25-Feb-2015 10:43:04 UTC
+Expiration Date: 25-Feb-2021 10:43:04 UTC
+
+Registry Status: ok
+
+Registrar: ТОВ “Інтернет Інвест”
+Registrar URL: http://imena.ua
+Registrar ID: uaimena
+Registrar Abuse Contact Email: hostmaster@imena.ua
+Registrar Abuse Contact Phone: +380442010102
+
+Registry Registrant ID: privacy-protect
+Registrant Name (Organization): Internet Invest, Ltd. dba Imena.ua (Whois privacy protection service)
+Registrant Street: Gaidara, 50 st. (Gaidara, 50 st)
+Registrant City: Kyiv (Kyiv)
+Registrant Postal Code: 01033 (01033)
+Registrant Country: UA (UA)
+Registrant Phone: +380.442010102
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: support@imena.ua
+
+Registry Admin ID: privacy-protect
+Admin Name: Whois privacy protection service (Інформація про реєстранта не публікується Registrant information is not published)
+Admin Organization: Internet Invest, Ltd. dba Imena.ua (Whois privacy protection service)
+Admin Street: Gaidara, 50 st. (Gaidara, 50 st)
+Admin City: Kyiv (Kyiv)
+Admin Postal Code: 01033 (01033)
+Admin Country: UA (UA)
+Admin Phone: +380.442010102
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: support@imena.ua
+
+Registry Tech ID: privacy-protect
+Tech Name: Whois privacy protection service (Інформація про реєстранта не публікується Registrant information is not published)
+Tech Organization: Internet Invest, Ltd. dba Imena.ua (Whois privacy protection service)
+Tech Street: Gaidara, 50 st. (Gaidara, 50 st)
+Tech City: Kyiv (Kyiv)
+Tech Postal Code: 01033 (01033)
+Tech Country: UA (UA)
+Tech Phone: +380.442010102
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: support@imena.ua
+
+Registry Billing ID: privacy-protect
+Billing Name: Whois privacy protection service (Інформація про реєстранта не публікується Registrant information is not published)
+Billing Organization: Internet Invest, Ltd. dba Imena.ua (Whois privacy protection service)
+Billing Street: Gaidara, 50 st. (Gaidara, 50 st)
+Billing City: Kyiv (Kyiv)
+Billing Postal Code: 01033 (01033)
+Billing Country: UA (UA)
+Billing Phone: +380.442010102
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: support@imena.ua
+
+Domain servers in listed order:
+ns2.lubarskiy.com.ua
+ns1.lubarskiy.com.ua
+
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 06-Aug-2020 21:12:37 UTC <<<

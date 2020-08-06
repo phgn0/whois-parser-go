@@ -1,0 +1,53 @@
+Domain Name: nic.zm
+Registry Domain ID: 6490-zicta
+Registry WHOIS Server:: whois.nic.zm
+Updated Date: 2019-05-03T16:58:57.525Z
+Creation Date: 2013-04-01T06:45:45.469Z
+Registry Expiry Date: 2019-12-30T14:30:00.0Z
+Registrar Registration Expiration Date: 2019-12-30T14:30:00.0Z
+Registrar: ZICTA Reserved
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverRenewProhibited https://icann.org/epp#serverRenewProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Registry Registrant ID: AyDmO-78oXS
+Registrant Name: Manager - Numbering and Naming
+Registrant Organization: Zambia Information and Communications Technology Authority (ZICTA)
+Registrant Street: Stand 4909, Corner of Independence and United Nations Avenue
+Registrant City: Lusaka
+Registrant State/Province: Lusaka
+Registrant Postal Code: 10101
+Registrant Country: ZM
+Registrant Phone: +260.0211378219
+Registrant Email: cnalubamba@zicta.zm
+Registry Admin ID: pPQgf-n3OVE
+Admin Name: Manager - Numbering and Naming
+Admin Organization: Zambia Information and Communications Technology Authority (ZICTA)
+Admin Street: Stand 4909, Corner of Independence and United Nations Avenue
+Admin City: Lusaka
+Admin State/Province: Lusaka
+Admin Postal Code: 10101
+Admin Country: ZM
+Admin Phone: +260.0211378219
+Admin Email: cnalubamba@zicta.zm
+Registry Billing ID: Gn7O2-F6QRY
+Billing Name: Manager - Numbering and Naming
+Billing Organization: Zambia Information and Communications Technology Authority (ZICTA)
+Billing Street: Stand 4909, Corner of Independence and United Nations Avenue
+Billing City: Lusaka
+Billing State/Province: Lusaka
+Billing Postal Code: 10101
+Billing Country: ZM
+Billing Phone: +260.0211378219
+Billing Email: cnalubamba@zicta.zm
+Name Server: pch.nic.zm
+Name Server: cocca.nic.zm
+Name Server: gransy.nic.zm
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2020-08-06T15:46:55.904Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

@@ -1,0 +1,83 @@
+Your WHOIS search returns the information below:
+Domain Name: nic.xn--ngbc5azd
+Registry Domain ID: D2AB939D12F0A49A3A9CF0DBFEB69C5BB-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-24T01:01:40Z
+Creation Date: 2013-11-01T06:59:13Z
+Registry Expiry Date: 2023-11-01T06:59:13Z
+Registrar: dotShabaka
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization:
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country: ae
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: b.nic.xn--ngbc5azd
+Name Server: c.nic.xn--ngbc5azd
+Name Server: a.nic.xn--ngbc5azd
+Name Server: d.nic.xn--ngbc5azd
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:04:37Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.xn--ngbc5azd.
+
+WHOIS Terms of Service
+
+International Domain Registry Pty Ltd trading as dotShabaka Registry (we, us, or our), provides the WHOIS Service (the Service) so that a user (you, your) may look up certain information in relation to .xn--ngbc5azd domain names that we hold in our database. Your use of the Service is subject to our policies.
+
+The information provided by the Service, is for informational purposes only, is 'as is' and we make no guarantee of its accuracy.
+
+You agree that by your use of the Service you will not use the information provided by us in a way which is: (i) inconsistent with any applicable laws; (ii) inconsistent with any policy issued by us; (iii) to generate, distribute, or facilitate unsolicited mass email, promotions, advertisings or other solicitations; or (iv) to enable high volume, automated, electronic processes.
+
+You acknowledge that: (i) a response from the Service indicating no match was found, does not guarantee that it is able to be registered; (ii) we may restrict, suspend or terminate your access to the Service at any time; and (iii) the copying, compilation, repackaging, dissemination or other use of the information provided by the Service is not permitted, without our express written consent.
+
+We may discontinue or amend any part or the whole of these Terms of Service from time to time at our absolute discretion.

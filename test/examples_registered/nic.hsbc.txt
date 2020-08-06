@@ -1,0 +1,85 @@
+Domain Name: nic.hsbc
+Registry Domain ID: D412-HSBC
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-11T22:46:27Z
+Creation Date: 2013-08-09T22:09:32Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: HSBC Global Services (UK) Limited
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C1885-HSBC
+Registrant Name: HSBC Group Management Services Limited
+Registrant Organization: HSBC
+Registrant Street: 8 Canada Square
+Registrant Street:
+Registrant Street:
+Registrant City: London
+Registrant State/Province:
+Registrant Postal Code: E14 5HQ
+Registrant Country: GB
+Registrant Phone: +44.8455855555
+Registrant Phone Ext:
+Registrant Fax: +44.1142827445
+Registrant Fax Ext:
+Registrant Email: dns.hsbc@hsbc.com
+Registry Admin ID: C1884-HSBC
+Admin Name: The DNS Team Network Services
+Admin Organization: HSBC
+Admin Street: Griffin House, 41 Silver Street Head
+Admin Street:
+Admin Street:
+Admin City: Sheffield
+Admin State/Province:
+Admin Postal Code: S1 3GG
+Admin Country: GB
+Admin Phone: +44.8455855555
+Admin Phone Ext:
+Admin Fax: +44.1142827445
+Admin Fax Ext:
+Admin Email: dns.hsbc@hsbc.com
+Registry Tech ID: C411-HSBC
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns2.dns.nic.hsbc
+Name Server: ns5.dns.nic.hsbc
+Name Server: ns6.dns.nic.hsbc
+Name Server: ns4.dns.nic.hsbc
+Name Server: ns1.dns.nic.hsbc
+Name Server: ns3.dns.nic.hsbc
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:19Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in the .HSBC Whois database is provided to assist you in obtaining information about a domain name registration record.  HSBC makes this information available "as is", for information purposes only, and does not guarantee its accuracy. The .HSBC Whois database may be scheduled for downtime during production or operation, testing and evaluation maintenance periods.
+
+By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data:
+
+(1)	to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail , telephone,  fax or otherwise; 
+(2)	to target advertising in any possible way;
+(3)	to harass, annoy, interrupt, disrupt or cause nuisance to the Registrant or to interfere with the normal business operations of the Registrant;
+(4)	to collect or attempt to collect the majority or entirety of the Whois database contents;
+(5)	in contravention of any applicable legislation  or regulations including any data and/or privacy protection legislation or regulations anywhere in the world; or
+(6)	to enable high volume, automated, electronic processes that send queries or data to the .HSBC registry, Registrants, or the systems of any Registrar.  The compilation, repackaging, dissemination or other use of this data is expressly prohibited without the prior written consent of HSBC.  You agree not to use electronic processes that are automated and high-volume to access or query the WHOIS database except as reasonably necessary to register domain names or modify existing domain name registrations.  
+
+HSBC reserves the right to modify these terms at any time. By submitting this query, you agree to abide by these terms. HSBC reserves the right to restrict or terminate your access to this WHOIS database if you fail to abide by these terms.  
+
+Note the .HSBC database contains ONLY .HSBC domains and Registrars.  Failure to locate a record in the WHOIS database is not indicative of the unavailability of a domain name.

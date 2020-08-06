@@ -1,0 +1,105 @@
+   Domain Name: NIC.BEAUTY
+   Registry Domain ID: 120468280_DOMAIN_BEAUTY-VRSN
+   Registrar WHOIS Server: www.verisigninc.com
+   Registrar URL: http://www.verisign.com
+   Updated Date: 2020-04-21T18:17:31Z
+   Creation Date: 2016-02-16T21:59:33Z
+   Registry Expiry Date: 2026-02-16T21:59:33Z
+   Registrar: Registry Operator Reserved Non-Billable
+   Registrar IANA ID: 9999
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: ok https://icann.org/epp#ok
+   Registry Registrant ID: REDACTED FOR PRIVACY
+   Registrant Name: REDACTED FOR PRIVACY
+   Registrant Organization:
+   Registrant Street: REDACTED FOR PRIVACY
+   Registrant City: REDACTED FOR PRIVACY
+   Registrant Postal Code: REDACTED FOR PRIVACY
+   Registrant Country: FR
+   Registrant Phone: REDACTED FOR PRIVACY
+   Registrant Phone Ext: REDACTED FOR PRIVACY
+   Registrant Fax: REDACTED FOR PRIVACY
+   Registrant Fax Ext: REDACTED FOR PRIVACY
+   Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Registry Admin ID: REDACTED FOR PRIVACY
+   Admin Name: REDACTED FOR PRIVACY
+   Admin Organization: REDACTED FOR PRIVACY
+   Admin Street: REDACTED FOR PRIVACY
+   Admin City: REDACTED FOR PRIVACY
+   Admin State/Province: REDACTED FOR PRIVACY
+   Admin Postal Code: REDACTED FOR PRIVACY
+   Admin Country: REDACTED FOR PRIVACY
+   Admin Phone: REDACTED FOR PRIVACY
+   Admin Phone Ext: REDACTED FOR PRIVACY
+   Admin Fax: REDACTED FOR PRIVACY
+   Admin Fax Ext: REDACTED FOR PRIVACY
+   Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Registry Tech ID: REDACTED FOR PRIVACY
+   Tech Name: REDACTED FOR PRIVACY
+   Tech Organization: REDACTED FOR PRIVACY
+   Tech Street: REDACTED FOR PRIVACY
+   Tech City: REDACTED FOR PRIVACY
+   Tech State/Province: REDACTED FOR PRIVACY
+   Tech Postal Code: REDACTED FOR PRIVACY
+   Tech Country: REDACTED FOR PRIVACY
+   Tech Phone: REDACTED FOR PRIVACY
+   Tech Phone Ext: REDACTED FOR PRIVACY
+   Tech Fax: REDACTED FOR PRIVACY
+   Tech Fax Ext: REDACTED FOR PRIVACY
+   Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Name Server: AV1.NSTLD.COM
+   Name Server: AV2.NSTLD.COM
+   Name Server: AV3.NSTLD.COM
+   Name Server: AV4.NSTLD.COM
+   DNSSEC: unsigned
+   Registry Billing ID: REDACTED FOR PRIVACY
+   Billing Name: REDACTED FOR PRIVACY
+   Billing Organization: REDACTED FOR PRIVACY
+   Billing Street: REDACTED FOR PRIVACY
+   Billing City: REDACTED FOR PRIVACY
+   Billing State/Province: REDACTED FOR PRIVACY
+   Billing Postal Code: REDACTED FOR PRIVACY
+   Billing Country: REDACTED FOR PRIVACY
+   Billing Phone: REDACTED FOR PRIVACY
+   Billing Phone Ext: REDACTED FOR PRIVACY
+   Billing Fax: REDACTED FOR PRIVACY
+   Billing Fax Ext: REDACTED FOR PRIVACY
+   Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:07:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data provided by Loreal (“Registry Operator”) in the WHOIS 
+database for .beauty is for informational purposes only and is 
+designed to assist persons in obtaining information related to the 
+registration records of existing domain names. Registry Operator 
+does not guarantee the accuracy of the information in the WHOIS 
+database and cannot, under any circumstances, be held liable in such 
+instances where the stored information would prove to be wrong, 
+incomplete, or not accurate in any sense.
+By submitting a WHOIS query, you agree that you will not use this 
+data: (i) to allow, enable or otherwise support in any way the 
+transmission of unsolicited, commercial advertising or other 
+solicitations whether via direct mail, email, telephone or otherwise; 
+(ii) to enable high volume, automated, electronic processes that 
+apply to the registry (or its systems); (iii) for commercial or targeted 
+advertising in any possible way; (iv) to cause nuisance in any possible 
+way to the registrants by sending (whether by automated, electronic 
+processes capable of enabling high volumes or other possible means) 
+messages to them; (v) to violate any law, rule, regulation or statute; 
+and/or (vi) in contravention of any applicable data and privacy 
+protection acts. The compilation, repackaging, dissemination or 
+other use of this Data is expressly prohibited without the prior 
+written consent of Registry Operator.
+Registry Operator reserves the right to restrict your access to the 
+WHOIS database in its sole discretion to ensure operational stability. 
+By utilizing this website and/or submitting a query you agree to 
+abide by this policy and accept that Registry Operator can take 
+measures to limit the use of its WHOIS services in order to protect 
+the privacy of its registrants or the integrity of the database. Registry 
+Operator reserves the right to make changes to this website, the 
+service(s) and these Terms of Use at any time without prior notice to 
+you. By executing a query, in any manner whatsoever, you agree to 
+abide by these Terms of Use.

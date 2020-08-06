@@ -1,0 +1,71 @@
+Domain Name: nic.sohu
+Registry Domain ID: D20140328G10001G_08728627-sohu
+Registrar WHOIS Server: 202.173.11.141
+Registrar URL: http://www.knet.cn
+Updated Date: 2018-03-28T09:54:52Z
+Creation Date: 2014-03-28T10:41:37Z
+Registry Expiry Date: 2021-03-28T10:41:37Z
+Registrar: knet
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: tech-supprot@zdns.cn
+Registrar Abuse Contact Phone: +86.01058813521
+Domain Status: ok https://icann.org/epp#OK
+Registry Registrant ID: C20170614C_18559294-sohu
+Registrant Name: 王会贞
+Registrant Organization: 北京搜狐新媒体信息技术有限公司
+Registrant Street:  北京市海淀区科学院南路2号院3号楼搜狐媒体大厦9层
+Registrant City: 北京
+Registrant State/Province: 北京
+Registrant Postal Code: 100080
+Registrant Country: CN
+Registrant Phone: +86.56602146
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: dnsadmin@sohu-inc.com
+Registry Admin ID: C20140328C_00001599-sohu
+Admin Name: Yankai Zhang
+Admin Organization: Sohu-inc
+Admin Street:  SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road,Haidian District
+Admin City: Beijing
+Admin State/Province: Beijing
+Admin Postal Code: 100004
+Admin Country: CN
+Admin Phone: +86.01062728472
+Admin Phone Ext: 
+Admin Fax: +86.01058722727
+Admin Fax Ext: 
+Admin Email: zyk@sohu-inc.com
+Registry Tech ID: C20140328C_00001599-sohu
+Tech Name: Yankai Zhang
+Tech Organization: Sohu-inc
+Tech Street:  SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road,Haidian District
+Tech City: Beijing
+Tech State/Province: Beijing
+Tech Postal Code: 100004
+Tech Country: CN
+Tech Phone: +86.01062728472
+Tech Phone Ext: 
+Tech Fax: +86.01058722727
+Tech Fax Ext: 
+Tech Email: zyk@sohu-inc.com
+Name Server: ns11.sohu.com
+Name Server: ns12.sohu.com
+Name Server: ns13.sohu.com
+Name Server: ns14.sohu.com
+Name Server: ns15.sohu.com
+Name Server: ns16.sohu.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:00:17Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: whois

@@ -1,0 +1,20 @@
+
+Domain Name:                     متطوعين.امارات <xn--pgb0ag9bikp.xn--mgbaam7a8h>
+Registrar ID:                    Etisalat
+Registrar Name:                  Etisalat
+Status:                          ok
+
+Registrant Contact ID:           CX598262T
+Registrant Contact Name:         Ministry of Community Development
+Registrant Contact Email:        Visit whois.aeda.ae for Web based WhoIs
+Registrant Contact Organisation: Ministry of Community Development
+
+Tech Contact ID:                 CX598264T
+Tech Contact Name:               WALID AL ABBAS
+Tech Contact Email:              Visit whois.aeda.ae for Web based WhoIs
+Tech Contact Organisation:       Ministry of Community Development
+
+Name Server:                     dxbans2.ecompany.ae
+Name Server:                     auhans1.ecompany.ae
+Name Server:                     dxbans1.ecompany.ae
+Name Server:                     auhans2.ecompany.ae

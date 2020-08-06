@@ -1,0 +1,76 @@
+Domain Name: nic.hyatt
+Registry Domain ID: D412-HYATT
+Registrar WHOIS Server: whois.brandsight.com
+Registrar URL:
+Updated Date: 2019-07-11T22:51:08Z
+Creation Date: 2013-08-09T22:09:56Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Hyatt GTLD L.L.C.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C1883-HYATT
+Registrant Name: Hyatt Corporation
+Registrant Organization: Hyatt GTLD L.L.C.
+Registrant Street: 71 S. Wacker Drive
+Registrant Street:
+Registrant Street:
+Registrant City: Chicago
+Registrant State/Province: IL
+Registrant Postal Code: 60606
+Registrant Country: US
+Registrant Phone: +1.3127501234
+Registrant Phone Ext:
+Registrant Fax: +1.3127805284
+Registrant Fax Ext:
+Registrant Email: hyattgtld@brandsight.com
+Registry Admin ID: C411-HYATT
+Admin Name: Neustar, Inc.
+Admin Organization:
+Admin Street: 21575 Ridgetop Cir
+Admin Street:
+Admin Street:
+Admin City: Sterling
+Admin State/Province: VA
+Admin Postal Code: 20166
+Admin Country: US
+Admin Phone: +1.5714345400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: support@neustar.biz
+Registry Tech ID: C411-HYATT
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns5.dns.nic.hyatt
+Name Server: ns2.dns.nic.hyatt
+Name Server: ns3.dns.nic.hyatt
+Name Server: ns4.dns.nic.hyatt
+Name Server: ns6.dns.nic.hyatt
+Name Server: ns1.dns.nic.hyatt
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:13Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data provided by Hyatt GTLD L.L.C. ("Hyatt") in the WHOIS database for Hyatt's gTLD is for informational purposes only and is designed to assist persons in obtaining information related to the registration records of existing domain names. Hyatt does not guarantee the accuracy of the information in the WHOIS database and cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense.
+
+By submitting a WHOIS query, you agree that you will not use this data: (i) to allow, enable or otherwise support in any way the transmission of unsolicited, commercial advertising or other solicitations whether via direct mail, email, telephone or otherwise; (ii) to enable high volume, automated, electronic processes that apply to the registry (or its systems); (iii) for commercial or targeted advertising in any possible way; (iv) to cause nuisance in any possible way to the registrants by sending (whether by automated, electronic processes capable of enabling high volumes or other possible means) messages to them; (v) to violate any law, rule, regulation or statute; and/or (vi) in contravention of any applicable data and privacy protection acts. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited without the prior written consent of Hyatt.
+
+Hyatt reserves the right to restrict your access to the WHOIS database in its sole discretion to ensure operational stability. By utilizing this website and/or submitting a query, you agree to abide by this policy and accept that Hyatt can take measures to limit the use of its WHOIS services in order to protect the privacy of its registrants or the integrity of the database. Hyatt reserves the right to make changes to this website, the service(s) and these Terms of Use at any time without prior notice to you. By executing a query, in any manner whatsoever, you agree to abide by these Terms of Use.

@@ -1,0 +1,46 @@
+
+----------------------------------------------------------------------  
+ SGNIC WHOIS Server
+---------------------------------------------------------------------- 
+
+The following data is provided for information purposes only.
+
+Registrar:   SINGAPORE NETWORK INFORMATION CENTRE PTE LTD
+
+    Domain Name:		NIC.SG 
+    Creation Date:		18-Jan-2005 14:37:37
+    Modified Date:		09-Jan-2019 16:04:56
+    Expiration Date:		18-Jan-2021 14:37:37
+    Domain Status:		OK
+    Domain Status:		VerifiedID@SG-Not Required
+
+
+    Registrant:
+
+        Name:           SINGAPORE NETWORK INFORMATION CENTRE (SGNIC) PRIVATE LIMITED (SGNIC-ORGSI134835)        
+        
+
+
+    Administrative Contact:
+          
+        Name:           SINGAPORE NETWORK INFORMATION CENTRE (SGNIC) PRIVATE LIMITED (SGNIC-ORGSI134835)        
+        
+
+
+    Technical Contact:
+        
+        Name:           SINGAPORE NETWORK INFORMATION CENTRE (SGNIC) PRIVATE LIMITED (SGNIC-ORGSI134835)        
+        Email:          dna@sgnic.sg
+        
+
+
+    Name Servers:
+        DSANY.SGNIC.SG  (120.29.253.11, 2001:dcd:7::11)
+        PS.SGNIC.SG  (123.100.252.180)
+
+
+
+    DNSSEC:
+        unsigned	
+
+

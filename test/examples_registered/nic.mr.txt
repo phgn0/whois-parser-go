@@ -1,0 +1,60 @@
+Domain Name: nic.mr
+Registry Domain ID: 13NIC-Mauritanie
+Registry WHOIS Server:: whois.nic.mr
+Updated Date: 2018-05-23T12:19:01.369Z
+Creation Date: 2017-08-10T00:00:00.0Z
+Registry Expiry Date: 2023-12-31T00:00:00.0Z
+Registrar Registration Expiration Date: 2023-12-31T00:00:00.0Z
+Registrar: NIC-Mauritanie
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 7BIcv-rB4PV
+Registrant Name: NIC-Mauritanie
+Registrant Organization: NIC-Mauritanie
+Registrant Street: Avenue du Roi Faissal Ben Abdel Aziz
+Registrant City: Nouakchott
+Registrant Postal Code: BP 4045
+Registrant Country: MR
+Registrant Phone: +45.254555
+Registrant Email: registryATnic.mr
+Registry Admin ID: d9ZmA-ujmVT
+Admin Name: NIC-Mauritanie
+Admin Organization: NIC-Mauritanie
+Admin Street: Avenue du Roi Faissal Ben Abdel Aziz
+Admin City: Nouakchott
+Admin Postal Code: BP 4045
+Admin Country: MR
+Admin Phone: +45.254555
+Admin Email: registryATnic.mr
+Registry Tech ID: bhiIf-7sG7V
+Tech Name: NIC-Mauritanie
+Tech Organization: NIC-Mauritanie
+Tech Street: Avenue du Roi Faissal Ben Abdel Aziz
+Tech City: Nouakchott
+Tech Postal Code: BP 4045
+Tech Country: MR
+Tech Phone: +45.254555
+Tech Email: registryATnic.mr
+Registry Billing ID: fr7bV-a36mR
+Billing Name: NIC-Mauritanie
+Billing Organization: NIC-Mauritanie
+Billing Street: Avenue du Roi Faissal Ben Abdel Aziz
+Billing City: Nouakchott
+Billing Postal Code: BP 4045
+Billing Country: MR
+Billing Phone: +45.254555
+Billing Email: registryATnic.mr
+Name Server: ns2.nic.mr
+Name Server: ns1.nic.mr
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T18:14:47.941Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TUTILISATION: Vous n'êtes pas autorisé à accéder ou interroger notre base de données WHOIS à l'aide de processus électroniques à volume élevé et automatisés. Cette base de données WHOIS est fournie par notre service à la communauté Internet.
+
+Les données sont à titre d'information seulement. Nous ne garantissons pas son exactitude.
+En soumettant une requête WHOIS, vous acceptez de respecter les conditions d'utilisation suivantes: 
+Vous convenez que vous ne pouvez utiliser ces données qu'à des fins licites et que vous n'utiliserez en aucun cas ces données pour: 
+(1)	autoriser, activer ou autrement soutenir la transmission de publicités ou de sollicitations massives non sollicitées par courrier électronique, par téléphone ou par télécopie; 
+ou (2) permettre des processus électroniques automatisés à haut volume. La compilation, le reconditionnement, la diffusion ou toute autre utilisation de ces données est expressément interdite.

@@ -1,0 +1,22 @@
+
+Domain Name: NIC.COM.MM
+Registry Domain ID: DO3388-MM
+Registrar WHOIS Server:
+Registrar URL: http://www.mtg.com.mm/
+Updated Date: 2019-10-02T05:13:16.0Z
+Creation Date: 2018-09-30T00:00:00.0Z
+Registry Expiry Date: 2020-09-30T23:59:59.0Z
+Registrar: Myanmar Technology Gateway
+Registrar IANA ID:
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Country: MM
+Registrant Email:
+Admin Email:
+Tech Email:
+Name Server: NS1.MTALK.NET.MM
+Name Server: NS2.MTALK.NET.MM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:44:37.0Z <<<

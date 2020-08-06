@@ -1,0 +1,69 @@
+Domain Name: NIC.ABBOTT
+Registry Domain ID: D3347409-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-07-02T22:21:13Z
+Creation Date: 2015-07-02T19:18:06Z
+Registry Expiry Date: 2021-07-02T19:18:06Z
+Registrar Registration Expiration Date:
+Registrar: Abbott Laboratories
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Registry Registrant ID: C2036995-AGRS
+Registrant Name: Premium Reserved Names
+Registrant Organization: Abbott Laboratories
+Registrant Street: 100 Abbott Park Road
+Registrant Street: Dept G397, AP6D-2
+Registrant City: Abbott Park
+Registrant State/Province: Illinois
+Registrant Postal Code: 60064
+Registrant Country: US
+Registrant Phone: +1.2246681158
+Registrant Phone Ext:
+Registrant Fax: +1.2246680793
+Registrant Fax Ext:
+Registrant Email: abbottregistry@fairwindspartners.com
+Registry Admin ID: C2036995-AGRS
+Admin Name: Premium Reserved Names
+Admin Organization: Abbott Laboratories
+Admin Street: 100 Abbott Park Road
+Admin Street: Dept G397, AP6D-2
+Admin City: Abbott Park
+Admin State/Province: Illinois
+Admin Postal Code: 60064
+Admin Country: US
+Admin Phone: +1.2246681158
+Admin Phone Ext:
+Admin Fax: +1.2246680793
+Admin Fax Ext:
+Admin Email: abbottregistry@fairwindspartners.com
+Registry Tech ID: C2036995-AGRS
+Tech Name: Premium Reserved Names
+Tech Organization: Abbott Laboratories
+Tech Street: 100 Abbott Park Road
+Tech Street: Dept G397, AP6D-2
+Tech City: Abbott Park
+Tech State/Province: Illinois
+Tech Postal Code: 60064
+Tech Country: US
+Tech Phone: +1.2246681158
+Tech Phone Ext:
+Tech Fax: +1.2246680793
+Tech Fax Ext:
+Tech Email: abbottregistry@fairwindspartners.com
+Name Server: A0.NIC.ABBOTT
+Name Server: A2.NIC.ABBOTT
+Name Server: B0.NIC.ABBOTT
+Name Server: C0.NIC.ABBOTT
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:03:50Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

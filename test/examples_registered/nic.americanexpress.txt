@@ -1,0 +1,95 @@
+Domain Name: nic.americanexpress
+Registry Domain ID: D1600-NEXPRESS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-10T00:42:54Z
+Creation Date: 2013-09-16T19:43:57Z
+Registry Expiry Date: 2024-09-15T23:59:59Z
+Registrar: American Express Travel Related Services, Inc.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C2774-NEXPRESS
+Registrant Name: American Express Travel Related Services, Inc
+Registrant Organization:
+Registrant Street: 200 Vesey Street
+Registrant Street:
+Registrant Street:
+Registrant City: New York
+Registrant State/Province: NY
+Registrant Postal Code: 10285
+Registrant Country: US
+Registrant Phone: +1.2126402000
+Registrant Phone Ext:
+Registrant Fax: +1.2126409212
+Registrant Fax Ext:
+Registrant Email: gTLD@aexp.com
+Registry Admin ID: C1599-NEXPRESS
+Admin Name: Neustar, Inc.
+Admin Organization:
+Admin Street: 21575 Ridgetop Cir
+Admin Street:
+Admin Street:
+Admin City: Sterling
+Admin State/Province: VA
+Admin Postal Code: 20166
+Admin Country: US
+Admin Phone: +1.5714345400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: support@neustar.biz
+Registry Tech ID: C1599-NEXPRESS
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns6.dns.nic.americanexpress
+Name Server: ns3.dns.nic.americanexpress
+Name Server: ns5.dns.nic.americanexpress
+Name Server: ns1.dns.nic.americanexpress
+Name Server: ns2.dns.nic.americanexpress
+Name Server: ns4.dns.nic.americanexpress
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:21Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+All use of this WHOIS search tool is subject to and governed by the last modified version of these Terms of Use.  By accessing or otherwise using this tool in any manner whatsoever you indicate your acknowledgment and agreement to these Terms of Use.  If you do not agree to these Terms of Use or any changes we may implement to them or this service, your sole and exclusive remedy is to discontinue your access and use of this service.
+
+What is this page?  This WHOIS search tool is a service offered by American Express Travel Related Services ("Amex"), the Registry Operator for the following top level domain name:  .AMERICANEXPRESS   You may use this WHOIS search tool to perform search queries upon available domain name registration records utilizing this Amex top level domain name.
+
+Disclaimers.  Please note: 
+All search results are based on information collected and provided to Amex by an ICANN-Accredited Registrar.  
+The results provided are strictly for informational purposes only and made available "as is" with no guarantee as to their accuracy.  
+Amex is not, under any circumstances, to be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense. 
+Failure to locate a record in the WHOIS database is not always determinative of that Domain Name's status/availability.
+
+Use Restrictions.  You may not use this tool or information obtained from its usage to: 
+violate any law, rule or regulation,
+violate the integrity of the WHOIS database or the search results it produces,
+contravene any applicable security, data or privacy protection laws or regulations, or
+support the transmission of unsolicited, commercial or targeted advertising or solicitations in any way (e.g. email, phone, direct mail).
+
+Additional Prohibitions.
+This tool is intended for individual person's lawful usage only.  
+Any robotic, automated or high-volume usage of the tool, particularly that may result in the tool's failure, misuse or any circumvention of these Terms of Use or American Express policy or practices, is strictly prohibited.
+Reproduction, compilation, repackaging, dissemination or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is expressly forbidden and not allowed without Amex's prior written permission.  
+
+Changes.  Amex may limit, suspend or terminate this service at any time for any reason without prior notice to you.  Amex also reserves the right to make changes to the site, service and/or these Terms of Use at any time without prior notice to you. It is your responsibility to review the last modified version of these Terms of Use each time you access or use this service to keep apprised of any changes. 
+
+Other Agreements.  All use of Amex's online services is also subject to its Privacy Statement and agree to be bound by Terms of Service. These Terms of Use do not in any way amend, supersede, change or replace Amex's Privacy Statement or Terms of Service.

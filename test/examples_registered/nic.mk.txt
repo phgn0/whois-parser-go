@@ -1,0 +1,47 @@
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+% Timestamp: Thu Aug 06 22:12:51 2020
+
+domain:       nic.mk
+registrant:   MKHOST-R2395
+admin-c:      MKHOST-C4
+nsset:        MKHOST-NS4513
+registrar:    MKHOST-REG
+registered:   07.05.2008 14:00:00
+changed:      04.12.2015 11:53:58
+expire:       07.05.2021
+
+contact:      MKHOST-R2395
+org:          Szonet-EU Domain Regisztrációs Iroda
+name:         Ferenc Junger
+address:      Kinizsi 22
+address:      Budapest
+address:      1092
+address:      HU
+phone:        +389.14266483
+e-mail:       info@szonet.net
+registrar:    MKHOST-REG
+created:      16.03.2014 15:20:38
+changed:      18.07.2014 02:44:44
+
+contact:      MKHOST-C4
+name:         Junger Ferenc
+address:      -
+address:      -
+address:      -
+address:      HU
+phone:        +36.14266483
+e-mail:       info@szonet.net
+registrar:    MKHOST-REG
+created:      16.03.2014 15:20:42
+
+nsset:        MKHOST-NS4513
+nserver:      ns4.com-domain.com 
+nserver:      ns3.com-domain.com 
+nserver:      ns0.com-domain.com 
+tech-c:       MKHOST-C4
+registrar:    MKHOST-REG
+created:      04.12.2015 11:53:55
+
+

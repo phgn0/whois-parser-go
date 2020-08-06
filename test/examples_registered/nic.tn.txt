@@ -1,0 +1,54 @@
+NIC Whois server for cTLDs : .tn , .تونس
+All right reserverd
+Copyright "Tunisian Internet Agency - http://whois.tn
+Supported ccTLDs : .tn , .تونس
+
+Domain name.........: nic.tn
+Details:
+Creation date.......: 14-07-2009 00:00:00 GMT+1
+Domain status.......: Active
+Registrar...........: FSI-ATI
+
+Owner Contact
+Name................: ATI
+First name..........: 
+Address.............: 13, Avenue Jughurta, Mutuelleville, 1002 Tunis Belvédère
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: (+216) 71 84 61 00
+Fax.................: (+216) 71 84 66 00
+Email...............: nic@ati.tn
+
+Administrativ contact
+Name................: ATI
+First name..........: 
+Address.............: 13, Avenue Jughurta, Mutuelleville, 1002 Tunis Belvédère
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: (+216) 71 84 61 00
+Fax.................: (+216) 71 84 66 00
+Email...............: nic@ati.tn
+
+Technical contact
+Name................: ATI
+First name..........: 
+Address.............: 13, Avenue Jughurta, Mutuelleville, 1002 Tunis Belvédère
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: (+216) 71 84 61 00
+Fax.................: (+216) 71 84 66 00
+Email...............: nic@ati.tn
+
+DNS servers
+Name................: ns4.ati.tn.
+Name................: ns6.ati.tn.
+

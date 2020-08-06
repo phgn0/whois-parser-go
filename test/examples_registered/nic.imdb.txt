@@ -1,0 +1,68 @@
+Domain Name: NIC.IMDB
+Registry Domain ID: D_2503420-IMDB
+Registrar WHOIS Server: 
+Registrar URL: http://www.nic.imdb
+Updated Date: 2019-08-09T21:10:37Z
+Creation Date: 2013-08-09T21:10:21Z
+Registry Expiry Date: 2020-08-09T21:10:21Z
+Registrar: Amazon Registry Services, Inc. (Registry)
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: contactamazonregistry@amazon.com
+Registrar Abuse Contact Phone: 1.2062661
+Domain Status: SERVER DELETE PROHIBITED https://icann.org/epp#serverDeleteProhibited
+Domain Status: SERVER TRANSFER PROHIBITED https://icann.org/epp#serverTransferProhibited
+Domain Status: SERVER UPDATE PROHIBITED https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: UNDISCLOSED
+Registrant Name: UNDISCLOSED
+Registrant Organization: Amazon Registry Services, Inc.
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant City: UNDISCLOSED
+Registrant State/Province: Washington
+Registrant Postal Code: UNDISCLOSED
+Registrant Country: US
+Registrant Phone: UNDISCLOSED
+Registrant Fax: UNDISCLOSED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: UNDISCLOSED
+Admin Name: UNDISCLOSED
+Admin Organization: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin City: UNDISCLOSED
+Admin State/Province: UNDISCLOSED
+Admin Postal Code: UNDISCLOSED
+Admin Country: UNDISCLOSED
+Admin Phone: UNDISCLOSED
+Admin Fax: UNDISCLOSED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: UNDISCLOSED
+Tech Name: UNDISCLOSED
+Tech Organization: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech City: UNDISCLOSED
+Tech State/Province: UNDISCLOSED
+Tech Postal Code: UNDISCLOSED
+Tech Country: UNDISCLOSED
+Tech Phone: UNDISCLOSED
+Tech Fax: UNDISCLOSED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.nic.imdb.
+Name Server: dns2.nic.imdb.
+Name Server: dns3.nic.imdb.
+Name Server: dns4.nic.imdb.
+Name Server: dnsa.nic.imdb.
+Name Server: dnsb.nic.imdb.
+Name Server: dnsc.nic.imdb.
+Name Server: dnsd.nic.imdb.
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:06:10Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Amazon Registry Services, Inc. ("Amazon"), the Registry Operator, offers this WHOIS service and provides access to the records in the WHOIS database for information purposes only, to assist you in obtaining information about the registration records of existing domain names. The stored information in the WHOIS database is provided "as is." We do not guarantee its accuracy or completeness, and cannot be held liable if the stored information in the WHOIS database is wrong, incomplete, or inaccurate in any way. By querying the WHOIS database in any way, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations in any form or by any means; (ii) to enable high volume, automated, electronic processes that query or send data to Amazon or any registrar; (iii) for target advertising; (iv) to cause nuisance to registrants by sending (by any means) messages to or contacting them; (v) to violate any law, rule, regulation or statute; and/or (vi) in violation of applicable data and privacy protection acts. You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the WHOIS database without prior and explicit permission from us. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the WHOIS service to protect the privacy of registrants or the integrity of the database. We reserve the right to make changes to this website, the WHOIS service, and these Terms and Conditions at any time without prior notice to you. You should review these Terms and Conditions each time you access or use the WHOIS database and the WHOIS service to learn of any changes. If you do not agree to the changes we have made, your only remedy is to stop your use of the WHOIS database and the WHOIS service. By executing a query, in any means whatsoever, you agree to these Terms and Conditions.

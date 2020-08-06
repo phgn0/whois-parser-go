@@ -1,0 +1,72 @@
+Domain Name: NIC.WALES
+Registry Domain ID: NIC-WALES
+Registrar WHOIS Server: 
+Registrar URL: http://www.nic.wales
+Updated Date: 2019-08-07T08:45:23Z
+Creation Date: 2014-08-07T08:44:38Z
+Registry Expiry Date: 2020-08-07T08:44:38Z
+Registrar: Nominet Internal Registrar
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: abuse@nominet.uk
+Registrar Abuse Contact Phone: 
+Domain Status: SERVER DELETE PROHIBITED https://icann.org/epp#serverDeleteProhibited
+Domain Status: SERVER TRANSFER PROHIBITED https://icann.org/epp#serverTransferProhibited
+Domain Status: SERVER UPDATE PROHIBITED https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: UNDISCLOSED
+Registrant Name: UNDISCLOSED
+Registrant Organization: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant City: UNDISCLOSED
+Registrant State/Province: Oxon
+Registrant Postal Code: UNDISCLOSED
+Registrant Country: GB
+Registrant Phone: UNDISCLOSED
+Registrant Fax: UNDISCLOSED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: UNDISCLOSED
+Admin Name: UNDISCLOSED
+Admin Organization: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin City: UNDISCLOSED
+Admin State/Province: UNDISCLOSED
+Admin Postal Code: UNDISCLOSED
+Admin Country: UNDISCLOSED
+Admin Phone: UNDISCLOSED
+Admin Fax: UNDISCLOSED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: UNDISCLOSED
+Tech Name: UNDISCLOSED
+Tech Organization: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech City: UNDISCLOSED
+Tech State/Province: UNDISCLOSED
+Tech Postal Code: UNDISCLOSED
+Tech Country: UNDISCLOSED
+Tech Phone: UNDISCLOSED
+Tech Fax: UNDISCLOSED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.nic.wales.
+Name Server: dns2.nic.wales.
+Name Server: dns3.nic.wales.
+Name Server: dns4.nic.wales.
+Name Server: dnsa.nic.wales.
+Name Server: dnsb.nic.wales.
+Name Server: dnsc.nic.wales.
+Name Server: dnsd.nic.wales.
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:02:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This WHOIS information is provided for free by Nominet UK, the central registry for .wales domain names. This information and the .wales WHOIS are:
+
+Copyright Nominet UK 2020.
+
+You may not access the .wales WHOIS or use any data from it except as permitted by the terms of use available in full at http://www.nominet.org.uk/whois, which includes restrictions on: (A) use of the data for advertising, or its repackaging, recompilation, redistribution or reuse (B) obscuring, removing or hiding any or all of this notice and (C) exceeding query rate or volume limits. The data is provided on an 'as-is' basis and may lag behind the register. No guarantee is given as to the accuracy of the data provided. Access may be withdrawn or restricted at any time.

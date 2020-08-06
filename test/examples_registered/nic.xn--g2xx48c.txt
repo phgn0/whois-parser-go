@@ -1,0 +1,73 @@
+Domain Name: nic.xn--g2xx48c
+Registry Domain ID: D214-G2XX48C
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-18T00:31:53Z
+Creation Date: 2013-08-10T00:38:39Z
+Registry Expiry Date: 2024-08-09T23:59:59Z
+Registrar: Minds + Machines Group Limited
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Minds + Machines
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: CA
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns2.dns.nic.xn--g2xx48c
+Name Server: ns5.dns.nic.xn--g2xx48c
+Name Server: ns4.dns.nic.xn--g2xx48c
+Name Server: ns6.dns.nic.xn--g2xx48c
+Name Server: ns1.dns.nic.xn--g2xx48c
+Name Server: ns3.dns.nic.xn--g2xx48c
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:04:25Z <<<
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.xn--g2xx48c.
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The whois information provided on this site is intended to provide you with the relevant contact information for a domain name registrant and the identity of certain administrative and technical contacts associated with that domain name. The data in this record is provided by Neustar, Inc. on behalf of Minds + Machines Group Limited (""the Company""), for informational purposes only. Accuracy is not guaranteed. The Company is the authoritative source for whois information in top-level domains it operates under contract with the Internet Corporation for Assigned Names and Numbers. This service is intended only for query-based access. Note that the lack of a whois record for a particular domain does not indicate that the name is available for registration. By using this service, you agree that you will use any data presented for lawful purposes only and that under no circumstances will you use (a) data acquired for the purpose of allowing, enabling, or otherwise supporting the transmission by email, telephone, facsimile, or other communications mechanisms mass unsolicited, commercial, advertising, or solicitations to entities other than your existing customers; or (b) this service to enable high volume, automated, electronic processes that send queries or data to the systems of any registrar or any registry except as reasonably necessary to register domain names or to modify existing domain name registrations. The Company reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy. All rights reserved. For more information on Whois status codes, please visit https://icann.org/epp

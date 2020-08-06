@@ -1,0 +1,7 @@
+Domain name: nic.md
+Status: registered
+Created: 1998-09-05
+Expiration date: 2029-09-29
+Nameserver: ns1.itsec.md
+Nameserver: ns2.itsec.md
+

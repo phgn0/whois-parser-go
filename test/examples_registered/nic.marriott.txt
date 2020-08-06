@@ -1,0 +1,65 @@
+Domain Name: NIC.MARRIOTT
+Registry Domain ID: D3255381-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-04-08T22:20:13Z
+Creation Date: 2015-04-08T14:55:49Z
+Registry Expiry Date: 2021-04-08T14:55:49Z
+Registrar Registration Expiration Date:
+Registrar: Marriott Worldwide Corporation
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C1978046-AGRS
+Registrant Name: Premium Reserved Names
+Registrant Organization: Marriott Worldwide Corporation
+Registrant Street: 10400 Fernwood Road
+Registrant City: Bethesda
+Registrant State/Province: Maryland
+Registrant Postal Code: 20817
+Registrant Country: US
+Registrant Phone: +1.3013803000
+Registrant Phone Ext:
+Registrant Fax: +1.3016448094
+Registrant Fax Ext:
+Registrant Email: bourne.mt@fairwindspartners.com
+Registry Admin ID: C1978046-AGRS
+Admin Name: Premium Reserved Names
+Admin Organization: Marriott Worldwide Corporation
+Admin Street: 10400 Fernwood Road
+Admin City: Bethesda
+Admin State/Province: Maryland
+Admin Postal Code: 20817
+Admin Country: US
+Admin Phone: +1.3013803000
+Admin Phone Ext:
+Admin Fax: +1.3016448094
+Admin Fax Ext:
+Admin Email: bourne.mt@fairwindspartners.com
+Registry Tech ID: C1978046-AGRS
+Tech Name: Premium Reserved Names
+Tech Organization: Marriott Worldwide Corporation
+Tech Street: 10400 Fernwood Road
+Tech City: Bethesda
+Tech State/Province: Maryland
+Tech Postal Code: 20817
+Tech Country: US
+Tech Phone: +1.3013803000
+Tech Phone Ext:
+Tech Fax: +1.3016448094
+Tech Fax Ext:
+Tech Email: bourne.mt@fairwindspartners.com
+Name Server: A0.NIC.MARRIOTT
+Name Server: A2.NIC.MARRIOTT
+Name Server: B0.NIC.MARRIOTT
+Name Server: C0.NIC.MARRIOTT
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:04:16Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

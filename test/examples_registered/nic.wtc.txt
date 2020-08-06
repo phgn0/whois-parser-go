@@ -1,0 +1,72 @@
+Domain Name: nic.wtc
+Registry Domain ID: D7F442B1E09504AD8B859EF2A3CC7AF30-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-19T05:10:13Z
+Creation Date: 2014-03-25T04:53:31Z
+Registry Expiry Date: 2024-03-25T04:53:31Z
+Registrar: World Trade Centers Association Inc.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: World Trade Centers Association, Inc.
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country: us
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: c.nic.wtc
+Name Server: b.nic.wtc
+Name Server: a.nic.wtc
+Name Server: d.nic.wtc
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:28Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.wtc.
+
+World Trade Centers Association, Inc. ("WTCA") provides the Data in WTCA's WHOIS database for information purposes only; its accuracy is not guaranteed. By submitting a WHOIS query, you agree to use this Data for lawful purposes only, and you are prohibited from using this Data to: allow, enable, or support transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or enable high volume, automated, electronic processes that apply to WTCA's systems. WTCA reserves the right to modify these terms. By submitting this query you agree to abide by this policy.

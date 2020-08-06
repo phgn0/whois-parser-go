@@ -1,0 +1,27 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+Domain:                  nic.ie
+Domain Holder:           Network International Cargo Ltd
+Admin-c:                 AST513-IEDR
+Tech-c:                  AAM456-IEDR
+Account Name:            Blacknight.ie
+Registrar Abuse Contact: abuse@blacknight.com
+Registration Date:       11-April-2001
+Renewal Date:            11-April-2021
+Holder-type:             Billable
+Locked status:           NO
+Renewal status:          Active
+In-zone:                 1
+Nserver:                 ns1.blacknight.com  
+Nserver:                 ns2.blacknight.com  
+Nserver:                 ns3.blacknight.com  
+Nserver:                 ns4.blacknight.com  
+
+
+% Important Notice
+% If you believe that information published on this page is incorrect, or should not be published, please contact your Registrar, or the IEDR Registration Services Department who will advise you further. 
+% You can also contact your Registrar or the IEDR if your domain holder name isn’t showing and you would like it to be published.
+% Our contact information is available at https://www.iedr.ie/contact-us/ 
+

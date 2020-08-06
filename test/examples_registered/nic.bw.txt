@@ -1,0 +1,50 @@
+Domain Name: nic.bw
+Registry Domain ID: 22713-bwnic
+Registry WHOIS Server:: whois.nic.net.bw
+Updated Date: 2020-06-03T00:22:05.320Z
+Creation Date: 2015-04-21T12:12:21.632Z
+Registry Expiry Date: 2021-04-20T00:00:00.0Z
+Registrar Registration Expiration Date: 2021-04-20T00:00:00.0Z
+Registrar: BTA
+Domain Status: serverHold https://icann.org/epp#serverHold
+Registry Registrant ID: uITba-SV7fl
+Registrant Name: BOCRA
+Registrant Organization: BOCRA
+Registrant Street: Independence Avenue
+Registrant City: Gaborone
+Registrant Country: BW
+Registrant Phone: +36.85410
+Registrant Email: matlapengATbocra.org.bw
+Registry Admin ID: hE1lS-4eYz7
+Admin Name: BOCRA
+Admin Organization: BOCRA
+Admin Street: Independence Avenue
+Admin City: Gaborone
+Admin Country: BW
+Admin Phone: +36.85410
+Admin Email: matlapengATbocra.org.bw
+Registry Tech ID: I5WBy-27mSf
+Tech Name: BOCRA
+Tech Organization: BOCRA
+Tech Street: Independence Avenue
+Tech City: Gaborone
+Tech Country: BW
+Tech Phone: +36.85410
+Tech Email: matlapengATbocra.org.bw
+Registry Billing ID: hYlSV-uijpa
+Billing Name: BOCRA
+Billing Organization: BOCRA
+Billing Street: Independence Avenue
+Billing City: Gaborone
+Billing Country: BW
+Billing Phone: +36.85410
+Billing Email: matlapengATbocra.org.bw
+Name Server: ns1.nic.bw
+DNSSEC: signedDelegation
+>>> Last update of WHOIS database: 2020-08-06T15:01:39.7Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are NOT authorized to access or query the Botswana ccTLD WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this WHOIS data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

@@ -1,0 +1,5 @@
+Domain ID: PANDI-DO328686
+Domain Name:nic.id
+Created On:2014-08-16 04:40:01
+Last Updated On:2019-08-17 00:05:34
+Status:RESERVED

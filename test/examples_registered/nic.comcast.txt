@@ -1,0 +1,71 @@
+Domain Name: NIC.COMCAST
+Registry Domain ID: NIC-COMCAST
+Registrar WHOIS Server: whois.nic.comcast
+Registrar URL: http://www.nic.comcast
+Updated Date: 2020-03-22T14:33:05Z
+Creation Date: 2016-03-22T14:32:17Z
+Registry Expiry Date: 2021-03-22T14:32:17Z
+Registrar: comcast Internal Registrar
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: abuse@nominet.uk
+Registrar Abuse Contact Phone: 
+Domain Status: CLIENT DELETE PROHIBITED https://icann.org/epp#clientDeleteProhibited
+Domain Status: CLIENT TRANSFER PROHIBITED https://icann.org/epp#clientTransferProhibited
+Domain Status: SERVER DELETE PROHIBITED https://icann.org/epp#serverDeleteProhibited
+Domain Status: SERVER TRANSFER PROHIBITED https://icann.org/epp#serverTransferProhibited
+Domain Status: SERVER UPDATE PROHIBITED https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: COMCAST_CONTACT-COMCAST
+Registrant Name: Registry Operator
+Registrant Organization: Comcast IP Holdings I, LLC
+Registrant Street: c/o Comcast Capital Corporation
+Registrant Street: 1201 North Market Street, Suite 100
+Registrant City: Wilmington
+Registrant State/Province: CA
+Registrant Postal Code: 19801
+Registrant Country: US
+Registrant Phone: +1.2152867813
+Registrant Fax: +44.1865332288
+Registrant Email: e28eefcc1cdd5b95c3b663@reg.csccorporatedomains.com
+Registry Admin ID: COMCAST_CONTACT-COMCAST
+Admin Name: Registry Operator
+Admin Organization: Comcast IP Holdings I, LLC
+Admin Street: c/o Comcast Capital Corporation
+Admin Street: 1201 North Market Street, Suite 100
+Admin City: Wilmington
+Admin State/Province: CA
+Admin Postal Code: 19801
+Admin Country: US
+Admin Phone: +1.2152867813
+Admin Fax: +44.1865332288
+Admin Email: e28eefcc1cdd5b95c3b663@reg.csccorporatedomains.com
+Registry Tech ID: COMCAST_CONTACT-COMCAST
+Tech Name: Registry Operator
+Tech Organization: Comcast IP Holdings I, LLC
+Tech Street: c/o Comcast Capital Corporation
+Tech Street: 1201 North Market Street, Suite 100
+Tech City: Wilmington
+Tech State/Province: CA
+Tech Postal Code: 19801
+Tech Country: US
+Tech Phone: +1.2152867813
+Tech Fax: +44.1865332288
+Tech Email: e28eefcc1cdd5b95c3b663@reg.csccorporatedomains.com
+Name Server: dnsa.nic.comcast.
+Name Server: dnsb.nic.comcast.
+Name Server: dnsc.nic.comcast.
+Name Server: dnsd.nic.comcast.
+Name Server: dns1.nic.comcast.
+Name Server: dns2.nic.comcast.
+Name Server: dns3.nic.comcast.
+Name Server: dns4.nic.comcast.
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:06:34Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This WHOIS information is provided for free by Nominet UK, the central registry for .comcast domain names. This information and the .comcast WHOIS are:
+
+Copyright Nominet UK 2020.
+
+You may not access the .comcast WHOIS or use any data from it except as permitted by the terms of use available in full at http://www.nominet.org.uk/whois, which includes restrictions on: (A) use of the data for advertising, or its repackaging, recompilation, redistribution or reuse (B) obscuring, removing or hiding any or all of this notice and (C) exceeding query rate or volume limits. The data is provided on an 'as-is' basis and may lag behind the register. No guarantee is given as to the accuracy of the data provided. Access may be withdrawn or restricted at any time.

@@ -1,0 +1,45 @@
+%  Servidor whois del Centro de Información de Red de Venezuela (NIC.VE)
+%  Este servidor contiene información autoritativa exclusivamente de dominios .ve
+% 
+% Whoisd Server Version: 3.12.1
+% Timestamp: Thu Aug 06 16:09:27 2020
+
+domain:       nic.ve
+registrant:   CON000031823
+admin-c:      CON000031823
+nsset:        DNS000114779
+keyset:       KEY000000001
+registrar:    NIC-VE
+registered:   08.08.2019 18:04:00
+changed:      11.03.2020 12:04:21
+expire:       31.12.2029
+
+contact:      CON000031823
+address:      Definir Dirección
+address:      Caracas
+address:      1012
+address:      VE
+registrar:    NIC-VE
+created:      04.08.2019 17:18:51
+
+nsset:        DNS000114779
+nserver:      ns3.nic.ve (190.9.129.56)
+nserver:      ns4.nic.ve (190.202.128.43)
+nserver:      ns5.nic.ve (45.175.22.88, 2801:18:8800:3:18ba:beff:fe61:d08b)
+nserver:      ns6.nic.ve (45.175.22.4, 2801:18:8800:1::4)
+tech-c:       CON000031823
+registrar:    NIC-VE
+created:      08.08.2019 18:03:59
+changed:      25.09.2019 08:52:41
+
+keyset:       KEY000000001
+dnskey:       257 3 7 AwEAAcDrdjhSuQ7J7ajdUvymv9/LAFAb+xhZjWyP8y8VEgCs5blNl13o35Exub6R/zXrw/PdrIrxL6rvTv7v6pJzBONVe2Ztn6Ak5f//6yVimcNlsBCKTD7FkA62/FGFM3xG9DvCPMVQxjJnbVJ5q7sXxGPasivalalloMXCkQ901ebH9OPk3ESjq5PSntWgjzgNdovtOSTAwdRtCkUHhIDq3rPeY+Qjimjzi27sT8HrSrlfvYoY53iHKiaPlFwHXrarvlTV/IKUZYRE1r/ERJY+oBy3o5kD1Js9nbfzr1bpYHESfehW/RZX9gormeaF8g3UvXzTsWdU6mIeR5nzMDz/03VwiUqUtdrMcBrG47ldFO4IppDRbgTLD//RENczHLIn3/fqMB0Du25oC7EgI1bNd2wnl1wsPHDLR/G+Y8C6dDMm4t7pF4VLZ7yPkyORSOIrUeH7J3BTYN6eSF63x12ZeE+Or8SwytvNWP65GzCtITaDdBf68j+rGW0mJZCLZgNQFK9NtBCdd4iMJdQq1TGEc3SFPifI4hvuDIeEGETuqRg13tM6fzggdKxZphiWohEXaNIwMHxCAfP5qLNPmW6/nh6tamrLut1PYA4KDIsbAxq6aJqqfT7FNXHaragAvvefua5EjLfnHWlmznAVO1zKBvLShG2Bow1VMs+Pk3ge6QX9
+dnskey:       256 3 7 AwEAAaL+DAKyNHeSDVmo0JrLhdvtBqz1dvDaIPZGfhOPqiaTV6JLkcYRKnsVCDCSn+IfM5sFQGz+lgTffvkHOAhOF5QLByaoc0AKhVYeqBq9khKtlz+uyag1GmWh4fHa5ksRxaJXgHf92XarmH7QfEuF2ALU8GbNTU1AUUUdwLdwVMI8QGSJinH2iX9hlHs8V9YWf1YJ74Ec48D2+Wxjed1Smch0alPpnwgWTrujIBbrAR0HvwGr8rt1ZpCMvrGIKMPn3RyIugTls3wgOS9BXa4+qM1AMZqfRzn1oDfvqoikQt1lKqCHYizQS2twVQV9wL1dX5wkiM3+IdHE16whnfHLdeM=
+dnskey:       256 3 8 AwEAAag9HO9dwxyJsofnkGYxlvBBskEvQeLLUKRhhyXJag70z0cGtxZI/Xb1KJQbWH4N97v8ivtJ1rUWDdPc/drUKjkbGWkhVT2gWy0nm75gdKd76l8dyYtHllpQJPhwIVCrGXC260OxcfUUtdQuCJ5VwRH3Icp9PmCt+PtWhiDA0um0bs3i0PATaZ5Bx3H1dHOcH3DCuHnGShSR/nYLhkOjxGan3LqPqLd7MSsS19ADLTeVgVqDSuZIBzjCK2hUd8eh1zrFeTAzXGgT6PwvpDcpKGN/hZUIwCE2FWQ45s8IcDxYPl2UYMFl54qTxMdg50cvvgnmkuBHJDDXShXICfnnbTM=
+dnskey:       257 3 8 AwEAAbuCLGdQJ9NyyenmIO/YZkSnaHUXU1pCsyiHnAw2++MUudifSrD0Cyhc/y3B6GJCeUafGwEkY4nhBsvGOx9f0mjBfVRHh+0M/wHqYvsfr1eLWF+AaoWehI0vHke+pNL7WSMQhNxeIGd7g6OWyoMUv3FbA77tqU1Xsnd4aYwFW3Kc1wRLfuKl0Pf5SloBhJtwwu0h8KBG08XfbHed+6BzR2fT7LPMhb9mLvyN9/YQi+yK77rv3f5+d5WbXRa9/rtrmzXDiJzBnXYwvzuYA6neGefBRJfj4QHgWX767joDMklOANkqdfdI7CCswqcLfocxErWjEFIv3q+IRWA6qD6Jt+HXyGbSgMnMC2BuCTnqGbvkR/icAxAeCAVfbVVz/OHtSZ71ICeCz+BmtTJanIG+6PAGyz2JrrlWnK2SVyMkEhPyPGJgYrTfvTPSn9Iu5R41kC4PyBlEtIHPStJymwlquPaLoI9ZPgSxTETy4hxK5JI912+vXsjIaeFeSHgRwcdpVDc99vsRoWM0Uol9v5g3ON0+0LLG3cQC09zpdN3+Qdt+jL7jBkKpPYExO7Lb3GPIXJXgmzozIa51u1aruD5h8BFy2wrbn6rufqMlQZWP7amgKbAo3YkR+3p7yt3e8GpKIWDJr/ONNRxIDuknJl2csZouyD45JjW4IVf7NL5OvygV
+tech-c:       CON000031823
+registrar:    NIC-VE
+created:      11.03.2020 11:48:43
+changed:      19.07.2020 15:13:53
+
+

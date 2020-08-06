@@ -1,0 +1,81 @@
+Domain Name: NIC.VIRGIN
+Registry Domain ID: D23CC70912E1B4074A4E7118AF983555D-ARI
+Registrar WHOIS Server: 
+Registrar URL: 
+Creation Date: 2015-02-17T02:22:46Z
+Registry Expiry Date: 2021-02-17T02:22:46Z
+Registrar: Virgin Enterprises Limited
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: abuse@nominet.uk
+Registrar Abuse Contact Phone: 44.1865332211
+Domain Status: SERVER DELETE PROHIBITED https://icann.org/epp#serverDeleteProhibited
+Domain Status: SERVER RENEW PROHIBITED https://icann.org/epp#serverRenewProhibited
+Domain Status: SERVER TRANSFER PROHIBITED https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: UNDISCLOSED
+Registrant Name: UNDISCLOSED
+Registrant Organization: Virgin Enterprises Limited
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant City: UNDISCLOSED
+Registrant Postal Code: UNDISCLOSED
+Registrant Country: GB
+Registrant Phone: UNDISCLOSED
+Registrant Fax: UNDISCLOSED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: UNDISCLOSED
+Admin Name: UNDISCLOSED
+Admin Organization: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin City: UNDISCLOSED
+Admin State/Province: UNDISCLOSED
+Admin Postal Code: UNDISCLOSED
+Admin Country: UNDISCLOSED
+Admin Phone: UNDISCLOSED
+Admin Fax: UNDISCLOSED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: UNDISCLOSED
+Tech Name: UNDISCLOSED
+Tech Organization: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech City: UNDISCLOSED
+Tech State/Province: UNDISCLOSED
+Tech Postal Code: UNDISCLOSED
+Tech Country: UNDISCLOSED
+Tech Phone: UNDISCLOSED
+Tech Fax: UNDISCLOSED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Billing ID: UNDISCLOSED
+Billing Name: UNDISCLOSED
+Billing Organization: UNDISCLOSED
+Billing Street: UNDISCLOSED
+Billing Street: UNDISCLOSED
+Billing Street: UNDISCLOSED
+Billing City: UNDISCLOSED
+Billing State/Province: UNDISCLOSED
+Billing Postal Code: UNDISCLOSED
+Billing Country: UNDISCLOSED
+Billing Phone: UNDISCLOSED
+Billing Fax: UNDISCLOSED
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.nic.virgin.
+Name Server: dns2.nic.virgin.
+Name Server: dns3.nic.virgin.
+Name Server: dns4.nic.virgin.
+Name Server: dnsa.nic.virgin.
+Name Server: dnsb.nic.virgin.
+Name Server: dnsc.nic.virgin.
+Name Server: dnsd.nic.virgin.
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:14:22Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This WHOIS information is provided for free by Nominet UK, the central registry for .virgin domain names. This information and the .virgin WHOIS are:
+Copyright Nominet UK 2020.
+You may not access the .virgin WHOIS or use any data from it except as permitted by the terms of use available in full at http://www.nominet.org.uk/whois, which includes restrictions on: (A) use of the data for advertising, or its repackaging, recompilation, redistribution or reuse (B) obscuring, removing or hiding any or all of this notice and (C) exceeding query rate or volume limits. The data is provided on an 'as-is' basis and may lag behind the register. No guarantee is given as to the accuracy of the data provided. Access may be withdrawn or restricted at any time.

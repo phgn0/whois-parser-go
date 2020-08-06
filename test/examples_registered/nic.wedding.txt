@@ -1,0 +1,81 @@
+Domain Name: NIC.WEDDING
+Registry Domain ID: 127151_MMd1-WEDDING
+Registrar WHOIS Server: 
+Registrar URL: http://www.nic.wedding
+Updated Date: 2019-10-03T12:38:02Z
+Creation Date: 2014-10-03T12:37:13Z
+Registry Expiry Date: 2020-10-03T12:37:13Z
+Registrar: M+M Registry Admin
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: ops@mmx.co
+Registrar Abuse Contact Phone: 
+Domain Status: SERVER DELETE PROHIBITED https://icann.org/epp#serverDeleteProhibited
+Domain Status: SERVER TRANSFER PROHIBITED https://icann.org/epp#serverTransferProhibited
+Domain Status: SERVER UPDATE PROHIBITED https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: UNDISCLOSED
+Registrant Name: UNDISCLOSED
+Registrant Organization: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant Street: UNDISCLOSED
+Registrant City: UNDISCLOSED
+Registrant Postal Code: UNDISCLOSED
+Registrant Country: IE
+Registrant Phone: UNDISCLOSED
+Registrant Fax: UNDISCLOSED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: UNDISCLOSED
+Admin Name: UNDISCLOSED
+Admin Organization: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin Street: UNDISCLOSED
+Admin City: UNDISCLOSED
+Admin State/Province: UNDISCLOSED
+Admin Postal Code: UNDISCLOSED
+Admin Country: UNDISCLOSED
+Admin Phone: UNDISCLOSED
+Admin Fax: UNDISCLOSED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: UNDISCLOSED
+Tech Name: UNDISCLOSED
+Tech Organization: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech Street: UNDISCLOSED
+Tech City: UNDISCLOSED
+Tech State/Province: UNDISCLOSED
+Tech Postal Code: UNDISCLOSED
+Tech Country: UNDISCLOSED
+Tech Phone: UNDISCLOSED
+Tech Fax: UNDISCLOSED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Billing ID: UNDISCLOSED
+Billing Name: UNDISCLOSED
+Billing Organization: UNDISCLOSED
+Billing Street: UNDISCLOSED
+Billing Street: UNDISCLOSED
+Billing Street: UNDISCLOSED
+Billing City: UNDISCLOSED
+Billing State/Province: UNDISCLOSED
+Billing Postal Code: UNDISCLOSED
+Billing Country: UNDISCLOSED
+Billing Phone: UNDISCLOSED
+Billing Fax: UNDISCLOSED
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.nic.wedding.
+Name Server: dns2.nic.wedding.
+Name Server: dns3.nic.wedding.
+Name Server: dns4.nic.wedding.
+Name Server: dnsa.nic.wedding.
+Name Server: dnsb.nic.wedding.
+Name Server: dnsc.nic.wedding.
+Name Server: dnsd.nic.wedding.
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:02:30Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms and Conditions
+The whois information provided on this site is intended to provide you with the relevant contact information for a domain name registrant and the identity of certain administrative and technical contacts associated with that domain name. The data in this record is provided by Minds + Machines Registry, a subsidiary of Minds + Machines Group Limited, formerly Top Level Domain Holdings Limited ("the Company"), for informational purposes only. Accuracy is not guaranteed. The Company is the authoritative source for whois information in top-level domains it operates under contract with the Internet Corporation for Assigned Names and Numbers. This service is intended only for query-based access. Note that the lack of a whois record for a particular domain does not indicate that the name is available for registration. By using this service, you agree that you will use any data presented for lawful purposes only and that under no circumstances will you use (a) data acquired for the purpose of allowing, enabling, or otherwise supporting the transmission by email, telephone, facsimile, or other communications mechanisms mass unsolicited, commercial, advertising, or solicitations to entities other than your existing customers; or (b) this service to enable high volume, automated, electronic processes that send queries or data to the systems of any registrar or any registry except as reasonably necessary to register domain names or to modify existing domain name registrations. The Company reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy. All rights reserved.

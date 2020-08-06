@@ -1,0 +1,113 @@
+   Domain Name: NIC.SES
+   Registry Domain ID: 114278752_DOMAIN_SES-VRSN
+   Registrar WHOIS Server: www.verisigninc.com
+   Registrar URL: http://www.verisign.com
+   Updated Date: 2020-04-20T17:51:41Z
+   Creation Date: 2015-08-18T21:25:41Z
+   Registry Expiry Date: 2025-08-18T21:25:41Z
+   Registrar: Registry Operator Reserved Non-Billable
+   Registrar IANA ID: 9999
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: ok https://icann.org/epp#ok
+   Registry Registrant ID: REDACTED FOR PRIVACY
+   Registrant Name: REDACTED FOR PRIVACY
+   Registrant Organization:
+   Registrant Street: REDACTED FOR PRIVACY
+   Registrant City: REDACTED FOR PRIVACY
+   Registrant Postal Code: REDACTED FOR PRIVACY
+   Registrant Country: LU
+   Registrant Phone: REDACTED FOR PRIVACY
+   Registrant Phone Ext: REDACTED FOR PRIVACY
+   Registrant Fax: REDACTED FOR PRIVACY
+   Registrant Fax Ext: REDACTED FOR PRIVACY
+   Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Registry Admin ID: REDACTED FOR PRIVACY
+   Admin Name: REDACTED FOR PRIVACY
+   Admin Organization: REDACTED FOR PRIVACY
+   Admin Street: REDACTED FOR PRIVACY
+   Admin City: REDACTED FOR PRIVACY
+   Admin State/Province: REDACTED FOR PRIVACY
+   Admin Postal Code: REDACTED FOR PRIVACY
+   Admin Country: REDACTED FOR PRIVACY
+   Admin Phone: REDACTED FOR PRIVACY
+   Admin Phone Ext: REDACTED FOR PRIVACY
+   Admin Fax: REDACTED FOR PRIVACY
+   Admin Fax Ext: REDACTED FOR PRIVACY
+   Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Registry Tech ID: REDACTED FOR PRIVACY
+   Tech Name: REDACTED FOR PRIVACY
+   Tech Organization: REDACTED FOR PRIVACY
+   Tech Street: REDACTED FOR PRIVACY
+   Tech City: REDACTED FOR PRIVACY
+   Tech State/Province: REDACTED FOR PRIVACY
+   Tech Postal Code: REDACTED FOR PRIVACY
+   Tech Country: REDACTED FOR PRIVACY
+   Tech Phone: REDACTED FOR PRIVACY
+   Tech Phone Ext: REDACTED FOR PRIVACY
+   Tech Fax: REDACTED FOR PRIVACY
+   Tech Fax Ext: REDACTED FOR PRIVACY
+   Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   Name Server: AV1.NSTLD.COM
+   Name Server: AV2.NSTLD.COM
+   Name Server: AV3.NSTLD.COM
+   Name Server: AV4.NSTLD.COM
+   DNSSEC: unsigned
+   Registry Billing ID: REDACTED FOR PRIVACY
+   Billing Name: REDACTED FOR PRIVACY
+   Billing Organization: REDACTED FOR PRIVACY
+   Billing Street: REDACTED FOR PRIVACY
+   Billing City: REDACTED FOR PRIVACY
+   Billing State/Province: REDACTED FOR PRIVACY
+   Billing Postal Code: REDACTED FOR PRIVACY
+   Billing Country: REDACTED FOR PRIVACY
+   Billing Phone: REDACTED FOR PRIVACY
+   Billing Phone Ext: REDACTED FOR PRIVACY
+   Billing Fax: REDACTED FOR PRIVACY
+   Billing Fax Ext: REDACTED FOR PRIVACY
+   Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain.
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:05:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The WHOIS service offered by SES S.A. and the access to the
+records in the SES S.A. WHOIS database are provided for information
+purposes only. It allows persons to check whether a specific domain name
+is still available or not and to obtain information related to the
+registration records of existing domain names. You are not authorized to
+access or query our WHOIS  database through the use of electronic
+processes that are high-volume and  automated except as reasonably
+necessary to register domain names or modify existing registrations.
+
+SES S.A. cannot, under any circumstances, be held liable should the
+stored information prove to be wrong, incomplete or inaccurate in any sense.
+
+By submitting a WHOIS query you agree not to use the information made
+available to:
+  - Allow, enable or otherwise support the transmission of unsolicited,
+    commercial advertising or other solicitations whether via email, telephone
+    or otherwise;
+  - Target advertising in any possible way;
+  - Cause nuisance in any possible way to the registrants by sending (whether
+    by automated, electronic processes capable of enabling high volumes or
+    other possible means) messages to them.
+
+Without prejudice to the above, it is explicitly forbidden to extract, copy
+and/or use or re-utilise in any form and  by any means (electronically or
+not) the whole or a quantitatively or qualitatively substantial part of the
+contents of the WHOIS database without prior and explicit permission by
+SES S.A., nor in any attempt hereof, to apply automated, electronic
+processes to SES S.A. (or its systems).
+
+By submitting the query you agree that any reproduction and/or transmission
+of data for commercial purposes will always be considered as the extraction
+of a substantial part of the content of the WHOIS database. You also agree
+to abide by this policy and accept that SES S.A. can take measures to
+limit the use of its WHOIS services in order to protect the privacy of its
+registrants and/or the integrity of the database. SES S.A. reserves the
+right  to restrict your access to the WHOIS database in its sole discretion
+to ensure operational stability.  SES S.A. may restrict or terminate your
+access to the WHOIS database for failure to abide by these terms of use.
+
+SES S.A. reserves the right to modify these terms at any time.

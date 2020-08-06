@@ -1,0 +1,48 @@
+Domain Name: NIC.DM
+Registry Domain ID: D133537611-CNIC
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-10-15T15:53:51.0Z
+Creation Date: 2001-03-29T11:57:11.0Z
+Registry Expiry Date: 2020-10-07T23:59:59.0Z
+Registrar: DotDM Corporation
+Registrar IANA ID:
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverRenewProhibited https://icann.org/epp#serverRenewProhibited
+Registrant Email: https://whois.nic.dm/contact/nic.dm/registrant
+Admin Email: https://whois.nic.dm/contact/nic.dm/admin
+Tech Email: https://whois.nic.dm/contact/nic.dm/tech
+Name Server: NS.BLACKNIGHTSOLUTIONS.COM
+Name Server: NS2.BLACKNIGHTSOLUTIONS.COM
+Name Server: NS2.NIC.DM
+Name Server: NS34.CDNS.NET
+DNSSEC: unsigned
+Billing Email: https://whois.nic.dm/contact/nic.dm/billing
+Registrar Abuse Contact Email: admin@dotdm.dm
+Registrar Abuse Contact Phone: +1.7674481531
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T20:07:36.0Z <<<
+
+This data is provided by DM REGISTRY for information purposes only in accordance with the DM REGISTRY TLD Privacy Policy. It is intended to
+assist persons to obtain information about or related to domain name
+registration records. DM REGISTRY does not guarantee its accuracy.
+By submitting this query, you agree to abide as follows:
+
+You agree to use this data only for lawful purposes and that under no
+circumstances will you permit this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via e-mail,
+   telephone or fax (spam); nor
+2) enable high volume, automated, electronic processes to the systems  
+   of DM REGISTRY or Registrars, except as reasonably required to
+   register new domain names or modify existing registrations; nor
+3) will you generate a database of registered domain names and
+   registrant data.
+
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.
+
+In accordance with Privacy Legislation (including GDPR), we have redacted the
+WHOIS output to prevent the publication of personal information and violation of privacy rights.

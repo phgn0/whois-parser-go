@@ -1,0 +1,26 @@
+% This is the .kg ccTLD Whois server
+% Register your own domain at http://www.domain.kg
+% Use @cctld_kg_bot telegram bot for whois service
+
+Domain NIC.KG 
+
+Administrative Contact:
+   PID: 12547-KG
+
+Technical Contact:
+   PID: AI-40958-KG
+
+Billing Contact:
+   PID: 12509-KG
+
+Domain support: ISP AsiaInfo (+996 312 964488)
+
+Record created: Tue Jan 16 10:31:46 2001
+Record last updated on:  Fri Dec  8 18:19:55 2017
+Record expires on: Tue Mar 23 23:59:00 2021
+
+Name servers in the listed order:
+
+NS1.SUBDOMAIN.COM 
+NS2.SUBDOMAIN.COM 
+
