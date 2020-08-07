@@ -70,7 +70,7 @@ func Parse(text string) (whoisInfo WhoisInfo, err error) {
 
 	name, extension := searchDomain(text)
 	if name == "" {
-		err = ErrDomainInvalidData
+		err = FallbackError(text)
 		return
 	}
 

@@ -20,7 +20,6 @@
 package whoisparser
 
 import (
-	"fmt"
 	"sort"
 	"strings"
 )
@@ -42,27 +41,55 @@ func IsNotFound(data string) bool {
 		"not match",
 		"no entries found",
 		"no data found",
+		"no data was found",
+		"this query returned 0 objects",
 		"not registered",
 		"not been registered",
 		"object does not exist",
 		"no object found",
+		"object_not_found",
+		"nothing found",
+		"domain unknown",
 		"domain name not known",
+		"no such domain",
+		"does not exist",
+		"we do not have an entry in our database matching your query.",
+		"not find matchingrecord", // .xn--55qw42g
 		"is free",
-		"Domain w is available for purchase",
+		"available",
 		"status: free",
-		"status: available",
-		"status:                 available",
 		"query_status: 220 available",
+		"error.",                               // .sa
+		"invalid input",                        // .tr  with latin chars
+		"invalid domain name",                  // .xn--90a3ac with latin chars
+		"parameter value syntax error",         // .xn--90ais with latin chars
+		"invalid query syntax",                 // .xn--cg4bki with latin chars
+		"wrong top level domain name in query", // .xn--y9a3aq with latin chars
 	}
 
 	data = strings.ToLower(data)
 	for _, v := range notExistsKeys {
 		if strings.Contains(data, v) {
+			// fmt.Println("found", v)
 			return true
 		}
 	}
 
 	return false
+}
+
+// FallbackError returns the final error after all other checks failed
+func FallbackError(data string) error {
+	notFoundContent := []string{
+		"\r\n\r\nwhois.nic.bo solo acepta consultas con dominios .bo", // no special content for domain not found states
+	}
+	for _, content := range notFoundContent {
+		if data == content {
+			return ErrDomainNotFound
+		}
+	}
+
+	return ErrDomainInvalidData
 }
 
 // IsPremiumDomain returns if the domain name is available to register at a premium price
@@ -104,8 +131,19 @@ func IsDomainBlock(data string) bool {
 
 // IsLimitExceeded returns is query limit
 func IsLimitExceeded(data string) bool {
+	IsLimitExceededKeys := []string{
+		"limit exceeded",
+		"query rate is now high",
+		"please try it again",
+	}
+
 	data = strings.ToLower(data)
-	return strings.Contains(data, "limit exceeded")
+	for _, v := range IsLimitExceededKeys {
+		if strings.Contains(data, v) {
+			return true
+		}
+	}
+	return false
 }
 
 // IsDnsSecEnabled returns dnssec is enabled
