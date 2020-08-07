@@ -1,0 +1,42 @@
+%
+%This is the RNIDS Whois server.
+%
+% Date Format         : DD.MM.YYYY
+% Whois Server Version: 1.0.0
+%
+% Rights restricted by copyright.
+% See http://www.rnids.rs/whois_en
+%
+%
+%
+% Ovo je odgovor od RNIDS Whois servera.
+%
+% Format datuma     : DD.MM.YYYY
+% Verzija Whois Servera : 1.0.0
+%
+% Sva prava zadržana. Za više informacija.
+% pogledajte http://www.rnids.rs/whois_sr
+
+Domain name: 4пи.срб
+Domain status: Active
+Registration date: 28.08.2012 17:08:21
+Modification date: 01.03.2018 16:15:47
+Expiration date: 03.10.2021 00:00:00
+Registrar: RNIDS
+
+
+DNS: ns1.cpanel.rnids.rs - 87.237.205.200
+DNS: ns2.cpanel.rnids.rs - 87.237.205.200
+
+
+
+Registrant: RNIDS
+Address: Žorža Klemansoa 18a, Beograd, Serbia
+ID Number: 17680544
+Tax ID: 104852190
+
+Administrative contact: RNIDS
+Address: Žorža Klemansoa 18a, Beograd, Serbia
+
+Technical contact: RNIDS
+Address: Žorža Klemansoa 18a, Beograd, Serbia

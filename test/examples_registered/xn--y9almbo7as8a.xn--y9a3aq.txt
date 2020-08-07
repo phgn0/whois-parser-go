@@ -1,0 +1,40 @@
+%
+%AM TLD whois server #2
+% Please see 'whois -h whois.amnic.net help' for usage.
+%
+
+   Domain name: էջմիածին.հայ
+   Registrar:   arpinet (Arpinet LLC)
+   Status:      active
+
+   Registrant:
+      Էջմիածնի քաղաքապետարան
+      Մաշտոց 0
+      Էջմիածին,  1101
+      AM
+
+   Administrative contact:
+      Կարեն Գրիգորյան
+      Էջմիածնի քաղաքապետարան
+      Մաշտոց 0
+      Էջմիածին, 1101
+      AM
+      echmun@ejmiatsin.am
+      +37423153663
+
+   Technical contact:
+      Կարեն Գրիգորյան
+      Էջմիածնի քաղաքապետարան
+      Մաշտոց 0
+      Էջմիածին, 1101
+      AM
+      echmun@ejmiatsin.am
+      +37423153663
+
+   DNS servers:
+      ns1.hostarpinet.net
+      ns2.hostarpinet.net
+
+   Registered:    2016-05-06
+   Last modified: 2016-05-06
+   Expires:       2021-05-06

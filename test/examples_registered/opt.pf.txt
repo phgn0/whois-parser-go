@@ -1,0 +1,36 @@
+This is the PF top level domain whois server.
+Informations about 'opt.pf' :
+
+Status : active
+Created (JJ/MM/AAAA) : 01/03/2005
+Last renewed (JJ/MM/AAAA) : 26/02/2020
+Expire (JJ/MM/AAAA) : 25/02/2021
+Name server 1 : ns1.mana.pf
+Name server 2 : ns2.mana.pf
+Registrant Company Name : OPT DIRECTION GENERALE
+Registrant Name : Le Directeur Général 
+Registrant Address :  
+Registrant Postal Code : 98714
+Registrant City : PAPEETE (domicile)
+Registrant Region / Island : TAHITI
+Registrant Country : Polynésie Française
+Tech 1 Company Name : OPT DIRECTION GENERALE
+Tech 1 Name : Le Directeur Général 
+Tech 1 Address :  
+Tech 1 Postal Code : 98714
+Tech 1 City : PAPEETE (domicile)
+Tech 1 Region / Island : TAHITI
+Tech 1 Country : Polynésie Française
+Tech 2 Company Name : OPT
+Tech 2 Name : Julien MENINI
+Tech 2 Address : ??
+Tech 2 Postal Code : ??
+Tech 2 City : ??
+Tech 2 Country : ??
+Registrar Company Name : Mana SAS
+Registrar Name : Léon TEFAU
+Registrar Address : BP 40001
+Registrar Address : Immeuble Jissang - Pont de l'Est Fare Tony
+Registrar Postal Code : 98713
+Registrar City : PAPEETE
+Registrar Country : Polynésie Française

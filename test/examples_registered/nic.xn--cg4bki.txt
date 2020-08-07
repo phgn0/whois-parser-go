@@ -1,2 +1,0 @@
-%error 350 Invalid Query Syntax
-
