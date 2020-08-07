@@ -1,0 +1,55 @@
+
+The queried object does not exists (El objeto consultado no existe)
+
+&PARAMETROS VALIDOS:
+
+ &NombreObjeto    Busca en la base de datos el objeto solicitado.
+ &?               Muestra este mensaje.
+
+&NOTA:
+ &Si se busca informacion sobre un dominio este debe pertenecer al gTLD .lat
+>>>Last update of WHOIS database: 2020-08-06T21:30:00Z<<<
+
+% The Data in eCOM-LAC?s .LAT Registry Whois database is provided 
+% by eCOM-LAC for information purposes only, and to assist persons in obtaining 
+
+% guarantee its accuracy. By submitting a Whois query, you agree to abide by the  
+% following terms of use: You agree that you may use this Data only for lawful purposes  
+% and that under no circumstances will you use this Data to: (1) allow, enable, or 
+% otherwise support the transmission of mass unsolicited, commercial advertising or 
+
+% solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, 
+% electronic processes that apply to eCOM-LAC or its service providers (or its computer 
+
+% expressly prohibited without the prior written consent of eCOM-LAC. You agree not to 
+% use electronic processes that are automated and high-volume to access or query the 
+
+% Whois database except as reasonably necessary to register domain names or modify 
+% existing registrations. eCOM-LAC reserves the right to restrict your access to the Whois
+% database in its sole discretion to ensure operational stability.  eCOM-LAC may restrict 
+% or terminate your access to the Whois database for failure to abide by these terms of 
+% use. eCOM-LAC reserves the right to modify these terms at any time.
+% URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+% Los datos en la base de datos de whois de eCOM-LAC es proporcionada por eCOM-LAC  
+% para fines informativos solamente y para ayudar a las personas a obtener informaci?n  
+% relacionada a los datos de registro de un nombre de dominio. eCOM-LAC no garantiza su  
+
+% exactitud. Al realizar una consulta al Whois, acepta cumplir con las siguientes condiciones  
+% de uso: Acepta que puede usar esta informaci?n solo para fines legales y que bajo ninguna   
+% circunstancia usar? esta informaci?n para: (1) permitir, hacer uso o apoyar de alguna  
+% manera el env?o masivo de publicidad v?a correo electr?nico, tel?fono o fax; o (2)  realizar  
+
+% procesos automatizados, electr?nicos y de alto volumen que apliquen a eCOM-LAC o sus  
+% proveedores de servicio (o sus sistemas computacionales). La recopilaci?n, difusi?n o  
+% cualquier otro uso de estos datos sin el consentimiento previo por escrito de eCOM-LAC  
+
+% queda expresamente prohibido. Usted acepta no utilizar procesos electr?nicos  
+% automatizados y de alto volumen para acceder o consultar la base de datos de Whois  
+
+% excepto cuando sea razonablemente necesario para registrar nombres de dominio o  
+% modificar registros existentes. eCOM-LAC se reserva el derecho de restringir su acceso a la 
+% base de datos de whois a su entera discreci?n para asegurar la estabilidad en su  
+% operaci?n. eCOM-LAC puede restringir o terminar su acceso a la base de datos de Whois  
+% por no cumplir con estas condiciones de uso. eCOM-LAC se reserva el derecho de modificar estos t?rminos en cualquier momento.
+% La URL del sistema de reportes para problemas con la informaci?n de WHOIS del ICANN es: http://wdprs.internic.net/

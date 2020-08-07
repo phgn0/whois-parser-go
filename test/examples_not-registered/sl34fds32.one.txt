@@ -1,0 +1,18 @@
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T21:28:35Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.one.
+
+Data provided as WHOIS information on this page is intended to provide you with relevant contact information for a domain name registrant and associated administrative and technical contact.
+
+The data in this record is provided by One Registry for information purposes only, and One Registry does not guarantee the accuracy of the information provided. One Registry is authoritative for WHOIS information in TLDs operated by One Registry under contract with the Internet Corporation for Assigned Names and Numbers (ICANN). 
+
+This WHOIS service is intended only for query-based access. By using this service, you agree that you will use any data presented only for lawful purposes and that, under no circumstances will you
+ (a) use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail and SMS; or
+ (b) use the data to enable high volume, automated, electronic processes that send queries or data to the systems of any Registry Operator or ICANN-Accredited registrar, except as reasonably necessary to register domain names or modify existing registrations; or
+ (c) sell or redistribute the data except insofar as it has been incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the bulk data from the value-added product or service for use by other parties.
+
+ One Registry reserves the right to modify these terms at any time. By submitting this query and using the WHOIS service provided by One Registry, you agree to these terms of use.

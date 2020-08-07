@@ -1,0 +1,13 @@
+No match for "SL34FDS32.SCA".
+>>> Last update of WHOIS database: 2020-08-06T21:32:03Z <<<
+
+The data in the .SCA Whois database is provided to assist you in obtaining information about a domain name registration record. SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ) makes this information available "as is", for information purposes only, and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data:
+(1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam), telephone or fax; or
+(2) in contravention of any applicable data and privacy protection legislation; or
+(3) to enable high volume, automated, electronic processes that send queries or data to the .SCA registry, Registrants, or the systems of any Registrar. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without the prior written consent of SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ).You agree not to use electronic processes that are automated and high-volume to access or query the WHOIS database except as reasonably necessary to register domain names or modify existing domain name registrations.
+
+SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ) reserves the right to 
+modify these terms at any time. By submitting this query, you agree to abide by these terms. SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ) reserves the
+right to restrict or terminate your access to this WHOIS database if you fail to abide by these terms.
+
+Note the .SCA database contains ONLY .SCA domains and Registrars. Failure to locate a record in the WHOIS database is not indicative of the unavailability of a domain name

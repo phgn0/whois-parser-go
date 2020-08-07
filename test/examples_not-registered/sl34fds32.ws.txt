@@ -1,0 +1,6 @@
+The queried object does not exist: sl34fds32.ws.
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2020-08-06T21:40:24Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+

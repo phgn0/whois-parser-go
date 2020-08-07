@@ -1,0 +1,12 @@
+The queried object does not exist: DOMAIN NOT FOUND
+
+>>> Last update of WHOIS database: 2020-08-06T21:31:56.0Z <<<
+
+WHOIS LEGAL STATEMENT AND TERMS & CONDITIONS
+ Copyright 2018. For information, contact Deloitte Touche Tohmatsu Limited.
+
+ Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited ("DTTL"), 
+ its global network of member firms, and their related entities. DTTL 
+ (also referred to as "Deloitte Global") and each of its member firms are legally 
+ separate and independent entities. DTTL does not provide services to clients. 
+ Please see www.deloitte.com/about to learn more.

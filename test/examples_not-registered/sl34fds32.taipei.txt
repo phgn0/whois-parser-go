@@ -1,0 +1,9 @@
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T21:30:59Z <<<
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.taipei.
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+When using the .taipei Whois service, consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. The Whois service may be scheduled for downtime during production or operation, testing and evaluation maintenance periods. Queries to the Whois service may be "throttled" (i.e. if too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access). By submitted a WHOIS query, the requestor agrees that he/she will use the information obtained through the WHOIS search for lawful purposes only and that he/she will at no time now or in the future: a. allow, enable, solicit, and/or encourage the transmission of mass unsolicited commercial advertising or solicitations via direct mail, electronic mail, or by telephone; b. breach any applicable data and privacy protection acts; and c. utilize and/or enable high volume, automated, and/or electronic processes querying the WHOIS database.
+

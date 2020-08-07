@@ -1,0 +1,24 @@
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T21:31:38Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The National Association of Boards of Pharmacy (NABP), the Registry Operator for .pharmacy, has collected this information for the WHOIS database through ICANN-Accredited Registrars. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the .pharmacy registry database. NABP makes this information available to you "as is" and, to fullest extent permissible under applicable law, without any warranty.
+
+To the fullest extent permissible pursuant to applicable federal, state or local law, NABP, its members, officers, directors, employees, contractors, authorized representatives, affiliates and assigns, and any other party involved in the developing, producing, or delivering this website are not liable for any direct, incidental, consequential, indirect, or punitive damages arising out of a user's access to, or use of, WHOIS data or for a user's purchase or use of any third party products or services offered herein or linked herein. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, telephone, or other medium; (2) in contravention of any applicable law including, but not limited to, data and privacy protection acts; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems).
+
+Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without the prior written permission of NABP.
+
+By accessing or using the WHOIS system, you agree that all disputes in connection with your access or use of the WHOIS systems are submitted to the exclusive jurisdiction of the courts located in Cook County in the State of Illinois.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. Also, some WHOIS data may not be available due to data protections required by the United Kingdom, European Union, or other jurisdictions.
+
+NABP reserves the right to restrict or terminate your access to the data if you fail to abide by one or more of these Terms of Use. NABP reserves the right to modify these Terms at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide and be bound by these Terms.
+
+Abuse of the .pharmacy WHOIS system through data mining will be mitigated by limiting query access.
+
+Access to WHOIS data will be blocked if the requester is in violation of or has violated this WHOIS Terms of Use Policy, or any NABP policy, ICANN requirement, or law applicable to .pharmacy or WHOIS data. At NABPs' sole discretion, individual Internet protocol (IP) addresses or IP ranges may be prevented from accessing WHOIS data to prevent disruption of WHOIS service access.
+
+The WHOIS service may be scheduled for downtime during production, testing, or evaluation maintenance periods without prior notice.
+

@@ -1,0 +1,40 @@
+No match for "SL34FDS32.CSC".
+>>> Last update of WHOIS database: 2020-08-06T21:31:48Z <<<
+
+TERMS OF USE:  The WHOIS Service (the “Service”) offered by 
+Alliance-One Services, Inc./Computer Sciences Corporation, the 
+Registry Operator for .CSC, or their designated representatives, and 
+the access to the records in the .CSC WHOIS database, is provided for 
+information purposes only to assist in obtaining information related 
+to the registration records of existing domain names.  The 
+information provided by the Service is made available on an “as is” 
+basis and is not guaranteed to be accurate.  Registry Operator 
+cannot, under any circumstances, be held liable in any instances 
+where the information provided may be incomplete or not accurate 
+in any sense.
+Use of the Service is subject to the Registry’s Policies, including the 
+Acceptable Use Policy and Privacy Policy.  By submitting a WHOIS 
+query, you agree to abide by the Registry’s Policies and that you will 
+use this data only for lawful purposes and that, under no 
+circumstances will you use this data: (1) to allow, enable, or 
+otherwise support the transmission of mass unsolicited, commercial 
+advertising or solicitations via direct mail, electronic mail, or by 
+telephone; (2) in contravention of any law, rule, regulation, or 
+statute, including any applicable data and privacy protection acts; (3) 
+for use in any targeted advertising or other commercial use; and/or 
+(4) to enable high volume, automated, electronic processes.  
+Extraction, compilation, dissemination, or other use of the WHOIS 
+database in its entirety, or of a substantial portion thereof, is not 
+permitted without express written consent.  If you do not agree to 
+the Registry’s Policies or any terms herein, your sole and exclusive 
+remedy is to terminate your use of the WHOIS website and/or 
+service(s).  By executing this query, in any manner whatsoever, you 
+agree to abide by these Terms.  Registry Operator reserves the right 
+to modify or change its Policies, the WHOIS website, services and/or 
+these Terms at any time without notification of any kind.  
+You acknowledge that the Service’s failure to locate a record is not 
+indicative of the availability of a domain name and that .CSC is a 
+closed registry with restrictions on registration and which is subject 
+to other ICANN requirements.  Further, you acknowledge that 
+Registry Operator may restrict, suspend or terminate access to the 
+Service at any time for any reason.

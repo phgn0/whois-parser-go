@@ -1,0 +1,49 @@
+No match for "SL34FDS32.CAREER".
+>>> Last update of WHOIS database: 2020-08-06T21:31:18Z <<<
+
+Domain name registration information is required for a variety of 
+purposes. Registry provides Whois information through a standard 
+text-based network protocol on port 43. Whois information may also 
+be viewed on the registry’s web site using a standard web interface. 
+Both interfaces are publicly available at no cost to the user and are 
+reachable worldwide. The information displayed by the Whois 
+service consists of not only the domain name but also the relevant 
+contact information associated with the domain. It also identifies 
+nameserver delegation and the registrar of record. This service is 
+available to any Internet user, and its use does not require prior 
+authorization or permission. Access to Registry Whois information is 
+provided to assist in determining the contents of a domain name 
+registration record in the registry database. The data in this record is 
+provided for informational purposes only; Registry does not claim 
+accuracy. This service is intended only for query-based access. 
+Registry reserves the right to modify use terms at any time; by 
+submitting a Whois query to the Registry shared registration system 
+(SRS), users agree to abide by the Whois Access Policy.
+
+Terms of Use
+Users accessing the Registry WHOIS service must agree to use the 
+data only for lawful purposes and under no circumstances use the 
+data to:
+
+    Allow, enable, or otherwise support the transmission by e-mail, 
+telephone, or facsimile of mass unsolicited, commercial advertising 
+or solicitations to entities other than the registrar’s own existing 
+customers.
+    Enable high volume, automated, electronic processes that send 
+queries or data to the systems of Registry or any ICANN-accredited 
+registrar, except as reasonably necessary to register domain names 
+or modify existing registrations.
+
+When using the Registry Whois service, please consider the 
+following:
+
+    The Whois service is not a replacement for standard EPP 
+commands to the SRS service.
+    Whois is not considered authoritative for registered domain 
+objects.
+    The Whois service may be scheduled for downtime during 
+production or OT&E maintenance periods.
+    Queries to the Whois services are throttled. If too many queries 
+are received from a single IP address within a specified time, the 
+service will begin to reject further queries for a period of time to 
+prevent disruption of Whois service access.

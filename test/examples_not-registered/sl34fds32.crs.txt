@@ -1,0 +1,15 @@
+No match for "SL34FDS32.CRS".
+>>> Last update of WHOIS database: 2020-08-06T21:31:33Z <<<
+
+The .CRS WHOIS service is provided for informational purposes only. The 
+information is provided 'as-is' and we make no representations or warranties 
+as to the accuracy of the information. By using the .CRS WHOIS service, you 
+waive any claims against the registry operator and its service providers which 
+in any way may arise out your use of the .CRS WHOIS services. 
+You may only use the .CRS WHOIS service to identify domain name holders and 
+obtain their contact information in order to contact them with respect to the 
+website. You may not use the .CRS WHOIS service for any other purpose, 
+including unauthorized collection or aggregation of WHOIS data, sending 
+unsolicited communications, and unlawful or abusive purposes.
+We may changes these terms at any time and without notice to you. By using 
+the .CRS WHOIS services, you accept these terms.

@@ -1,0 +1,17 @@
+No Data Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-06T21:30:24Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.menu.
+
+The data contained in Wedding TLD2, LLC's WhoIs database, while believed by the company to be reliable, is provided "as is" with no guarantee or warranties regarding its accuracy.
+
+This information is provided for the sole purpose of assisting you in obtaining information about domain name registration records. Any use of this data for any other purpose without the prior written permission of Wedding TLD2, LLC is expressly forbidden.
+
+By submitting an inquiry, you agree to these terms of usage and limitations of warranty, including the use of this data for lawful purposes only. In particular, you agree not to use this data to allow, enable, or otherwise make possible, dissemination or collection of this data, in part or in its entirety, for any purpose, such as the transmission of unsolicited advertising and solicitations of any kind, including spam.
+
+You further agree not to use this data to enable high volume, automated or robotic electronic processes designed to collect or compile this data for any purpose, including mining this data for your own personal or commercial purposes.
+
+Wedding TLD2, LLC reserves the right to modify these terms at any time.

@@ -1,0 +1,10 @@
+NIC Whois server for cTLDs : .tn , .تونس
+All right reserverd
+Copyright "Tunisian Internet Agency - http://whois.tn
+Supported ccTLDs : .tn , .تونس
+
+NO OBJECT FOUND!
+object:.............sl34fds32.tn
+type:...............domain
+
+

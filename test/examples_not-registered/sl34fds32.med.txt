@@ -1,0 +1,66 @@
+No match for "SL34FDS32.MED".
+>>> Last update of WHOIS database: 2020-08-06T21:32:03Z <<<
+
+WHOIS Information and Legal Disclaimer
+ 
+WHOIS Search.
+You can locate certain records in the Registry database through a Whois 
+search. Whois can provide information, by example, about:
+1.	Domain Records - Find registrar name, Whois server, URL, 
+domain names, name servers and IP addresses 
+2.	Updated data contained in the records
+3.	Name Server Records - Find the name server name, IP addresses, 
+registrar name, Whois server name and URL
+4.	Registrar Records - Find postal address, phone number and 
+contact information of registrar and the registrar’s name
+
+Dissemination of Domain Registration Information.
+
+Registry provides Whois information through a standard text-based 
+network protocol on port 43. Whois information may also be viewed on 
+the registry’s website using a standard web interface. Both interfaces are 
+publicly available at no cost to the user and are reachable worldwide. 
+
+Domain name registration information is required for a variety of 
+purposes. This service is available to any Internet user, and its use does 
+not require prior authorization or permission. Access to Registry Whois 
+information is provided to assist in determining the contents of a domain 
+name registration record in the registry database. The data in this record 
+is provided for informational purposes only and users may voluntarily 
+query this database; Registry does not claim accuracy. This service is 
+intended only for query-based access. Registry reserves the right to 
+modify use terms at any time; by submitting a Whois query to the shared 
+registration system (SRS), users agree to abide by the [Whois Access 
+Policy].
+ 
+Rights and Restrictions of Users. 
+
+Users accessing the WHOIS service must agree to use the data only for 
+lawful purposes. Under no circumstances shall the use of the WHOIS 
+service be used to:
+ 
+1.	Allow, enable, or otherwise support the transmission by e-mail, 
+telephone, or facsimile of mass unsolicited, commercial advertising 
+or solicitations to entities other than the registrar’s own existing 
+customers
+2.	Enable high volume, automated, electronic processes that send 
+queries or data to the systems of Registry or any ICANN-accredited 
+registrar, except as reasonably necessary to register domain names 
+or modify existing registrations
+ 
+When Using the Registry Whois Service.
+
+1.	The Whois service is not a replacement for standard EPP 
+commands to the SRS service
+2.	Whois is not considered authoritative for registered domain 
+objects
+3.	The Whois service may be scheduled for downtime during 
+production or OT&E maintenance periods
+4.	Queries to the Whois services are throttled. If too many queries 
+are received from a single IP address within a specified time, the 
+service will begin to reject further queries for a period of time to 
+prevent disruption of Whois service access.
+
+Search for .Med Records.
+By submitting a Whois search, you agree to abide by the [Whois Access 
+Policy].
