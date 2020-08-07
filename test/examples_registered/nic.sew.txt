@@ -1,1 +1,65 @@
-WHOIS QUERY RATE LIMIT EXCEEDED.  PLEASE WAIT AND TRY AGAIN.
+Domain Name: NIC.SEW
+Registry Domain ID: D3232750-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-04-02T22:21:01Z
+Creation Date: 2015-04-02T14:27:29Z
+Registry Expiry Date: 2021-04-02T14:27:29Z
+Registrar Registration Expiration Date:
+Registrar: SEW-EURODRIVE GmbH & Co KG
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C1960802-AGRS
+Registrant Name: Premium Reserved Names
+Registrant Organization: SEW-EURODRIVE GmbH & Co KG
+Registrant Street: Ernst-Blickle-Str. 42
+Registrant City: Bruchsal
+Registrant State/Province:
+Registrant Postal Code: 76646
+Registrant Country: DE
+Registrant Phone: +49.7251755228
+Registrant Phone Ext:
+Registrant Fax: +49.725175505229
+Registrant Fax Ext:
+Registrant Email: domains@sew-eurodrive.de
+Registry Admin ID: C1960802-AGRS
+Admin Name: Premium Reserved Names
+Admin Organization: SEW-EURODRIVE GmbH & Co KG
+Admin Street: Ernst-Blickle-Str. 42
+Admin City: Bruchsal
+Admin State/Province:
+Admin Postal Code: 76646
+Admin Country: DE
+Admin Phone: +49.7251755228
+Admin Phone Ext:
+Admin Fax: +49.725175505229
+Admin Fax Ext:
+Admin Email: domains@sew-eurodrive.de
+Registry Tech ID: C1960802-AGRS
+Tech Name: Premium Reserved Names
+Tech Organization: SEW-EURODRIVE GmbH & Co KG
+Tech Street: Ernst-Blickle-Str. 42
+Tech City: Bruchsal
+Tech State/Province:
+Tech Postal Code: 76646
+Tech Country: DE
+Tech Phone: +49.7251755228
+Tech Phone Ext:
+Tech Fax: +49.725175505229
+Tech Fax Ext:
+Tech Email: domains@sew-eurodrive.de
+Name Server: A0.NIC.SEW
+Name Server: A2.NIC.SEW
+Name Server: B0.NIC.SEW
+Name Server: C0.NIC.SEW
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T12:43:47Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

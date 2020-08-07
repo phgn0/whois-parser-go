@@ -1,1 +1,68 @@
-WHOIS QUERY RATE LIMIT EXCEEDED.  PLEASE WAIT AND TRY AGAIN.
+Domain Name: NIC.ITV
+Registry Domain ID: D425500000000806260-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2017-08-01T18:45:21Z
+Creation Date: 2016-09-19T16:41:33Z
+Registry Expiry Date: 2017-09-19T16:41:33Z
+Registrar Registration Expiration Date:
+Registrar: ITV Services Limited
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C14828585-AGRS
+Registrant Name: Premium Reserved Names
+Registrant Organization: ITV Services Limited
+Registrant Street: The London Television Centre
+Registrant Street: Upper Ground
+Registrant City: London
+Registrant State/Province: GB
+Registrant Postal Code: SE1 9LT
+Registrant Country: GB
+Registrant Phone: +44.3026365401
+Registrant Phone Ext:
+Registrant Fax: +44.3026365454
+Registrant Fax Ext:
+Registrant Email: newgtlds@cscglobal.com
+Registry Admin ID: C14828585-AGRS
+Admin Name: Premium Reserved Names
+Admin Organization: ITV Services Limited
+Admin Street: The London Television Centre
+Admin Street: Upper Ground
+Admin City: London
+Admin State/Province: GB
+Admin Postal Code: SE1 9LT
+Admin Country: GB
+Admin Phone: +44.3026365401
+Admin Phone Ext:
+Admin Fax: +44.3026365454
+Admin Fax Ext:
+Admin Email: newgtlds@cscglobal.com
+Registry Tech ID: C14828585-AGRS
+Tech Name: Premium Reserved Names
+Tech Organization: ITV Services Limited
+Tech Street: The London Television Centre
+Tech Street: Upper Ground
+Tech City: London
+Tech State/Province: GB
+Tech Postal Code: SE1 9LT
+Tech Country: GB
+Tech Phone: +44.3026365401
+Tech Phone Ext:
+Tech Fax: +44.3026365454
+Tech Fax Ext:
+Tech Email: newgtlds@cscglobal.com
+Name Server: A0.NIC.ITV
+Name Server: B0.NIC.ITV
+Name Server: C0.NIC.ITV
+Name Server: A2.NIC.ITV
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T12:34:33Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

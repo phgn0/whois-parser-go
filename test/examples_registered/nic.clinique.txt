@@ -1,1 +1,67 @@
-WHOIS QUERY RATE LIMIT EXCEEDED.  PLEASE WAIT AND TRY AGAIN.
+Domain Name: NIC.CLINIQUE
+Registry Domain ID: D3625620-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-01-22T22:20:16Z
+Creation Date: 2016-01-22T21:52:59Z
+Registry Expiry Date: 2021-01-22T21:52:59Z
+Registrar Registration Expiration Date:
+Registrar: The Estee Lauder Companies Inc.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C21856099-AGRS
+Registrant Name: Associate Counsel
+Registrant Organization: The Estee Lauder Companies Inc.
+Registrant Street: 767 Fifth Avenue
+Registrant City: New York
+Registrant State/Province: NY
+Registrant Postal Code: 10153
+Registrant Country: US
+Registrant Phone: +1.2125724200
+Registrant Phone Ext:
+Registrant Fax: +1.2122772355
+Registrant Fax Ext:
+Registrant Email: ngtld-estee@cscglobal.com
+Registry Admin ID: C2218600-AGRS
+Admin Name: Premium Reserved Names
+Admin Organization: Corporation Services Company
+Admin Street: 1180 Centerville Rd
+Admin Street: Suite 400
+Admin City: Wilmington
+Admin State/Province: DE
+Admin Postal Code: 19808
+Admin Country: US
+Admin Phone: +1.3026365401
+Admin Phone Ext:
+Admin Fax: +1.3026365454
+Admin Fax Ext:
+Admin Email: newgtlds@cscglobal.com
+Registry Tech ID: C2218600-AGRS
+Tech Name: Premium Reserved Names
+Tech Organization: Corporation Services Company
+Tech Street: 1180 Centerville Rd
+Tech Street: Suite 400
+Tech City: Wilmington
+Tech State/Province: DE
+Tech Postal Code: 19808
+Tech Country: US
+Tech Phone: +1.3026365401
+Tech Phone Ext:
+Tech Fax: +1.3026365454
+Tech Fax Ext:
+Tech Email: newgtlds@cscglobal.com
+Name Server: A0.NIC.CLINIQUE
+Name Server: B0.NIC.CLINIQUE
+Name Server: C0.NIC.CLINIQUE
+Name Server: A2.NIC.CLINIQUE
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T12:34:29Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

@@ -8,11 +8,14 @@ import (
 	"os"
 	"path"
 
-	"github.com/domainr/whois"
+	"github.com/phgn0/whois"
 )
 
 func main() {
-	writeDomainResults("nic", "test/examples_registered")
+	// writeDomainResults("nic", "test/examples_registered")
+	// writeDomainResults("sl34fds32", "test/examples_not-registered")
+
+	// fmt.Println(getWhoisString("hello.es"))
 }
 
 func writeDomainResults(domainBase string, folderName string) {
@@ -31,7 +34,7 @@ func writeDomainResults(domainBase string, folderName string) {
 }
 
 func getTldList() (list []string) {
-	file, err := os.Open("./tlds.txt")
+	file, err := os.Open("./test/tlds.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
