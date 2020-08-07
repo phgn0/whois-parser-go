@@ -20,10 +20,6 @@ func checkSavedWhoisResults(folderName string, checkFn checkFnType, t *testing.T
 		fileName := file.Name()
 		domain := fileName[:strings.Index(fileName, ".txt")]
 
-		// if strings.Index(domain, ".nr") == -1 {
-		// 	continue
-		// }
-
 		whoisRaw, err := ioutil.ReadFile(path.Join(folderName, fileName))
 		if err != nil {
 			fmt.Println(err)
@@ -32,9 +28,8 @@ func checkSavedWhoisResults(folderName string, checkFn checkFnType, t *testing.T
 		}
 
 		if err := checkFn(domain, string(whoisRaw)); err != nil {
-			// fail fast
 			t.Errorf(err.Error())
-			// return
+			// return // uncomment for fail fast mode
 		}
 	}
 }

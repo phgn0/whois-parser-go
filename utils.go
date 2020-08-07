@@ -27,8 +27,25 @@ import (
 // IsNotFound returns domain is not found
 func IsNotFound(data string) bool {
 	ignoreSentences := []string{
+		"(i) to assist persons in determining whether a specific domain name registration record is available or not in the Registry Operator database",
+		"It allows\r\n% persons to check whether a specific domain name is still available or not",
+		"a specific domain name registration record is available or not",
+		"obtain information about whether a .tel domain name is available for registration",
+
 		"Domain names not found in this WHOIS database are not necessarily available for registration.",
 		"(i) a response from the Service indicating no match was found, does not guarantee",
+		"Note that the lack of a whois record for a particular domain does not indicate that the name is available for registration.",
+		"By submitting a query you agree not to use the information made available",
+
+		"service is available to any Internet user",
+		"Our contact information is available at",
+		"More details on the domain may be available at below whois-web URL.",
+		"request further details is available.",
+		"The full WHOIS output may be available to individuals and organisations with a legitimate interest",
+		"The contact details for this contact ID may be available\r\n",
+		"Registrant Credit: Not Available",
+
+		"Status:	NOT AVAILABLE",
 	}
 	for _, sentence := range ignoreSentences {
 		data = strings.Replace(data, sentence, "", 1)
@@ -55,8 +72,14 @@ func IsNotFound(data string) bool {
 		"does not exist",
 		"we do not have an entry in our database matching your query.",
 		"not find matchingrecord", // .xn--55qw42g
+		"no information available about domain name",
 		"is free",
-		"available",
+		"is available",
+		"available\r\n",
+		"status: available",
+		"status:			available",
+		"status:             available",
+		"registration status: available",
 		"status: free",
 		"query_status: 220 available",
 		"error.",                               // .sa
@@ -70,7 +93,6 @@ func IsNotFound(data string) bool {
 	data = strings.ToLower(data)
 	for _, v := range notExistsKeys {
 		if strings.Contains(data, v) {
-			// fmt.Println("found", v)
 			return true
 		}
 	}
@@ -97,6 +119,7 @@ func IsPremiumDomain(data string) bool {
 	notExistsKeys := []string{
 		"reserved domain name",
 		"reserved by the registry",
+		"reserved by",
 		"platinum domain",
 	}
 
@@ -116,6 +139,7 @@ func IsDomainBlock(data string) bool {
 		"the registration of this domain is restricted",
 		"dpml block",
 		"not available for registration",
+		"the domain name is not available", // .qa
 		"object cannot be registered",
 	}
 
