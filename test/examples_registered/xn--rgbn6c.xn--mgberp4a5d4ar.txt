@@ -1,0 +1,31 @@
+% SaudiNIC Whois server.
+% Rights restricted by copyright.
+% http://nic.sa/en/view/whois-cmd-copyright
+
+Domain Name: سجل.السعودية
+
+ Registrant:
+ SaudiNIC- CITC المركز السعودي لمعلومات الشبكة - هيئة الاتصالات وتقنية المعلومات
+ Address: P. O. Box 75606
+  Riyadh
+ Saudi Arabia
+
+ Administrative Contact:
+  هشام محمد  ************
+  Address: ***************
+   ******
+  ************
+
+ Technical Contact:
+  هشام محمد  ************
+  Address: ***************
+   ******
+  ****
+
+ Name Servers:
+  ns1.nic.sa
+  ns2.nic.sa
+
+ DNSSEC:  yes
+ DS Records:
+  11305 8 2 42829AFB3F30909E52D4306E47F143628D13A3B52363AA8FCE06225407706698

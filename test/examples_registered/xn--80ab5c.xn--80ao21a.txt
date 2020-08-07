@@ -1,0 +1,38 @@
+Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+
+Domain Name............: xn--80ab5c.xn--80ao21a
+IDN (unicode) form.....: бта.қаз
+
+Organization Using Domain Name
+Name...................: AO BTA Bank
+Organization Name......: AO BTA Bank
+Street Address.........: Zholdasbekova 97
+City...................: Almaty
+State..................: 
+Postal Code............: 
+Country................: KZ
+
+Administrative Contact/Agent
+NIC Handle.............: SKT00027228
+Name...................: AO BTA Bank
+Phone Number...........: +7.7273122395 
+Fax Number.............: +7.7273122395 
+Email Address..........: dk@bta.kz
+
+Nameserver in listed order
+
+Primary server.........: ns.bta.kz
+Primary ip address.....: 212.154.132.8
+
+Secondary server.......: cnr2.online.kz
+Secondary ip address...: 92.46.38.184
+
+
+Domain created: 2012-05-14 04:46:08 (GMT+0:00)
+Last modified : 2012-08-16 11:40:13 (GMT+0:00)
+Domain status : clientTransferProhibited - 
+                clientRenewProhibited - 
+                
+Registar created: SKILLTEX
+Current Registar: ICPS

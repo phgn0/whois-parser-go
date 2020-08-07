@@ -1,0 +1,8 @@
+Domain Name:                     abc.qa
+Last Modified:                   13-Feb-2020 05:03:14 UTC
+Registrar Name:                  AEserver FZE
+Status:                          ok
+
+Name Server:                     dns1.aeserver.com
+Name Server:                     dns2.aeserver.com
+Name Server:                     dns3.aeserver.com
