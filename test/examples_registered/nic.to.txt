@@ -1,0 +1,3 @@
+Tonic whoisd V1.1
+nic NS1.DREAMHOST.COM
+nic NS2.DREAMHOST.COM

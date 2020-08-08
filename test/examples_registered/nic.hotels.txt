@@ -1,0 +1,94 @@
+Domain Name: nic.hotels
+Registry Domain ID: DE3A36BA64DF64EC4B0DF36C672DA3F42-NSR
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-12-21T04:14:53Z
+Creation Date: 2017-11-06T04:14:49Z
+Registry Expiry Date: 2020-11-06T04:14:49Z
+Registrar: Booking.com B.V.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverRenewProhibited https://icann.org/epp#serverRenewProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization:
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: Noord-Holland
+Registrant Postal Code:
+Registrant Country: nl
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns4.dns.nic.hotels
+Name Server: ns6.dns.nic.hotels
+Name Server: ns3.dns.nic.hotels
+Name Server: ns5.dns.nic.hotels
+Name Server: ns1.dns.nic.hotels
+Name Server: ns2.dns.nic.hotels
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:48Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.hotels.
+
+Access to WHOIS information is provided to assist the user of this tool in determining the contents of a domain name registration record in the subject registry database. The data in the .HOTELS WHOIS database is provided to assist you in obtaining information about a domain name registration record in the subject name space. Booking.com B.V., the Registry Operator, makes this information available "as is", for informational purposes only, and does not guarantee its accuracy and/or its completeness. Booking.com B.V. cannot be held liable if the stored information in this WHOIS database is wrong, incomplete, or inaccurate in any way.
+
+
+By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data:
+
+(a) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam), telephone or fax or otherwise;
+
+(b) to violate any law, rule, regulation or statute and/or in contravention of any applicable data and privacy protection legislation; or
+
+(c) to target advertising in any possibly way; or
+
+(d) to harass, interrupt, disrupt or cause nuisance to registrants or to interfere with the normal business operations of the registrant(s); or
+
+(e) to collect or attempt to collect the majority or entirety of the WHOIS database contents; or
+
+(f) to enable high volume, automated, electronic processes that send queries, access requests or data to the .HOTELS registry, registrants, or the systems of any registrar (except as reasonably necessary to register domain names or modify existing domain name registrations). The compilation, repackaging, dissemination or other use of this data is expressly prohibited without the prior written consent of Booking.com B.V.
+
+
+You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the .HOTELS WHOIS database without prior and explicit written permission from Booking.com B.V. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the .HOTELS WHOIS service to protect the privacy of registrants or the integrity of the database. Booking.com B.V. furthermore reserves the right to modify this website, the service and these Terms of Use at any time and at our own discretion and without any form of prior notice to you. We urge and advice you to review these Terms of Use each time you access or use the .HOTELS WHOIS database and the service to learn of any changes. By submitting this query, you agree to abide by these terms. Booking.com B.V. reserves the right to restrict or terminate your access to this WHOIS database if you fail to abide by these terms. If you do not agree to (any of) the changes we have made, your only remedy is to stop your use of the .HOTELS WHOIS database and the service. By executing a query, in any means whatsoever, you agree to adhere to these Terms of Use. 
+

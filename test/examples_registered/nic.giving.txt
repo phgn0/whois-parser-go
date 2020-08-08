@@ -1,0 +1,82 @@
+Domain Name: nic.giving
+Registry Domain ID: D5D61C680D6A9418483CF862E9FED2BAD-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-04-02T01:16:09Z
+Creation Date: 2015-02-17T01:16:04Z
+Registry Expiry Date: 2021-02-17T01:16:04Z
+Registrar: Giving Limited
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C3E92FEC8549A4F6FA9DCB17144343318-ARI
+Registrant Name: Giving Limited
+Registrant Organization: Giving Limited
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City: London
+Registrant State/Province:
+Registrant Postal Code:
+Registrant Country: gb
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: icann@justgiving.com
+Registry Admin ID: C3E92FEC8549A4F6FA9DCB17144343318-ARI
+Admin Name: Giving Limited
+Admin Organization: Giving Limited
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City: London
+Admin State/Province:
+Admin Postal Code:
+Admin Country: gb
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: icann@justgiving.com
+Registry Tech ID: C3E92FEC8549A4F6FA9DCB17144343318-ARI
+Tech Name: Giving Limited
+Tech Organization: Giving Limited
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City: London
+Tech State/Province:
+Tech Postal Code:
+Tech Country: gb
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: icann@justgiving.com
+Name Server: a.nic.giving
+Name Server: b.nic.giving
+Name Server: d.nic.giving
+Name Server: c.nic.giving
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in Registrars' WHOIS database is provided by the Registry for information purposes only. By submitting a WHOIS query, you agree that you will use this data only for lawful purpose. In addition, you agree not to:
+(a) use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts; or
+(b) use the data to enable high volume, automated, electronic processes that send queries or data to the systems of the Registry Operator or any ICANN-Accredited Registrar, except as reasonably necessary to register domain names or modify existing registrations.
+(c) sell or redistribute the data except insofar as it has been incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the bulk data from the value-added product or service for use by other parties.
+
+The Registry reserves the right to modify these terms at any time.
+The Registry cannot guarantee the accuracy of the data provided.
+
+By accessing and using the Registry's WHOIS service, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

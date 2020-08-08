@@ -1,0 +1,72 @@
+Domain Name: nic.aetna
+Registry Domain ID: D1798-AETNA
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-03T22:29:01Z
+Creation Date: 2013-09-16T19:35:10Z
+Registry Expiry Date: 2024-09-15T23:59:59Z
+Registrar: Aetna Life Insurance Company
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization:
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: CT
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns2.dns.nic.aetna
+Name Server: ns3.dns.nic.aetna
+Name Server: ns1.dns.nic.aetna
+Name Server: ns6.dns.nic.aetna
+Name Server: ns4.dns.nic.aetna
+Name Server: ns5.dns.nic.aetna
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:37Z <<<
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.aetna.
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The WHOIS service offered by Aetna Inc. (Aetna), the Registry Operator for .aetna, and the access to the records in the .aetna WHOIS database are provided for information purposes only and is designed to assist persons in obtaining information related to the registration records of existing domain names. Aetna cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense. By submitting a WHOIS query, you agree that you will not use this data: (i) to allow, enable or otherwise support in any way the transmission of unsolicited, commercial advertising or other solicitations whether via direct mail, email, telephone or otherwise; (ii) to enable high volume, automated, electronic processes that apply to the registry (or its systems ); (iii) for target advertising in any possible way; (iv) to cause nuisance in any possible way to the registrants by sending (whether by automated, electronic processes capable of enabling high volumes or other possible means) messages to them; (v) to violate any law, rule, regulation or statute; and/or (vi) in contravention of any applicable data and privacy protection acts. Without prejudice to the above, it is explicitly forbidden to extract, copy and/or use or re-utilize in any form and by any means (electronically or not) the whole or a quantitatively or qualitatively substantial part of the contents of the WHOIS database without prior and explicit permission by Aetna, nor in any attempt hereof, or to apply automated, electronic processes to Aetna (or its systems). You agree that any reproduction and/or transmission of data for commercial purposes will always be considered as the extraction of a substantial part of the content of the WHOIS database. By utilizing this website and/or submitting a query you agree to abide by this policy and accept that Aetna can take measures to limit the use of its WHOIS services in order to protect the privacy of its registrants or the integrity of the database. We reserve the right to make changes to the Website, the Service(s) and these Terms and Conditions at any time without prior notice to you. It is your responsibility to review these Terms and Conditions each time you access or use the Website and/or Service(s) to keep apprised of any changes. If you do not agree to the changes implemented by Neustar, your sole and exclusive remedy is to terminate your use of the Website and/or Service(s). By executing a query, in any manner whatsoever, you agree to abide by these Terms and Conditions.

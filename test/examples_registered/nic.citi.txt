@@ -1,0 +1,116 @@
+Domain Name: nic.citi
+Registry Domain ID: D214-CITI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-11T01:31:19Z
+Creation Date: 2013-08-09T23:29:23Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Citigroup Inc.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Citigroup Inc.
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: NY
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns6.dns.nic.citi
+Name Server: ns2.dns.nic.citi
+Name Server: ns5.dns.nic.citi
+Name Server: ns3.dns.nic.citi
+Name Server: ns4.dns.nic.citi
+Name Server: ns1.dns.nic.citi
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:36Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.citi.
+
+.CITI Registration Data Directory Service (Whois) Terms of Service
+
+Last modified: July 18, 2016
+
+Introduction 
+ 
+"Whois" is a query-based protocol used to look up certain information related to domain names, including the name and contact information of a particular domain name registrant, the domain name registrar and the name servers for the domain name, among other information.   This information is provided by the registrant of each domain name, and it is the registrant's responsibility to ensure that its information is complete and accurate, including updating their information if a change has occurred to the information provided.  
+
+Citigroup provides access to its Registration Data Directory Service (Whois) Database ("Whois Database") solely for informational purposes, to assist you in obtaining information about the domain names registered in our TLD.  Our Whois Database only contains information related to domain names that are currently registered within the TLD operated by Citigroup.
+
+Using Our Whois Database Query Services and Whois Data
+
+By querying our Whois Database, you are agreeing to comply with these terms so please read them carefully.
+
+You shall not misuse the Whois Database. It is intended solely for query-based access. 
+
+You shall not use the Whois Database to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations. You shall not access our Whois Database through the use of high volume, automated electronic processes that send queries or data to the systems of Citigroup or any ICANN-accredited registrar. You shall not use the Whois Database to interrupt, disrupt, or interfere in the normal business operations of any registrant.  You shall only use the information contained in the Whois Database for lawful purposes.
+ 
+We record certain details about queries to our Whois Database for the purposes of detecting and preventing misuse. We reserve the right to restrict or deny your access to the database if you fail to comply with these terms, or to ensure the operational stability of the Whois Database.  Standard Whois database searches, including ours, are strictly rate limited for unidentified third parties, which helps to prevent data mining and other abuses of this system.
+  
+Intellectual Property Protection
+
+Using our Whois Database does not give you ownership of any intellectual property or other proprietary rights in the Whois Database or the content that you access. Do not compile, repackage, disseminate, or otherwise use the information contained in the Whois Database in its entirety, or in any substantial portion, without our prior written permission.
+ 
+Suspending or Terminating Access
+
+We may suspend or stop providing our Whois Database to you if you do not comply with these terms, when we are investigating suspected misconduct, or to ensure the operational stability of the Whois Database. If you do not comply with these terms, and we do not take action right away, this does not mean that we are giving up any rights that we may have (such as taking action in the future).
+
+Our Warranties and Disclaimers
+
+We provide our Whois Database using a commercially reasonable level of skill and care, but there are certain things that we do not promise.
+
+Our Whois Database displays some content that is not Citigroup's. This content is the sole responsibility of the entity that makes it available. We may review content to determine whether it is illegal or violates our policies, but that does not necessarily mean that we review all content, so please do not assume that we do.
+
+OTHER THAN AS EXPRESSLY SET OUT IN THESE TERMS, NEITHER CITIGROUP, NOR ITS SUPPLIERS OR DISTRIBUTORS MAKE ANY SPECIFIC PROMISES ABOUT THE WHOIS DATABASE. FOR EXAMPLE, WE DO NOT MAKE ANY COMMITMENTS ABOUT THE INFORMATION WITHIN THE WHOIS DATABASE, THE SPECIFIC FUNCTION OF THE WHOIS DATABASE, OR ITS RELIABILITY, OR ITS ABILITY TO MEET YOUR NEEDS. WE PROVIDE IT "AS IS," AND WE DO NOT GUARANTEE THE ACCURACY OF THE INFORMATION WITHIN THE WHOIS DATABASE.
+
+If you believe that certain registration data is incorrect you can make a complaint by email to citi-bjw@mayerbrown.com.  We will investigate all complaints to check compliance with our Domain Name Registration Policy.
+
+About These Terms
+
+We may modify these terms at any time without prior notice, for example to reflect changes in the law or changes to the Whois Database. We will post notice of modifications to these terms on http://NIC.CITI, so please periodically check for updates.
+
+For information about how to contact Citigroup, please visit our contact page. 

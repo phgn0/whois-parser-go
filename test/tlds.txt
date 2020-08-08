@@ -76,7 +76,6 @@ global
 studio
 media
 xn--55qx5d
-realtor
 ink
 center
 press

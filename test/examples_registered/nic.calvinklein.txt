@@ -1,0 +1,105 @@
+Domain Name: nic.calvinklein
+Registry Domain ID: D1006-VINKLEIN
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-10T23:47:55Z
+Creation Date: 2013-09-16T19:57:31Z
+Registry Expiry Date: 2024-09-15T23:59:59Z
+Registrar: PVH gTLD Holdings LLC
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C2180-VINKLEIN
+Registrant Name: PVH gTLD Holdings LLC
+Registrant Organization:
+Registrant Street: 200 Madison Avenue 18th Floor
+Registrant Street:
+Registrant Street:
+Registrant City: New York
+Registrant State/Province: NY
+Registrant Postal Code: 10016
+Registrant Country: US
+Registrant Phone: +1.2123813500
+Registrant Phone Ext:
+Registrant Fax: +1.2123813950
+Registrant Fax Ext:
+Registrant Email: ckregistry@fairwindspartners.com
+Registry Admin ID: C1005-VINKLEIN
+Admin Name: Neustar, Inc.
+Admin Organization:
+Admin Street: 21575 Ridgetop Cir
+Admin Street:
+Admin Street:
+Admin City: Sterling
+Admin State/Province: VA
+Admin Postal Code: 20166
+Admin Country: US
+Admin Phone: +1.5714345400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: support@neustar.biz
+Registry Tech ID: C1005-VINKLEIN
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns1.dns.nic.calvinklein
+Name Server: ns3.dns.nic.calvinklein
+Name Server: ns2.dns.nic.calvinklein
+Name Server: ns5.dns.nic.calvinklein
+Name Server: ns4.dns.nic.calvinklein
+Name Server: ns6.dns.nic.calvinklein
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:51Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Whois data is provided by registrants, and it is the registrant's responsibility to ensure that its data is complete, accurate, and up to date.
+
+PVH gTLD Holdings LLC provides access to the Whois Database ("Database") solely for informational purposes, to assist you in obtaining data about the domain names registered in the .CALVINKLEIN TLD. Our Database only contains data related to domain names currently registered within the TLD.
+
+Use of Services & Data
+
+By using our Database, you agree to these terms.
+
+You shall not misuse the Database. It is intended solely for query-based access.
+
+You shall not use the Database to support transmission of mass unsolicited, commercial advertising or solicitations. You shall not access our Database through high volume, automated electronic processes that send queries or data to our systems or any registrar. You shall not use the Database to interrupt, disrupt, or interfere in the normal business operations of any registrant. You shall only use the data contained in the Database for lawful purposes.
+
+We record data about Database queries to detect and prevent misuse. We reserve the right to restrict or deny your access to the database if you fail to comply with these terms, or to ensure the operational stability of the Database. Database searches are strictly rate limited for unidentified third parties.
+
+Intellectual Property 
+
+Using our Database does not give you ownership of any intellectual property or other proprietary rights in the Database or the content that you access. Do not compile, repackage, disseminate, or otherwise use the data contained in the Database in its entirety, or in any substantial portion, without our prior written permission.
+
+Suspending/Terminating Access
+
+We may suspend or stop providing our Database to you if you do not comply with these terms, when we are investigating suspected misconduct, or to ensure the operational stability of the Database. If you do not comply with these terms, and we do not take action right away, this does not mean that we are giving up any rights that we may have.
+
+Warranties & Disclaimers
+
+Our Database displays some content that is not ours. This content is the sole responsibility of the entity that makes it available. We may review content to determine whether it is illegal or violates our policies, but we do not monitor or review all content.
+
+OTHER THAN AS EXPRESSLY SET OUT IN THESE TERMS, NEITHER PVH GTLD HOLDINGS LLC, NOR ITS SUPPLIERS OR DISTRIBUTORS MAKE ANY SPECIFIC PROMISES ABOUT THE DATABASE, SUCH AS COMMITMENTS ABOUT THE DATA WITHIN THE DATABASE, ITS SPECIFIC FUNCTION, ITS RELIABILITY, OR ITS ABILITY TO MEET YOUR NEEDS. WE PROVIDE IT "AS IS," AND DO NOT GUARANTEE THE ACCURACY OF THE DATA WITHIN THE DATABASE.
+
+If you believe that certain registration data is incorrect, email to abuse@ck.com. We will investigate complaints to check compliance with our Domain Name Registration Policy.
+
+Modifications
+
+We may modify these terms at any time without prior notice. We will post notice of modifications on NIC.CALVINKLEIN.
+

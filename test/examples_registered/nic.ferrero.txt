@@ -1,0 +1,82 @@
+Domain Name: nic.ferrero
+Registry Domain ID: D808-FERRERO
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-11T02:25:45Z
+Creation Date: 2013-09-16T20:16:05Z
+Registry Expiry Date: 2024-09-15T23:59:59Z
+Registrar: Ferrero Trading Lux S.A.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C4160-FERRERO
+Registrant Name: Stefano Marzocchi
+Registrant Organization: Ferrero Trading Lux S.A.
+Registrant Street: Rue de Treves, Findel Business Center Complexe B Findel
+Registrant Street:
+Registrant Street:
+Registrant City: Luxembourg City
+Registrant State/Province:
+Registrant Postal Code: L-2632
+Registrant Country: LU
+Registrant Phone: +352.3497119506
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: stefano.marzocchi@ferrero.com
+Registry Admin ID: C4160-FERRERO
+Admin Name: Stefano Marzocchi
+Admin Organization: Ferrero Trading Lux S.A.
+Admin Street: Rue de Treves, Findel Business Center Complexe B Findel
+Admin Street:
+Admin Street:
+Admin City: Luxembourg City
+Admin State/Province:
+Admin Postal Code: L-2632
+Admin Country: LU
+Admin Phone: +352.3497119506
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: stefano.marzocchi@ferrero.com
+Registry Tech ID: C807-FERRERO
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns6.dns.nic.ferrero
+Name Server: ns5.dns.nic.ferrero
+Name Server: ns1.dns.nic.ferrero
+Name Server: ns2.dns.nic.ferrero
+Name Server: ns3.dns.nic.ferrero
+Name Server: ns4.dns.nic.ferrero
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:34Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in the .FERRERO Whois database is provided to assist you in obtaining information about a domain name registration record.  Ferrero makes this information available "as is," for information purposes only, and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data:
+
+(1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam), telephone or fax; or
+
+(2) in contravention of any applicable data and privacy protection legislation; or
+
+(3) to enable high volume, automated, electronic processes that send queries or data to the .FERRERO registry, Registrants, or the systems of any Registrar.  The compilation, repackaging, dissemination or other use of this data is expressly prohibited without the prior written consent of Ferrero.  You agree not to use electronic processes that are automated and high-volume to access or query the WHOIS database except as reasonably necessary to register domain names or modify existing domain name registrations.  
+
+Ferrero reserves the right to modify these terms at any time. By submitting this query, you agree to abide by these terms. Ferrero reserves the right to restrict or terminate your access to this WHOIS database if you fail to abide by these terms.  
+
+Note the .FERRERO database contains ONLY .FERRERO domains and Registrars.  Failure to locate a record in the WHOIS database is not indicative of the unavailability of a domain name.

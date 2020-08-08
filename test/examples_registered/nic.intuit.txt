@@ -1,0 +1,84 @@
+Domain Name: nic.intuit
+Registry Domain ID: D412-INTUIT
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2017-07-14T09:07:51Z
+Creation Date: 2013-08-09T22:14:44Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Intuit Inc.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C1685-INTUIT
+Registrant Name: Intuit Inc.
+Registrant Organization:
+Registrant Street: 7535 Torrey Santa Fe Road
+Registrant Street:
+Registrant Street:
+Registrant City: San Diego
+Registrant State/Province: CA
+Registrant Postal Code: 92129
+Registrant Country: US
+Registrant Phone: +1.8582158000
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: nadmin@intuit.com
+Registry Admin ID: C411-INTUIT
+Admin Name: Neustar, Inc.
+Admin Organization:
+Admin Street: 21575 Ridgetop Cir
+Admin Street:
+Admin Street:
+Admin City: Sterling
+Admin State/Province: VA
+Admin Postal Code: 20166
+Admin Country: US
+Admin Phone: +1.5714345400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: support@neustar.biz
+Registry Tech ID: C411-INTUIT
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns5.dns.nic.intuit
+Name Server: ns1.dns.nic.intuit
+Name Server: ns3.dns.nic.intuit
+Name Server: ns6.dns.nic.intuit
+Name Server: ns2.dns.nic.intuit
+Name Server: ns4.dns.nic.intuit
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:48Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The WHOIS service offered by Intuit Administrative Services, Inc., the Registry Operator for .INTUIT (hereafter “Intuit”), including but not limited to the records and the access to the records in the .INTUIT WHOIS database (the “Services”), are provided for information purposes only and are designed to assist the public in obtaining certain information related to the registration records of existing domain names.  
+
+Intuit cannot, under any circumstances, be held liable for the information contained in the .INTUIT WHOIS database, including but not limited to instances where the information is wrong, incomplete, or not accurate in any way. 
+
+By submitting a WHOIS query, you agree that you will not use this data: (i) to allow, enable or otherwise support in any way the transmission of unsolicited commercial messages, content, advertising or other solicitations, whether via direct mail, email, telephone, fax or otherwise; (ii) to enable high volume, automated, electronic processes and/or queries that apply to the .INTUIT registry (or its systems ); (iii) for targeting advertising or collecting personal information for commercial use; (iv) to cause nuisance in any way to registrants in the .INTUIT domain by sending unsolicited messages to them which are unrelated to operation or ownership of a second-level domain or its compliance with relevant law or policy; (v) to violate any law, rule, regulation or statute; and/or (vi) in contravention of any applicable data and privacy protection acts or laws worldwide. 
+
+Notwithstanding the above, you agree it is explicitly forbidden to extract, copy and/or use, reuse or re-utilize in any form and by any means (electronically or not) the whole or a quantitatively or qualitatively substantial part of the contents of the WHOIS database without prior and explicit permission by Intuit.
+
+By utilizing this website and/or submitting a query you agree to abide by these Terms and Conditions and accept that Intuit can take measures to limit the use of its WHOIS services in order to protect the privacy of its registrants or the integrity of the database and related systems, or for any other reason it deems necessary. 
+
+Intuit reserves the right to make changes to the .INTUIT WHOIS database, related web pages, the Service(s) and these Terms and Conditions at any time without prior notice to you. It is your responsibility to review these Terms and Conditions each time you access or use database and the Services to keep apprised of any changes. If you do not agree to the Terms and Conditions or to any changes implemented by Intuit or its authorized representatives, your sole and exclusive remedy is to terminate your use of the database and the Service(s) and all related web pages.
+
+By executing a query, in any manner whatsoever, you agree to be bound by and to abide by these Terms and Conditions.

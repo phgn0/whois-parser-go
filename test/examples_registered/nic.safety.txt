@@ -1,0 +1,75 @@
+Domain Name: nic.safety
+Registry Domain ID: D511-SAFETY
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-15T23:52:14Z
+Creation Date: 2013-08-09T22:52:09Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Safety Registry Services LLC
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C510-SAFETY
+Registrant Name: Safety Registry Services, LLC.
+Registrant Organization:
+Registrant Street: 100 Grainger Parkway
+Registrant Street:
+Registrant Street:
+Registrant City: Lake Forest
+Registrant State/Province: Illinois
+Registrant Postal Code: 60045
+Registrant Country: US
+Registrant Phone: +1.2022239252
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: lodico.sf@fairwindspartners.com
+Registry Admin ID: C510-SAFETY
+Admin Name: Safety Registry Services, LLC.
+Admin Organization:
+Admin Street: 100 Grainger Parkway
+Admin Street:
+Admin Street:
+Admin City: Lake Forest
+Admin State/Province: Illinois
+Admin Postal Code: 60045
+Admin Country: US
+Admin Phone: +1.2022239252
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: lodico.sf@fairwindspartners.com
+Registry Tech ID: C510-SAFETY
+Tech Name: Safety Registry Services, LLC.
+Tech Organization:
+Tech Street: 100 Grainger Parkway
+Tech Street:
+Tech Street:
+Tech City: Lake Forest
+Tech State/Province: Illinois
+Tech Postal Code: 60045
+Tech Country: US
+Tech Phone: +1.2022239252
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: lodico.sf@fairwindspartners.com
+Name Server: ns5.dns.nic.safety
+Name Server: ns2.dns.nic.safety
+Name Server: ns1.dns.nic.safety
+Name Server: ns6.dns.nic.safety
+Name Server: ns4.dns.nic.safety
+Name Server: ns3.dns.nic.safety
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:44Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The WHOIS service offered by Safety Registry Services LLC (Safety Registry) the Registry Operator for .SAFETY, and the access to the records in the .SAFETY WHOIS database are provided for information purposes only and is designed to assist persons in obtaining information related to the registration records of existing domain names. Safety Registry cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense. By submitting a WHOIS query, you agree that you will not use this data: (i) to allow, enable or otherwise support in any way the transmission of unsolicited, commercial advertising or other solicitations whether via direct mail, email, telephone or otherwise; (ii) to enable high volume, automated, electronic processes that apply to the registry (or its systems); (iii) for target advertising in any possible way; (iv) to cause nuisance in any possible way to the registrants by sending (whether by automated, electronic processes capable of enabling high volumes or other possible means) messages to them; (v) to violate any law, rule, regulation or statute; and/or (vi) in contravention of any applicable data and privacy protection acts. Without prejudice to the above, it is explicitly forbidden to extract, copy and/or use or re-utilize in any form and by any means (electronically or not) the whole or a quantitatively or qualitatively substantial part of the contents of the WHOIS database without prior and explicit permission by Safety Registry nor in any attempt hereof, or to apply automated, electronic processes to Safety Registry (or its systems). You agree that any reproduction and/or transmission of data for commercial purposes will always be considered as the extraction of a substantial part of the content of the WHOIS database. By utilizing this website and/or submitting a query you agree to abide by this policy and accept that Safety Registry, can take measures to limit the use of its WHOIS services in order to protect the privacy of its registrants or the integrity of the database. We reserve the right to make changes to the Website, Services and these Terms and Conditions at any time without prior notice to you. It is your responsibility to review these Terms of Use each time you access or use the Website and/or Services to keep apprised of any changes. If you do not agree to the changes implemented by Safety Registry your sole and exclusive remedy is to terminate your use of the website and/or Service(s).
+
+By executing a query, in any manner whatsoever, you agree to abide by these Terms and Conditions.
+

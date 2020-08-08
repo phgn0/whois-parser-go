@@ -1,0 +1,82 @@
+Domain Name: nic.netbank
+Registry Domain ID: DB83325BBA81448C5BC8E25E02CB2991C-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2020-04-18T01:49:48Z
+Creation Date: 2015-03-04T01:49:42Z
+Registry Expiry Date: 2021-03-04T01:49:42Z
+Registrar: COMMONWEALTH BANK OF AUSTRALIA
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C0E2C944F5C8A47D39A91C1414767588D-ARI
+Registrant Name: Domain Admin
+Registrant Organization: COMMONWEALTH BANK OF AUSTRALIA
+Registrant Street: Ground Floor
+Registrant Street: Tower 1
+Registrant Street: 201 Sussex Street
+Registrant City: Sydney
+Registrant State/Province: NSW
+Registrant Postal Code: 1155
+Registrant Country: au
+Registrant Phone: +61.477387865
+Registrant Phone Ext:
+Registrant Fax: +61.291181601
+Registrant Fax Ext:
+Registrant Email: domains@cba.com.au
+Registry Admin ID: C0E2C944F5C8A47D39A91C1414767588D-ARI
+Admin Name: Domain Admin
+Admin Organization: COMMONWEALTH BANK OF AUSTRALIA
+Admin Street: Ground Floor
+Admin Street: Tower 1
+Admin Street: 201 Sussex Street
+Admin City: Sydney
+Admin State/Province: NSW
+Admin Postal Code: 1155
+Admin Country: au
+Admin Phone: +61.477387865
+Admin Phone Ext:
+Admin Fax: +61.291181601
+Admin Fax Ext:
+Admin Email: domains@cba.com.au
+Registry Tech ID: C0E2C944F5C8A47D39A91C1414767588D-ARI
+Tech Name: Domain Admin
+Tech Organization: COMMONWEALTH BANK OF AUSTRALIA
+Tech Street: Ground Floor
+Tech Street: Tower 1
+Tech Street: 201 Sussex Street
+Tech City: Sydney
+Tech State/Province: NSW
+Tech Postal Code: 1155
+Tech Country: au
+Tech Phone: +61.477387865
+Tech Phone Ext:
+Tech Fax: +61.291181601
+Tech Fax Ext:
+Tech Email: domains@cba.com.au
+Name Server: b.nic.netbank
+Name Server: a.nic.netbank
+Name Server: d.nic.netbank
+Name Server: c.nic.netbank
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:30:17Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in Registrars' WHOIS database is provided by the Registry for information purposes only. By submitting a WHOIS query, you agree that you will use this data only for lawful purpose. In addition, you agree not to:
+(a) use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts; or
+(b) use the data to enable high volume, automated, electronic processes that send queries or data to the systems of the Registry Operator or any ICANN-Accredited Registrar, except as reasonably necessary to register domain names or modify existing registrations.
+(c) sell or redistribute the data except insofar as it has been incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the bulk data from the value-added product or service for use by other parties.
+
+The Registry reserves the right to modify these terms at any time.
+The Registry cannot guarantee the accuracy of the data provided.
+
+By accessing and using the Registry's WHOIS service, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

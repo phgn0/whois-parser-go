@@ -1,0 +1,82 @@
+Domain Name: nic.cuisinella
+Registry Domain ID: DF21C5147A0424BDBA95B9499024183F5-ARI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2017-07-14T08:50:52Z
+Creation Date: 2014-06-20T00:39:36Z
+Registry Expiry Date: 2024-06-20T00:39:36Z
+Registrar: cuisinella
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C5A81BC0B4CD84EA68BCDA3C9A1A49171-ARI
+Registrant Name: SALM S.A.S.
+Registrant Organization:
+Registrant Street: 5 rue Clemenceau
+Registrant Street:
+Registrant Street:
+Registrant City: LIEPVRE
+Registrant State/Province:
+Registrant Postal Code: 68660
+Registrant Country: fr
+Registrant Phone: +33.389582400
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: administrative-contact-cuisinella@salm.fr
+Registry Admin ID: C5A81BC0B4CD84EA68BCDA3C9A1A49171-ARI
+Admin Name: SALM S.A.S.
+Admin Organization:
+Admin Street: 5 rue Clemenceau
+Admin Street:
+Admin Street:
+Admin City: LIEPVRE
+Admin State/Province:
+Admin Postal Code: 68660
+Admin Country: fr
+Admin Phone: +33.389582400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: administrative-contact-cuisinella@salm.fr
+Registry Tech ID: C5A81BC0B4CD84EA68BCDA3C9A1A49171-ARI
+Tech Name: SALM S.A.S.
+Tech Organization:
+Tech Street: 5 rue Clemenceau
+Tech Street:
+Tech Street:
+Tech City: LIEPVRE
+Tech State/Province:
+Tech Postal Code: 68660
+Tech Country: fr
+Tech Phone: +33.389582400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: administrative-contact-cuisinella@salm.fr
+Name Server: b.nic.cuisinella
+Name Server: a.nic.cuisinella
+Name Server: c.nic.cuisinella
+Name Server: d.nic.cuisinella
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:35Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in Registrars' WHOIS database is provided by the Registry for information purposes only. By submitting a WHOIS query, you agree that you will use this data only for lawful purpose. In addition, you agree not to:
+(a) use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts; or
+(b) use the data to enable high volume, automated, electronic processes that send queries or data to the systems of the Registry Operator or any ICANN-Accredited Registrar, except as reasonably necessary to register domain names or modify existing registrations.
+(c) sell or redistribute the data except insofar as it has been incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the bulk data from the value-added product or service for use by other parties.
+
+The Registry reserves the right to modify these terms at any time.
+The Registry cannot guarantee the accuracy of the data provided.
+
+By accessing and using the Registry's WHOIS service, you agree to these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

@@ -1,0 +1,89 @@
+Domain Name: nic.rmit
+Registry Domain ID: DD540DF207E0E48CFA3B82CBC960447E6-ARI
+Registrar WHOIS Server: Not Applicable
+Registrar URL: Not Applicable
+Updated Date: 2020-04-02T02:14:19Z
+Creation Date: 2015-02-17T02:14:13Z
+Registry Expiry Date: 2021-02-17T02:14:13Z
+Registrar: Royal Melbourne Institute of Technology
+Registrar IANA ID: 9998
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C160B471DCDB048AFBE24EF08F97E3F6F-NSR
+Registrant Name: Royal Melbourne Institute of Technology
+Registrant Organization: Royal Melbourne Institute of Technology
+Registrant Street: 124 La Trobe Street
+Registrant Street:
+Registrant Street:
+Registrant City: Melbourne
+Registrant State/Province: Victoria
+Registrant Postal Code: 3000
+Registrant Country: au
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: ngtld-rmit@cscinfo.com
+Registry Admin ID: C160B471DCDB048AFBE24EF08F97E3F6F-NSR
+Admin Name: Royal Melbourne Institute of Technology
+Admin Organization: Royal Melbourne Institute of Technology
+Admin Street: 124 La Trobe Street
+Admin Street:
+Admin Street:
+Admin City: Melbourne
+Admin State/Province: Victoria
+Admin Postal Code: 3000
+Admin Country: au
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: ngtld-rmit@cscinfo.com
+Registry Tech ID: C160B471DCDB048AFBE24EF08F97E3F6F-NSR
+Tech Name: Royal Melbourne Institute of Technology
+Tech Organization: Royal Melbourne Institute of Technology
+Tech Street: 124 La Trobe Street
+Tech Street:
+Tech Street:
+Tech City: Melbourne
+Tech State/Province: Victoria
+Tech Postal Code: 3000
+Tech Country: au
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: ngtld-rmit@cscinfo.com
+Name Server: c.nic.rmit
+Name Server: a.nic.rmit
+Name Server: b.nic.rmit
+Name Server: d.nic.rmit
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:44Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Service is provided so that you may look up certain information in relation to domain names that we store in our database.
+
+Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy.
+
+The information provided by this Service is 'as is' and we make no guarantee of it its accuracy.
+
+You agree that by your use of the Service you will not use the information provided by us in a way which is:
+* inconsistent with any applicable laws,
+* inconsistent with any policy issued by us,
+* to generate, distribute, or facilitate unsolicited mass email, promotions, advertisings or other solicitations, or
+* to enable high volume, automated, electronic processes that apply to the Service.
+
+You acknowledge that:
+* a response from the Service that a domain name is 'available', does not guarantee that is able to be registered,
+* we may restrict, suspend or terminate your access to the Service at any time, and
+* the copying, compilation, repackaging, dissemination or other use of the information provided by the Service is not permitted, without our express written consent.
+
+This information has been prepared and published in order to represent administrative and technical management of the TLD.
+
+We may discontinue or amend any part or the whole of these Terms of Service from time to time at our absolute discretion.

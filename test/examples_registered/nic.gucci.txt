@@ -1,0 +1,84 @@
+Domain Name: nic.gucci
+Registry Domain ID: D412-GUCCI
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-11T02:41:30Z
+Creation Date: 2013-08-09T22:04:07Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Guccio Gucci S.p.a.
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C5744-GUCCI
+Registrant Name: Domain Manager
+Registrant Organization: Guccio Gucci S.P.A.
+Registrant Street: Via Tornabuoni 73/r
+Registrant Street:
+Registrant Street:
+Registrant City: Firenze
+Registrant State/Province:
+Registrant Postal Code: FI 50123
+Registrant Country: IT
+Registrant Phone: +39.05575922207
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domain@gucci.it
+Registry Admin ID: C5744-GUCCI
+Admin Name: Domain Manager
+Admin Organization: Guccio Gucci S.P.A.
+Admin Street: Via Tornabuoni 73/r
+Admin Street:
+Admin Street:
+Admin City: Firenze
+Admin State/Province:
+Admin Postal Code: FI 50123
+Admin Country: IT
+Admin Phone: +39.05575922207
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domain@gucci.it
+Registry Tech ID: C411-GUCCI
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns5.dns.nic.gucci
+Name Server: ns2.dns.nic.gucci
+Name Server: ns4.dns.nic.gucci
+Name Server: ns1.dns.nic.gucci
+Name Server: ns3.dns.nic.gucci
+Name Server: ns6.dns.nic.gucci
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in the .gucci Whois database is provided to assist you in obtaining information about a domain name registration record.  
+
+Guccio Gucci SpA, an Italian incorporated  sole ownership, with registered office in Via Tornabuoni 73r, 50123 Florence, Italy, VAT no. 04294710480, number of register of incorporation and Fiscal Code 03031300159, share capital Euro 50,000,000.00 fully paid-in, subject to the management and coordination of Kering Holland NV, a Dutch company with registered offices in Amsterdam  (hereinafter "Gucci") makes this information available "as is", for information purposes only, and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data:
+
+(1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam), telephone or fax; or
+
+(2) in contravention of any applicable data and privacy protection legislation; or
+
+(3) to enable high volume, automated, electronic processes that send queries or data to the .gucci registry, Registrants, or the systems of any Registrar.  The compilation, repackaging, dissemination or other use of this data is expressly prohibited without the prior written consent of Gucci.  You agree not to use electronic processes that are automated and high-volume to access or query the WHOIS database except as reasonably necessary to register domain names or modify existing domain name registrations.  
+
+Gucci reserves the right to modify these terms at any time. By submitting this query, you agree to abide by these terms. Gucci reserves the right to restrict or terminate your access to this WHOIS database if you fail to abide by these terms.  
+
+Note the .gucci database contains ONLY .gucci domains and Registrars.  Failure to locate a record in the WHOIS database is not indicative of the unavailability of a domain name.

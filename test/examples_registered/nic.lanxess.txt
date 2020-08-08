@@ -1,0 +1,74 @@
+Domain Name: nic.lanxess
+Registry Domain ID: D610-LANXESS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-14T23:28:55Z
+Creation Date: 2013-08-09T22:22:41Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: LANXESS Corporation
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization:
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: Pennsylvania
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns2.dns.nic.lanxess
+Name Server: ns5.dns.nic.lanxess
+Name Server: ns1.dns.nic.lanxess
+Name Server: ns3.dns.nic.lanxess
+Name Server: ns4.dns.nic.lanxess
+Name Server: ns6.dns.nic.lanxess
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:47Z <<<
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.lanxess.
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Whois information is for informational purposes only. LANXESS Corporation (we, us, our) makes this information available "as is" and does not guarantee its accuracy. The data can assist a user (you, your) in obtaining information about or related to a domain name registration record. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. 
+We reserve the right to modify any part of the whole of these Terms of Use any time. By submitting this query, you agree to be bound by these Terms of Use.
+

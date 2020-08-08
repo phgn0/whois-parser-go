@@ -1,0 +1,72 @@
+Domain Name: nic.citadel
+Registry Domain ID: D1006-CITADEL
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2017-07-14T08:47:27Z
+Creation Date: 2013-09-16T20:09:01Z
+Registry Expiry Date: 2024-09-15T23:59:59Z
+Registrar: Citadel Domain LLC
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C1883-CITADEL
+Registrant Name: Citadel Domain LLC
+Registrant Organization: Citadel Domain LLC
+Registrant Street: 131 South Dearborn Street
+Registrant Street:
+Registrant Street:
+Registrant City: Chicago
+Registrant State/Province: IL
+Registrant Postal Code: 60603
+Registrant Country: US
+Registrant Phone: +1.3123952100
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: registry@citadelgroup.com
+Registry Admin ID: C1005-CITADEL
+Admin Name: Neustar, Inc.
+Admin Organization:
+Admin Street: 21575 Ridgetop Cir
+Admin Street:
+Admin Street:
+Admin City: Sterling
+Admin State/Province: VA
+Admin Postal Code: 20166
+Admin Country: US
+Admin Phone: +1.5714345400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: support@neustar.biz
+Registry Tech ID: C1005-CITADEL
+Tech Name: Neustar, Inc.
+Tech Organization:
+Tech Street: 21575 Ridgetop Cir
+Tech Street:
+Tech Street:
+Tech City: Sterling
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.5714345400
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@neustar.biz
+Name Server: ns2.dns.nic.citadel
+Name Server: ns4.dns.nic.citadel
+Name Server: ns1.dns.nic.citadel
+Name Server: ns3.dns.nic.citadel
+Name Server: ns5.dns.nic.citadel
+Name Server: ns6.dns.nic.citadel
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:51Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The WHOIS service offered by Citadel Domain LLC, the Registry Operator for .citadel, and the access to the records in the .citadel WHOIS database are provided for information purposes only and is designed to assist persons in obtaining information related to the registration records of existing domain names. Citadel Domain LLC cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense. By submitting a WHOIS query, you agree that you will not use this data: (i) to allow, enable or otherwise support in any way the transmission of unsolicited, commercial advertising or other solicitations whether via direct mail, email, telephone or otherwise; (ii) to enable high volume, automated, electronic processes that apply to the registry (or its systems ); (iii) for target advertising in any possible way; (iv) to cause nuisance in any possible way to the registrants by sending (whether by automated, electronic processes capable of enabling high volumes or other possible means) messages to them; (v) to violate any law, rule, regulation or statute; and/or (vi) in contravention of any applicable data and privacy protection acts. Without prejudice to the above, it is explicitly forbidden to extract, copy and/or use or re-utilize in any form and by any means (electronically or not) the whole or a quantitatively or qualitatively substantial part of the contents of the WHOIS database without prior and explicit permission by Citadel Domain LLC, nor in any attempt hereof, or to apply automated, electronic processes to Citadel Domain LLC (or its systems). You agree that any reproduction and/or transmission of data for commercial purposes will always be considered as the extraction of a substantial part of the content of the WHOIS database. By utilizing this website and/or submitting a query you agree to abide by this policy and accept that Citadel Domain LLC, can take measures to limit the use of its WHOIS services in order to protect the privacy of its registrants or the integrity of the database. We reserve the right to make changes to the Website, the Service(s) and these Terms and Conditions at any time without prior notice to you. It is your responsibility to review these Terms and Conditions each time you access or use the Website and/or Service(s) to keep apprised of any changes. If you do not agree to the changes implemented by Citadel Domain LLC, your sole and exclusive remedy is to terminate your use of the Website and/or Service(s). By executing a query, in any manner whatsoever, you agree to abide by these Terms and Conditions.

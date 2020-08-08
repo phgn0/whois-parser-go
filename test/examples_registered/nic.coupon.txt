@@ -1,0 +1,73 @@
+Domain Name: nic.coupon
+Registry Domain ID: D313-COUPON
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-11T01:36:13Z
+Creation Date: 2013-08-09T23:34:18Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Amazon Registry Services, Inc. (Registry)
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Amazon Registry Services, Inc.
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: WA
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns4.dns.nic.coupon
+Name Server: ns3.dns.nic.coupon
+Name Server: ns5.dns.nic.coupon
+Name Server: ns2.dns.nic.coupon
+Name Server: ns1.dns.nic.coupon
+Name Server: ns6.dns.nic.coupon
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:35Z <<<
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.coupon.
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Amazon Registry Services, Inc. ("Amazon"), the Registry Operator for .COUPON, offers this WHOIS service and provides access to the records in the .COUPON WHOIS database for information purposes only, to assist you in obtaining information about the registration records of existing domain names. The stored information in the .COUPON WHOIS database is provided "as is." We do not guarantee its accuracy or completeness, and cannot be held liable if the stored information in the .COUPON WHOIS database is wrong, incomplete, or inaccurate in any way. By querying the .COUPON WHOIS database in any way, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations in any form or by any means; (ii) to enable high volume, automated, electronic processes that query or send data to Amazon or any registrar; (iii) for target advertising; (iv) to cause nuisance to registrants by sending (by any means) messages to or contacting them; (v) to violate any law, rule, regulation or statute; and/or (vi) in violation of applicable data and privacy protection acts. You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the .COUPON WHOIS database without prior and explicit permission from us. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the .COUPON WHOIS service to protect the privacy of registrants or the integrity of the database. We reserve the right to make changes to this website, the .COUPON WHOIS service, and these Terms and Conditions at any time without prior notice to you. You should review these Terms and Conditions each time you access or use the .COUPON WHOIS database and the .COUPON WHOIS service to learn of any changes. If you do not agree to the changes we have made, your only remedy is to stop your use of the .COUPON WHOIS database and the .COUPON WHOIS service. By executing a query, in any means whatsoever, you agree to these Terms and Conditions.
+

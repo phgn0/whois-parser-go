@@ -1,0 +1,74 @@
+Domain Name: nic.farmers
+Registry Domain ID: D907-FARMERS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-11T02:22:37Z
+Creation Date: 2013-09-16T20:15:37Z
+Registry Expiry Date: 2024-09-15T23:59:59Z
+Registrar: Farmers Insurance Exchange
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Farmers Insurance Exchange
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: CA
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns5.dns.nic.farmers
+Name Server: ns1.dns.nic.farmers
+Name Server: ns2.dns.nic.farmers
+Name Server: ns4.dns.nic.farmers
+Name Server: ns6.dns.nic.farmers
+Name Server: ns3.dns.nic.farmers
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:34Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.farmers.
+
+The WHOIS service offered by Farmers Insurance Exchange (Farmers), the Registry Operator for .FARMERS, and the access to the records in the .FARMERS WHOIS database are provided for information purposes only and is designed to assist persons in obtaining information related to the registration records of existing domain names. Farmers cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense. By submitting a WHOIS query, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations, whether via direct mail, email, telephone or otherwise; (ii) to enable high volume, automated, electronic processes that apply to the registry (or its systems ); (iii) to perform target advertising; (iv) to cause nuisance to the registrants by sending messages to them, whether by automated, electronic processes or other possible means; (v) to violate any law, rule, regulation or statute; or (vi) in contravention of any applicable data and privacy protection acts.  It is explicitly forbidden to extract, copy, use or re-utilize in any form and by any means the whole or a substantial part of the contents of the WHOIS database without prior and explicit permission from Farmers. You agree that any reproduction or transmission of data for commercial purposes will always be considered as the extraction of a substantial part of the content of the WHOIS database. By utilizing the .FARMERS website or submitting a WHOIS query you agree to abide by these Terms and Conditions and accept that Farmers can take measures to limit the use of its WHOIS services in order to protect the privacy of its registrants or the integrity of the database. We reserve the right to make changes to the .FARMERS website, the WHOIS service and these Terms and Conditions at any time without prior notice to you. It is your responsibility to review these Terms and Conditions each time you access or use the .FARMERS website or the WHOIS service to keep apprised of any changes. If you do not agree to the changes implemented by Farmers, your sole and exclusive remedy is to terminate your use of the .FARMERS website and the WHOIS service.  By executing a query, in any manner whatsoever, you agree to abide by these Terms and Conditions.

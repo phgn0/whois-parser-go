@@ -1,0 +1,76 @@
+Domain Name: nic.ftr
+Registry Domain ID: D313-FTR
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2019-07-11T02:36:16Z
+Creation Date: 2013-08-09T22:03:19Z
+Registry Expiry Date: 2024-08-08T23:59:59Z
+Registrar: Frontier Communications Corporation
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Frontier Communications Corporation
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: CT
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns5.dns.nic.ftr
+Name Server: ns3.dns.nic.ftr
+Name Server: ns6.dns.nic.ftr
+Name Server: ns1.dns.nic.ftr
+Name Server: ns4.dns.nic.ftr
+Name Server: ns2.dns.nic.ftr
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2020-08-07T13:25:50Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.ftr.
+
+Access to WHOIS information is available to assist in determining the contents of a domain name registration record in the registry database for top-level domain registries operated by Frontier Communications Corp. ("Frontier") or our affiliated companies or designees.  By submitting a WHOIS query, you agree to be bound by this policy.  The data in the WHOIS database is provided by Frontier for informational purposes only, and we cannot guarantee the accuracy of data submitted by registrants.  WHOIS data inaccuracy complaints may be submitted to ICANN at the following location and/or such other location as may be designated by ICANN:  https://forms.icann.org/en/resources/compliance/complaints/whois/inaccuracy-form.
+
+This service is intended only for query-based WHOIS information access. We may, from time to time, impose certain limits on the amount of simultaneous and/or consecutive WHOIS requests.  You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, facsimile, or mail of mass unsolicited, commercial advertising or solicitations; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Frontier or an approved registrar except as reasonably necessary to register domain names or modify existing registrations.  Frontier reserves the right to modify this policy at any time.

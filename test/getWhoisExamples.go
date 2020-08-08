@@ -22,13 +22,18 @@ func writeDomainResults(domainBase string, folderName string) {
 	tlds := getTldList()
 	for _, tld := range tlds {
 		domain := domainBase + "." + tld
+		fileName := path.Join(folderName, domain+".txt")
+		if _, err := os.Stat(fileName); !os.IsNotExist(err) {
+			// file already exists
+			continue // no overwrite
+		}
+
 		whoisRaw, err := getWhoisString(domain)
 		if err != nil {
 			fmt.Println(err)
 			continue
 		}
 
-		fileName := path.Join(folderName, domain+".txt")
 		ioutil.WriteFile(fileName, []byte(whoisRaw), 0644)
 	}
 }
