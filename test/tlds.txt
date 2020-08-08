@@ -1103,7 +1103,6 @@ li
 py
 kg
 ac
-th
 pn
 in
 tc
@@ -1162,7 +1161,6 @@ hr
 yt
 om
 xn--j6w193g
-pf
 wf
 pt
 jm
@@ -1190,7 +1188,6 @@ williamhill
 fj
 aw
 ice
-bn
 iq
 gf
 cr
@@ -1209,7 +1206,6 @@ pr
 bg
 co
 ht
-mo
 gal
 gt
 ar
@@ -1227,7 +1223,6 @@ ve
 xn--3e0b707e
 pg
 ee
-mm
 er
 ml
 sv
@@ -1238,11 +1233,9 @@ cba
 ro
 trading
 ne
-qa
 sk
 kp
 by
-au
 cm
 tj
 cc
@@ -1277,7 +1270,6 @@ fm
 ba
 xn--y9a3aq
 ua
-nc
 basketball
 vivo
 io
@@ -1402,11 +1394,9 @@ xn--55qw42g
 xn--p1ai
 ki
 xn--l1acc
-int
 sg
 br
 tk
-na
 bb
 za
 theatre

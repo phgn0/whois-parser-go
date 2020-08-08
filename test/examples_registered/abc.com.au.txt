@@ -1,0 +1,24 @@
+Domain Name: ABC.COM.AU
+Registry Domain ID: D407400000001296593-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: whois.auda.org.au
+Last Modified: 2020-08-03T00:01:17Z
+Registrar Name: Tucows (Australia) Pty Ltd trading as OpenSRS
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Reseller Name:
+Status: ok https://afilias.com.au/get-au/whois-status-codes#ok
+Registrant Contact ID: tuv7nnhYI3vuuByo
+Registrant Contact Name: Domain Administrator
+Tech Contact ID: tuCxsOoPc4TQJi9r
+Tech Contact Name: Data Protected Data Protected
+Name Server: NS-363.AWSDNS-45.COM
+Name Server: NS-790.AWSDNS-34.NET
+Name Server: NS-1102.AWSDNS-09.ORG
+Name Server: NS-1700.AWSDNS-20.CO.UK
+DNSSEC: unsigned
+Registrant: Australian Broadcasting Corporation
+Registrant ID: OTHER N/A
+Eligibility Type: Other
+
+>>> Last update of WHOIS database: 2020-08-08T21:13:46Z <<<
