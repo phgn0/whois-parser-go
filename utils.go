@@ -121,6 +121,7 @@ func IsPremiumDomain(data string) bool {
 		"reserved by the registry",
 		"reserved by",
 		"platinum domain",
+		"strings shorter than four symbols long are to be registered directly under .ly only through libya telecom",
 	}
 
 	data = strings.ToLower(data)
@@ -159,6 +160,7 @@ func IsLimitExceeded(data string) bool {
 		"limit exceeded",
 		"query rate is now high",
 		"please try it again",
+		"number of allowed queries exceeded",
 	}
 
 	data = strings.ToLower(data)
