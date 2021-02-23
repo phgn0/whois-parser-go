@@ -72,8 +72,9 @@ func IsPremiumDomain(data string) bool {
 // IsBlockedDomain returns if the domain name is blocked due to a DPML brand name block
 func IsBlockedDomain(data string) bool {
 	blockedKeys := []string{
-		"The registration of this domain is restricted",
+		"the registration of this domain is restricted",
 		"dpml block",
+		"brand protection policy",
 	}
 
 	data = strings.ToLower(data)
