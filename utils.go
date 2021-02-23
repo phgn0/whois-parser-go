@@ -54,6 +54,7 @@ func IsNotFound(data string) bool {
 func IsPremiumDomain(data string) bool {
 	premiumKeys := []string{
 		"reserved domain name",
+		"reserved by registry",
 		"reserved by the registry",
 		"available for purchase",
 	}
