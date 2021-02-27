@@ -58,15 +58,18 @@ func Parse(text string) (whoisInfo WhoisInfo, err error) {
 	name, extension := searchDomain(text)
 	if name == "" {
 		err = ErrDomainInvalidData
-		if IsNotFound(text) {
-			err = ErrDomainNotFound
-		} else if IsPremiumDomain(text) {
-			err = ErrPremiumDomain
-		} else if IsBlockedDomain(text) {
-			err = ErrBlockedDomain
-		} else if IsLimitExceeded(text) {
-			err = ErrDomainLimitExceed
-		}
+	}
+	// errors may occur even if the response contains the domain name
+	if IsNotFound(text) {
+		err = ErrDomainNotFound
+	} else if IsPremiumDomain(text) {
+		err = ErrPremiumDomain
+	} else if IsBlockedDomain(text) {
+		err = ErrBlockedDomain
+	} else if IsLimitExceeded(text) {
+		err = ErrDomainLimitExceed
+	}
+	if err != nil {
 		return
 	}
 

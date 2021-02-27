@@ -36,6 +36,7 @@ func IsNotFound(data string) bool {
 		"not registered",
 		"not been registered",
 		"is free",
+		"status: free",
 		"not available for registration",
 		"object does not exist",
 	}
