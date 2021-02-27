@@ -20,6 +20,7 @@
 package whoisparser
 
 import (
+	"regexp"
 	"sort"
 	"strings"
 )
@@ -33,12 +34,13 @@ func IsNotFound(data string) bool {
 		"not match",
 		"no entries found",
 		"no data found",
+		"no object found",
 		"not registered",
 		"not been registered",
 		"is free",
-		"status: free",
-		"status:             available",
-		"not available for registration",
+		"220 available",
+		"is available for registration",
+		"is available for purchase",
 		"object does not exist",
 		"no information available",
 	}
@@ -53,6 +55,23 @@ func IsNotFound(data string) bool {
 	// "available" may occur in sentences like "not available", so match only prefix here
 	if strings.HasPrefix(data, "available\r\n") {
 		return true
+	}
+
+	statusMessageNotExistsKeys := []string{
+		"free",
+		"available",
+		"not found",
+	}
+
+	statusMessageRegex := regexp.MustCompile(`status:\s*([A-z]*)`)
+	statusMessageMatches := statusMessageRegex.FindStringSubmatch(data)
+	if len(statusMessageMatches) > 0 {
+		statusMessage := statusMessageMatches[1]
+		for _, v := range statusMessageNotExistsKeys {
+			if statusMessage == v {
+				return true
+			}
+		}
 	}
 
 	return false
@@ -83,6 +102,7 @@ func IsBlockedDomain(data string) bool {
 		"the registration of this domain is restricted",
 		"dpml block",
 		"brand protection policy",
+		"not available for registration",
 	}
 
 	data = strings.ToLower(data)
