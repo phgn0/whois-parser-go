@@ -37,8 +37,10 @@ func IsNotFound(data string) bool {
 		"not been registered",
 		"is free",
 		"status: free",
+		"status:             available",
 		"not available for registration",
 		"object does not exist",
+		"no information available",
 	}
 
 	data = strings.ToLower(data)
@@ -46,6 +48,11 @@ func IsNotFound(data string) bool {
 		if strings.Contains(data, v) {
 			return true
 		}
+	}
+
+	// "available" may occur in sentences like "not available", so match only prefix here
+	if strings.HasPrefix(data, "available\r\n") {
+		return true
 	}
 
 	return false
